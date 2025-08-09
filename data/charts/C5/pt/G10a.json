@@ -1,0 +1,82 @@
+[
+    {
+        "country": "Argentina",
+        "amortizationToNeedsRatio": "100.278"
+    },
+    {
+        "country": "Barbados",
+        "amortizationToNeedsRatio": "246.154"
+    },
+    {
+        "country": "Bolívia",
+        "amortizationToNeedsRatio": "53.977"
+    },
+    {
+        "country": "Brasil",
+        "amortizationToNeedsRatio": "67.099"
+    },
+    {
+        "country": "Chile",
+        "amortizationToNeedsRatio": "41.134"
+    },
+    {
+        "country": "Colômbia",
+        "amortizationToNeedsRatio": "25.352"
+    },
+    {
+        "country": "Costa Rica",
+        "amortizationToNeedsRatio": "66.782"
+    },
+    {
+        "country": "Equador",
+        "amortizationToNeedsRatio": "52.424"
+    },
+    {
+        "country": "El Salvador",
+        "amortizationToNeedsRatio": "59.968"
+    },
+    {
+        "country": "Guatemala",
+        "amortizationToNeedsRatio": "31.505"
+    },
+    {
+        "country": "Honduras",
+        "amortizationToNeedsRatio": "48.093"
+    },
+    {
+        "country": "Jamaica",
+        "amortizationToNeedsRatio": "103.217"
+    },
+    {
+        "country": "México",
+        "amortizationToNeedsRatio": "55.159"
+    },
+    {
+        "country": "Panamá",
+        "amortizationToNeedsRatio": "37.149"
+    },
+    {
+        "country": "Paraguai",
+        "amortizationToNeedsRatio": "35.165"
+    },
+    {
+        "country": "Peru",
+        "amortizationToNeedsRatio": "31.747"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "amortizationToNeedsRatio": "22.745"
+    },
+    {
+        "country": "T&T",
+        "amortizationToNeedsRatio": "59.126"
+    },
+    {
+        "country": "Uruguai",
+        "amortizationToNeedsRatio": "45.321"
+    },
+    {
+        "country": "Média",
+        "amortizationToNeedsRatio": "62.231"
+    }
+]

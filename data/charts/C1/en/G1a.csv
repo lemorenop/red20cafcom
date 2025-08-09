@@ -1,0 +1,677 @@
+sdgNumber,sdgName,goal,region,trendMovingAwayFromGoal,correctTrendButProgressTooSlow,goalAchievedOrLikelyToAchieve,insufficientData
+1,End poverty,1.1,Latin America and the Caribbean,1,,,
+1,End poverty,1.2,Latin America and the Caribbean,,1,,
+1,End poverty,1.3,Latin America and the Caribbean,1,,,
+1,End poverty,1.4,Latin America and the Caribbean,,1,,
+1,End poverty,1.5,Latin America and the Caribbean,,1,,
+1,End poverty,1.a,Latin America and the Caribbean,,1,,
+1,End poverty,1.b,Latin America and the Caribbean,,,,1
+2,Ending hunger,2.1,Latin America and the Caribbean,1,,,
+2,Ending hunger,2.2,Latin America and the Caribbean,,1,,
+2,Ending hunger,2.3,Latin America and the Caribbean,,,,1
+2,Ending hunger,2.4,Latin America and the Caribbean,1,,,
+2,Ending hunger,2.5,Latin America and the Caribbean,,1,,
+2,Ending hunger,2.a,Latin America and the Caribbean,1,,,
+2,Ending hunger,2.b,Latin America and the Caribbean,,,1,
+2,Ending hunger,2.c,Latin America and the Caribbean,,1,,
+3,Health and well-being,3.1,Latin America and the Caribbean,,1,,
+3,Health and well-being,3.2,Latin America and the Caribbean,,,1,
+3,Health and well-being,3.3,Latin America and the Caribbean,,1,,
+3,Health and well-being,3.4,Latin America and the Caribbean,1,,,
+3,Health and well-being,3.5,Latin America and the Caribbean,,,1,
+3,Health and well-being,3.6,Latin America and the Caribbean,,1,,
+3,Health and well-being,3.7,Latin America and the Caribbean,,1,,
+3,Health and well-being,3.8,Latin America and the Caribbean,1,,,
+3,Health and well-being,3.9,Latin America and the Caribbean,,,1,
+3,Health and well-being,3.a,Latin America and the Caribbean,,,,
+3,Health and well-being,3.b,Latin America and the Caribbean,1,,,
+3,Health and well-being,3.c,Latin America and the Caribbean,,,1,
+3,Health and well-being,3.d,Latin America and the Caribbean,1,,,
+4,Quality education,4.1,Latin America and the Caribbean,1,,,
+4,Quality education,4.2,Latin America and the Caribbean,,1,,
+4,Quality education,4.3,Latin America and the Caribbean,,,1,
+4,Quality education,4.4,Latin America and the Caribbean,,,,1
+4,Quality education,4.5,Latin America and the Caribbean,,,1,
+4,Quality education,4.6,Latin America and the Caribbean,,1,,
+4,Quality education,4.7,Latin America and the Caribbean,,,,1
+4,Quality education,4.a,Latin America and the Caribbean,,1,,
+4,Quality education,4.b,Latin America and the Caribbean,1,,,
+4,Quality education,4.c,Latin America and the Caribbean,,1,,
+5,Gender equality,5.1,Latin America and the Caribbean,,,,1
+5,Gender equality,5.2,Latin America and the Caribbean,,1,,
+5,Gender equality,5.3,Latin America and the Caribbean,,1,,
+5,Gender equality,5.4,Latin America and the Caribbean,,1,,
+5,Gender equality,5.5,Latin America and the Caribbean,,1,,
+5,Gender equality,5.6,Latin America and the Caribbean,,,,1
+5,Gender equality,5.a,Latin America and the Caribbean,,,,1
+5,Gender equality,5.b,Latin America and the Caribbean,,1,,
+5,Gender equality,5.c,Latin America and the Caribbean,,,1,
+6,Clean water and sanitation,6.1,Latin America and the Caribbean,,1,,
+6,Clean water and sanitation,6.2,Latin America and the Caribbean,,1,,
+6,Clean water and sanitation,6.3,Latin America and the Caribbean,,1,,
+6,Clean water and sanitation,6.4,Latin America and the Caribbean,1,,,
+6,Clean water and sanitation,6.5,Latin America and the Caribbean,,1,,
+6,Clean water and sanitation,6.6,Latin America and the Caribbean,1,,,
+6,Clean water and sanitation,6.a,Latin America and the Caribbean,,1,,
+6,Clean water and sanitation,6.b,Latin America and the Caribbean,1,,,
+7,Affordable and non-polluting energy,7.1,Latin America and the Caribbean,,1,,
+7,Affordable and non-polluting energy,7.2,Latin America and the Caribbean,,,1,
+7,Affordable and non-polluting energy,7.3,Latin America and the Caribbean,,1,,
+7,Affordable and non-polluting energy,7.a,Latin America and the Caribbean,1,,,
+7,Affordable and non-polluting energy,7.b,Latin America and the Caribbean,,,1,
+8,Decent work and economic growth,8.1,Latin America and the Caribbean,,1,,
+8,Decent work and economic growth,8.2,Latin America and the Caribbean,,1,,
+8,Decent work and economic growth,8.3,Latin America and the Caribbean,,1,,
+8,Decent work and economic growth,8.4,Latin America and the Caribbean,1,,,
+8,Decent work and economic growth,8.5,Latin America and the Caribbean,1,,,
+8,Decent work and economic growth,8.6,Latin America and the Caribbean,,1,,
+8,Decent work and economic growth,8.7,Latin America and the Caribbean,,1,,
+8,Decent work and economic growth,8.8,Latin America and the Caribbean,,,1,
+8,Decent work and economic growth,8.9,Latin America and the Caribbean,,,1,
+8,Decent work and economic growth,8.10,Latin America and the Caribbean,,1,,
+8,Decent work and economic growth,8.a,Latin America and the Caribbean,1,,,
+8,Decent work and economic growth,8.b,Latin America and the Caribbean,,,,1
+9,"Industry, innovation and infrastructure",9.1,Latin America and the Caribbean,1,,,
+9,"Industry, innovation and infrastructure",9.2,Latin America and the Caribbean,1,,,
+9,"Industry, innovation and infrastructure",9.3,Latin America and the Caribbean,,,,1
+9,"Industry, innovation and infrastructure",9.4,Latin America and the Caribbean,,,1,
+9,"Industry, innovation and infrastructure",9.5,Latin America and the Caribbean,,1,,
+9,"Industry, innovation and infrastructure",9.a,Latin America and the Caribbean,,1,,
+9,"Industry, innovation and infrastructure",9.b,Latin America and the Caribbean,,,1,
+9,"Industry, innovation and infrastructure",9.c,Latin America and the Caribbean,,,1,
+10,Reduction of inequalities,10.1,Latin America and the Caribbean,,,,1
+10,Reduction of inequalities,10.2,Latin America and the Caribbean,,1,,
+10,Reduction of inequalities,10.3,Latin America and the Caribbean,,,,1
+10,Reduction of inequalities,10.4,Latin America and the Caribbean,,1,,
+10,Reduction of inequalities,10.5,Latin America and the Caribbean,1,,,
+10,Reduction of inequalities,10.6,Latin America and the Caribbean,,1,,
+10,Reduction of inequalities,10.7,Latin America and the Caribbean,1,,,
+10,Reduction of inequalities,10.a,Latin America and the Caribbean,,1,,
+10,Reduction of inequalities,10.b,Latin America and the Caribbean,1,,,
+10,Reduction of inequalities,10.c,Latin America and the Caribbean,,1,,
+11,Sustainable cities and communities,11.1,Latin America and the Caribbean,,1,,
+11,Sustainable cities and communities,11.2,Latin America and the Caribbean,,,,1
+11,Sustainable cities and communities,11.3,Latin America and the Caribbean,,,,1
+11,Sustainable cities and communities,11.4,Latin America and the Caribbean,,,,1
+11,Sustainable cities and communities,11.5,Latin America and the Caribbean,,1,,
+11,Sustainable cities and communities,11.6,Latin America and the Caribbean,,1,,
+11,Sustainable cities and communities,11.7,Latin America and the Caribbean,,,,1
+11,Sustainable cities and communities,11.a,Latin America and the Caribbean,,,,1
+11,Sustainable cities and communities,11.b,Latin America and the Caribbean,,,,1
+11,Sustainable cities and communities,11.c,Latin America and the Caribbean,,,,1
+12,Responsible production and consumption,12.1,Latin America and the Caribbean,,,1,
+12,Responsible production and consumption,12.2,Latin America and the Caribbean,1,,,
+12,Responsible production and consumption,12.3,Latin America and the Caribbean,1,,,
+12,Responsible production and consumption,12.4,Latin America and the Caribbean,1,,,
+12,Responsible production and consumption,12.5,Latin America and the Caribbean,,1,,
+12,Responsible production and consumption,12.6,Latin America and the Caribbean,,,1,
+12,Responsible production and consumption,12.7,Latin America and the Caribbean,,,,1
+12,Responsible production and consumption,12.8,Latin America and the Caribbean,,,,1
+12,Responsible production and consumption,12.a,Latin America and the Caribbean,,,1,
+12,Responsible production and consumption,12.b,Latin America and the Caribbean,1,,,
+12,Responsible production and consumption,12.c,Latin America and the Caribbean,1,,,
+13,Climate action,13.1,Latin America and the Caribbean,,,,1
+13,Climate action,13.2,Latin America and the Caribbean,1,,,
+13,Climate action,13.3,Latin America and the Caribbean,1,,,
+13,Climate action,13.a,Latin America and the Caribbean,,,,1
+13,Climate action,13.b,Latin America and the Caribbean,,,,1
+14,Underwater life,14.1,Latin America and the Caribbean,1,,,
+14,Underwater life,14.2,Latin America and the Caribbean,,1,,
+14,Underwater life,14.3,Latin America and the Caribbean,,,,1
+14,Underwater life,14.4,Latin America and the Caribbean,,,,1
+14,Underwater life,14.5,Latin America and the Caribbean,,,1,
+14,Underwater life,14.6,Latin America and the Caribbean,,,1,
+14,Underwater life,14.7,Latin America and the Caribbean,,1,,
+14,Underwater life,14.a,Latin America and the Caribbean,1,,,
+14,Underwater life,14.b,Latin America and the Caribbean,,1,,
+14,Underwater life,14.c,Latin America and the Caribbean,,,,1
+15,Life of terrestrial ecosystems,15.1,Latin America and the Caribbean,,1,,
+15,Life of terrestrial ecosystems,15.2,Latin America and the Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.3,Latin America and the Caribbean,1,,,
+15,Life of terrestrial ecosystems,15.4,Latin America and the Caribbean,,1,,
+15,Life of terrestrial ecosystems,15.5,Latin America and the Caribbean,1,,,
+15,Life of terrestrial ecosystems,15.6,Latin America and the Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.7,Latin America and the Caribbean,,,,1
+15,Life of terrestrial ecosystems,15.8,Latin America and the Caribbean,,1,,
+15,Life of terrestrial ecosystems,15.9,Latin America and the Caribbean,,,,1
+15,Life of terrestrial ecosystems,15.a,Latin America and the Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.b,Latin America and the Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.c,Latin America and the Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.1,Latin America and the Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.2,Latin America and the Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.3,Latin America and the Caribbean,1,,,
+16,"Peace, justice and strong institutions",16.4,Latin America and the Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.5,Latin America and the Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.6,Latin America and the Caribbean,1,,,
+16,"Peace, justice and strong institutions",16.7,Latin America and the Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.8,Latin America and the Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.9,Latin America and the Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.10,Latin America and the Caribbean,1,,,
+16,"Peace, justice and strong institutions",16.a,Latin America and the Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.b,Latin America and the Caribbean,,,,1
+17,Alliances to achieve objectives,17.1,Latin America and the Caribbean,1,,,
+17,Alliances to achieve objectives,17.2,Latin America and the Caribbean,,,,1
+17,Alliances to achieve objectives,17.3,Latin America and the Caribbean,,,1,
+17,Alliances to achieve objectives,17.4,Latin America and the Caribbean,,1,,
+17,Alliances to achieve objectives,17.5,Latin America and the Caribbean,,,,1
+17,Alliances to achieve objectives,17.6,Latin America and the Caribbean,,,1,
+17,Alliances to achieve objectives,17.7,Latin America and the Caribbean,,1,,
+17,Alliances to achieve objectives,17.8,Latin America and the Caribbean,,,1,
+17,Alliances to achieve objectives,17.9,Latin America and the Caribbean,,,1,
+17,Alliances to achieve objectives,17.10,Latin America and the Caribbean,1,,,
+17,Alliances to achieve objectives,17.11,Latin America and the Caribbean,1,,,
+17,Alliances to achieve objectives,17.12,Latin America and the Caribbean,,1,,
+17,Alliances to achieve objectives,17.13,Latin America and the Caribbean,1,,,
+17,Alliances to achieve objectives,17.14,Latin America and the Caribbean,,,,1
+17,Alliances to achieve objectives,17.15,Latin America and the Caribbean,,,,1
+17,Alliances to achieve objectives,17.16,Latin America and the Caribbean,,,,1
+17,Alliances to achieve objectives,17.17,Latin America and the Caribbean,1,,,
+17,Alliances to achieve objectives,17.18,Latin America and the Caribbean,,1,,
+17,Alliances to achieve objectives,17.19,Latin America and the Caribbean,,,1,
+1,End poverty,1.1,South America,1,,,
+1,End poverty,1.2,South America,,1,,
+1,End poverty,1.3,South America,1,,,
+1,End poverty,1.4,South America,,1,,
+1,End poverty,1.5,South America,,,1,
+1,End poverty,1.a,South America,,1,,
+1,End poverty,1.b,South America,,,,1
+2,Ending hunger,2.1,South America,1,,,
+2,Ending hunger,2.2,South America,,1,,
+2,Ending hunger,2.3,South America,,,,1
+2,Ending hunger,2.4,South America,1,,,
+2,Ending hunger,2.5,South America,,,1,
+2,Ending hunger,2.a,South America,1,,,
+2,Ending hunger,2.b,South America,,,,1
+2,Ending hunger,2.c,South America,1,,,
+3,Health and well-being,3.1,South America,1,,,
+3,Health and well-being,3.2,South America,,,1,
+3,Health and well-being,3.3,South America,1,,,
+3,Health and well-being,3.4,South America,1,,,
+3,Health and well-being,3.5,South America,,,1,
+3,Health and well-being,3.6,South America,,1,,
+3,Health and well-being,3.7,South America,1,,,
+3,Health and well-being,3.8,South America,,1,,
+3,Health and well-being,3.9,South America,,,1,
+3,Health and well-being,3.a,South America,,,1,
+3,Health and well-being,3.b,South America,1,,,
+3,Health and well-being,3.c,South America,,,1,
+3,Health and well-being,3.d,South America,1,,,
+4,Quality education,4.1,South America,,1,,
+4,Quality education,4.2,South America,,1,,
+4,Quality education,4.3,South America,,,1,
+4,Quality education,4.4,South America,,,,1
+4,Quality education,4.5,South America,,1,,
+4,Quality education,4.6,South America,,1,,
+4,Quality education,4.7,South America,,,,1
+4,Quality education,4.a,South America,,1,,
+4,Quality education,4.b,South America,1,,,
+4,Quality education,4.c,South America,,1,,
+5,Gender equality,5.1,South America,,,,1
+5,Gender equality,5.2,South America,1,,,
+5,Gender equality,5.3,South America,,,,1
+5,Gender equality,5.4,South America,1,,,
+5,Gender equality,5.5,South America,,1,,
+5,Gender equality,5.6,South America,,,,1
+5,Gender equality,5.a,South America,,,,1
+5,Gender equality,5.b,South America,,1,,
+5,Gender equality,5.c,South America,,1,,
+6,Clean water and sanitation,6.1,South America,,1,,
+6,Clean water and sanitation,6.2,South America,,1,,
+6,Clean water and sanitation,6.3,South America,,1,,
+6,Clean water and sanitation,6.4,South America,,1,,
+6,Clean water and sanitation,6.5,South America,,1,,
+6,Clean water and sanitation,6.6,South America,,1,,
+6,Clean water and sanitation,6.a,South America,1,,,
+6,Clean water and sanitation,6.b,South America,,,,1
+7,Affordable and non-polluting energy,7.1,South America,,,1,
+7,Affordable and non-polluting energy,7.2,South America,,,1,
+7,Affordable and non-polluting energy,7.3,South America,,1,,
+7,Affordable and non-polluting energy,7.a,South America,1,,,
+7,Affordable and non-polluting energy,7.b,South America,,,1,
+8,Decent work and economic growth,8.1,South America,,,1,
+8,Decent work and economic growth,8.2,South America,,1,,
+8,Decent work and economic growth,8.3,South America,1,,,
+8,Decent work and economic growth,8.4,South America,1,,,
+8,Decent work and economic growth,8.5,South America,,1,,
+8,Decent work and economic growth,8.6,South America,,1,,
+8,Decent work and economic growth,8.7,South America,,,,1
+8,Decent work and economic growth,8.8,South America,,,1,
+8,Decent work and economic growth,8.9,South America,1,,,
+8,Decent work and economic growth,8.10,South America,1,,,
+8,Decent work and economic growth,8.a,South America,1,,,
+8,Decent work and economic growth,8.b,South America,,,,1
+9,"Industry, innovation and infrastructure",9.1,South America,1,,,
+9,"Industry, innovation and infrastructure",9.2,South America,1,,,
+9,"Industry, innovation and infrastructure",9.3,South America,,,,1
+9,"Industry, innovation and infrastructure",9.4,South America,,,1,
+9,"Industry, innovation and infrastructure",9.5,South America,1,,,
+9,"Industry, innovation and infrastructure",9.a,South America,1,,,
+9,"Industry, innovation and infrastructure",9.b,South America,1,,,
+9,"Industry, innovation and infrastructure",9.c,South America,,1,,
+10,Reduction of inequalities,10.1,South America,,,,1
+10,Reduction of inequalities,10.2,South America,,1,,
+10,Reduction of inequalities,10.3,South America,,,,1
+10,Reduction of inequalities,10.4,South America,,1,,
+10,Reduction of inequalities,10.5,South America,1,,,
+10,Reduction of inequalities,10.6,South America,,1,,
+10,Reduction of inequalities,10.7,South America,1,,,
+10,Reduction of inequalities,10.a,South America,1,1,,
+10,Reduction of inequalities,10.b,South America,1,,,
+10,Reduction of inequalities,10.c,South America,,1,,
+11,Sustainable cities and communities,11.1,South America,1,,,
+11,Sustainable cities and communities,11.2,South America,,,,1
+11,Sustainable cities and communities,11.3,South America,,,,1
+11,Sustainable cities and communities,11.4,South America,,,,1
+11,Sustainable cities and communities,11.5,South America,,1,,
+11,Sustainable cities and communities,11.6,South America,,1,,
+11,Sustainable cities and communities,11.7,South America,,,,1
+11,Sustainable cities and communities,11.a,South America,,,,1
+11,Sustainable cities and communities,11.b,South America,,,,1
+11,Sustainable cities and communities,11.c,South America,,,,1
+12,Responsible production and consumption,12.1,South America,,,,1
+12,Responsible production and consumption,12.2,South America,1,,,
+12,Responsible production and consumption,12.3,South America,1,,,
+12,Responsible production and consumption,12.4,South America,1,,,
+12,Responsible production and consumption,12.5,South America,,,,1
+12,Responsible production and consumption,12.6,South America,,,1,
+12,Responsible production and consumption,12.7,South America,,,,1
+12,Responsible production and consumption,12.8,South America,,,,1
+12,Responsible production and consumption,12.a,South America,,,1,
+12,Responsible production and consumption,12.b,South America,1,,,
+12,Responsible production and consumption,12.c,South America,,1,,
+13,Climate action,13.1,South America,,,,1
+13,Climate action,13.2,South America,,,,1
+13,Climate action,13.3,South America,1,,,
+13,Climate action,13.a,South America,,,,1
+13,Climate action,13.b,South America,,,,1
+14,Underwater life,14.1,South America,1,,,
+14,Underwater life,14.2,South America,1,,,
+14,Underwater life,14.3,South America,,,,1
+14,Underwater life,14.4,South America,,,,1
+14,Underwater life,14.5,South America,1,,,
+14,Underwater life,14.6,South America,,1,,
+14,Underwater life,14.7,South America,,,1,
+14,Underwater life,14.a,South America,1,,,
+14,Underwater life,14.b,South America,,1,,
+14,Underwater life,14.c,South America,,,,1
+15,Life of terrestrial ecosystems,15.1,South America,,1,,
+15,Life of terrestrial ecosystems,15.2,South America,,1,,
+15,Life of terrestrial ecosystems,15.3,South America,,,1,
+15,Life of terrestrial ecosystems,15.4,South America,,,1,
+15,Life of terrestrial ecosystems,15.5,South America,1,,,
+15,Life of terrestrial ecosystems,15.6,South America,,1,,
+15,Life of terrestrial ecosystems,15.7,South America,,,,1
+15,Life of terrestrial ecosystems,15.8,South America,,1,,
+15,Life of terrestrial ecosystems,15.9,South America,,,,1
+15,Life of terrestrial ecosystems,15.a,South America,,,1,
+15,Life of terrestrial ecosystems,15.b,South America,,,1,
+15,Life of terrestrial ecosystems,15.c,South America,,,,1
+16,"Peace, justice and strong institutions",16.1,South America,1,,,
+16,"Peace, justice and strong institutions",16.2,South America,,1,,
+16,"Peace, justice and strong institutions",16.3,South America,,,1,
+16,"Peace, justice and strong institutions",16.4,South America,,,,1
+16,"Peace, justice and strong institutions",16.5,South America,1,,,
+16,"Peace, justice and strong institutions",16.6,South America,1,,,
+16,"Peace, justice and strong institutions",16.7,South America,,,,1
+16,"Peace, justice and strong institutions",16.8,South America,,1,,
+16,"Peace, justice and strong institutions",16.9,South America,,,,1
+16,"Peace, justice and strong institutions",16.10,South America,,,,1
+16,"Peace, justice and strong institutions",16.a,South America,,,1,
+16,"Peace, justice and strong institutions",16.b,South America,,,,1
+17,Alliances to achieve objectives,17.1,South America,1,,,
+17,Alliances to achieve objectives,17.2,South America,,,,1
+17,Alliances to achieve objectives,17.3,South America,,,1,
+17,Alliances to achieve objectives,17.4,South America,,,1,
+17,Alliances to achieve objectives,17.5,South America,,,,1
+17,Alliances to achieve objectives,17.6,South America,,,1,
+17,Alliances to achieve objectives,17.7,South America,,,,1
+17,Alliances to achieve objectives,17.8,South America,,,1,
+17,Alliances to achieve objectives,17.9,South America,,,1,
+17,Alliances to achieve objectives,17.10,South America,1,,,
+17,Alliances to achieve objectives,17.11,South America,1,,,
+17,Alliances to achieve objectives,17.12,South America,,1,,
+17,Alliances to achieve objectives,17.13,South America,1,,,
+17,Alliances to achieve objectives,17.14,South America,,,,1
+17,Alliances to achieve objectives,17.15,South America,,,,1
+17,Alliances to achieve objectives,17.16,South America,,,,1
+17,Alliances to achieve objectives,17.17,South America,,,1,
+17,Alliances to achieve objectives,17.18,South America,,,,1
+17,Alliances to achieve objectives,17.19,South America,,,1,
+1,End poverty,1.1,Central America,,1,,
+1,End poverty,1.2,Central America,,1,,
+1,End poverty,1.3,Central America,,1,,
+1,End poverty,1.4,Central America,,1,,
+1,End poverty,1.5,Central America,1,,,
+1,End poverty,1.a,Central America,1,,,
+1,End poverty,1.b,Central America,,,,1
+2,Ending hunger,2.1,Central America,1,,,
+2,Ending hunger,2.2,Central America,,1,,
+2,Ending hunger,2.3,Central America,,,,1
+2,Ending hunger,2.4,Central America,1,,,
+2,Ending hunger,2.5,Central America,1,,,
+2,Ending hunger,2.a,Central America,1,,,
+2,Ending hunger,2.b,Central America,,,,1
+2,Ending hunger,2.c,Central America,1,,,
+3,Health and well-being,3.1,Central America,1,,,
+3,Health and well-being,3.2,Central America,,,1,
+3,Health and well-being,3.3,Central America,1,,,
+3,Health and well-being,3.4,Central America,1,,,
+3,Health and well-being,3.5,Central America,1,,,
+3,Health and well-being,3.6,Central America,1,,,
+3,Health and well-being,3.7,Central America,,,1,
+3,Health and well-being,3.8,Central America,1,,,
+3,Health and well-being,3.9,Central America,,,1,
+3,Health and well-being,3.a,Central America,,,1,
+3,Health and well-being,3.b,Central America,1,,,
+3,Health and well-being,3.c,Central America,,,1,
+3,Health and well-being,3.d,Central America,1,,,
+4,Quality education,4.1,Central America,1,,,
+4,Quality education,4.2,Central America,,1,,
+4,Quality education,4.3,Central America,,,1,
+4,Quality education,4.4,Central America,,,,1
+4,Quality education,4.5,Central America,,1,,
+4,Quality education,4.6,Central America,,1,,
+4,Quality education,4.7,Central America,,,,1
+4,Quality education,4.a,Central America,,1,,
+4,Quality education,4.b,Central America,1,,,
+4,Quality education,4.c,Central America,,1,,
+5,Gender equality,5.1,Central America,,,,1
+5,Gender equality,5.2,Central America,1,,,
+5,Gender equality,5.3,Central America,,,,1
+5,Gender equality,5.4,Central America,1,,,
+5,Gender equality,5.5,Central America,,1,,
+5,Gender equality,5.6,Central America,,,,1
+5,Gender equality,5.a,Central America,,,,1
+5,Gender equality,5.b,Central America,,,1,
+5,Gender equality,5.c,Central America,1,,,
+6,Clean water and sanitation,6.1,Central America,,1,,
+6,Clean water and sanitation,6.2,Central America,,1,,
+6,Clean water and sanitation,6.3,Central America,,,1,
+6,Clean water and sanitation,6.4,Central America,1,,,
+6,Clean water and sanitation,6.5,Central America,1,,,
+6,Clean water and sanitation,6.6,Central America,1,,,
+6,Clean water and sanitation,6.a,Central America,1,,,
+6,Clean water and sanitation,6.b,Central America,,,,1
+7,Affordable and non-polluting energy,7.1,Central America,,1,,
+7,Affordable and non-polluting energy,7.2,Central America,,1,,
+7,Affordable and non-polluting energy,7.3,Central America,,1,,
+7,Affordable and non-polluting energy,7.a,Central America,1,,,
+7,Affordable and non-polluting energy,7.b,Central America,,,1,
+8,Decent work and economic growth,8.1,Central America,,,1,
+8,Decent work and economic growth,8.2,Central America,1,,,
+8,Decent work and economic growth,8.3,Central America,,1,,
+8,Decent work and economic growth,8.4,Central America,1,,,
+8,Decent work and economic growth,8.5,Central America,1,,,
+8,Decent work and economic growth,8.6,Central America,1,,,
+8,Decent work and economic growth,8.7,Central America,,,,1
+8,Decent work and economic growth,8.8,Central America,1,,,
+8,Decent work and economic growth,8.9,Central America,1,,,
+8,Decent work and economic growth,8.10,Central America,,1,,
+8,Decent work and economic growth,8.a,Central America,,,1,
+8,Decent work and economic growth,8.b,Central America,,,,1
+9,"Industry, innovation and infrastructure",9.1,Central America,,,1,
+9,"Industry, innovation and infrastructure",9.2,Central America,,1,,
+9,"Industry, innovation and infrastructure",9.3,Central America,,,,1
+9,"Industry, innovation and infrastructure",9.4,Central America,,,1,
+9,"Industry, innovation and infrastructure",9.5,Central America,,1,,
+9,"Industry, innovation and infrastructure",9.a,Central America,1,,,
+9,"Industry, innovation and infrastructure",9.b,Central America,,,1,
+9,"Industry, innovation and infrastructure",9.c,Central America,,1,,
+10,Reduction of inequalities,10.1,Central America,,,,1
+10,Reduction of inequalities,10.2,Central America,1,,,
+10,Reduction of inequalities,10.3,Central America,,,,1
+10,Reduction of inequalities,10.4,Central America,,1,,
+10,Reduction of inequalities,10.5,Central America,1,,,
+10,Reduction of inequalities,10.6,Central America,,1,,
+10,Reduction of inequalities,10.7,Central America,1,,,
+10,Reduction of inequalities,10.a,Central America,1,,,
+10,Reduction of inequalities,10.b,Central America,,,1,
+10,Reduction of inequalities,10.c,Central America,,,,1
+11,Sustainable cities and communities,11.1,Central America,,1,,
+11,Sustainable cities and communities,11.2,Central America,,,,1
+11,Sustainable cities and communities,11.3,Central America,,,,1
+11,Sustainable cities and communities,11.4,Central America,,,,1
+11,Sustainable cities and communities,11.5,Central America,,1,,
+11,Sustainable cities and communities,11.6,Central America,,1,,
+11,Sustainable cities and communities,11.7,Central America,,,,1
+11,Sustainable cities and communities,11.a,Central America,,,,1
+11,Sustainable cities and communities,11.b,Central America,,,,1
+11,Sustainable cities and communities,11.c,Central America,,,,1
+12,Responsible production and consumption,12.1,Central America,,,,1
+12,Responsible production and consumption,12.2,Central America,1,,,
+12,Responsible production and consumption,12.3,Central America,,,,1
+12,Responsible production and consumption,12.4,Central America,1,,,
+12,Responsible production and consumption,12.5,Central America,,,,1
+12,Responsible production and consumption,12.6,Central America,,,1,
+12,Responsible production and consumption,12.7,Central America,,,,1
+12,Responsible production and consumption,12.8,Central America,,,,1
+12,Responsible production and consumption,12.a,Central America,,,1,
+12,Responsible production and consumption,12.b,Central America,1,,,
+12,Responsible production and consumption,12.c,Central America,1,,,
+13,Climate action,13.1,Central America,,,,1
+13,Climate action,13.2,Central America,,,,1
+13,Climate action,13.3,Central America,1,,,
+13,Climate action,13.a,Central America,,,,1
+13,Climate action,13.b,Central America,,,,1
+14,Underwater life,14.1,Central America,1,,,
+14,Underwater life,14.2,Central America,,1,,
+14,Underwater life,14.3,Central America,,,,1
+14,Underwater life,14.4,Central America,,,,1
+14,Underwater life,14.5,Central America,1,,,
+14,Underwater life,14.6,Central America,1,,,
+14,Underwater life,14.7,Central America,,,1,
+14,Underwater life,14.a,Central America,,,1,
+14,Underwater life,14.b,Central America,1,,,
+14,Underwater life,14.c,Central America,,,,1
+15,Life of terrestrial ecosystems,15.1,Central America,,1,,
+15,Life of terrestrial ecosystems,15.2,Central America,1,,,
+15,Life of terrestrial ecosystems,15.3,Central America,1,,,
+15,Life of terrestrial ecosystems,15.4,Central America,,,1,
+15,Life of terrestrial ecosystems,15.5,Central America,1,,,
+15,Life of terrestrial ecosystems,15.6,Central America,,1,,
+15,Life of terrestrial ecosystems,15.7,Central America,,,,1
+15,Life of terrestrial ecosystems,15.8,Central America,,1,,
+15,Life of terrestrial ecosystems,15.9,Central America,,,,1
+15,Life of terrestrial ecosystems,15.a,Central America,,,1,
+15,Life of terrestrial ecosystems,15.b,Central America,,,1,
+15,Life of terrestrial ecosystems,15.c,Central America,,,,1
+16,"Peace, justice and strong institutions",16.1,Central America,1,,,
+16,"Peace, justice and strong institutions",16.2,Central America,,1,,
+16,"Peace, justice and strong institutions",16.3,Central America,,1,,
+16,"Peace, justice and strong institutions",16.4,Central America,,,,1
+16,"Peace, justice and strong institutions",16.5,Central America,1,,,
+16,"Peace, justice and strong institutions",16.6,Central America,1,,,
+16,"Peace, justice and strong institutions",16.7,Central America,,,,1
+16,"Peace, justice and strong institutions",16.8,Central America,,1,,
+16,"Peace, justice and strong institutions",16.9,Central America,,,,1
+16,"Peace, justice and strong institutions",16.10,Central America,,,,1
+16,"Peace, justice and strong institutions",16.a,Central America,,,1,
+16,"Peace, justice and strong institutions",16.b,Central America,,,,1
+17,Alliances to achieve objectives,17.1,Central America,1,,,
+17,Alliances to achieve objectives,17.2,Central America,,,,1
+17,Alliances to achieve objectives,17.3,Central America,,,1,
+17,Alliances to achieve objectives,17.4,Central America,1,,,
+17,Alliances to achieve objectives,17.5,Central America,,,,1
+17,Alliances to achieve objectives,17.6,Central America,,,1,
+17,Alliances to achieve objectives,17.7,Central America,,,,1
+17,Alliances to achieve objectives,17.8,Central America,,1,,
+17,Alliances to achieve objectives,17.9,Central America,,,1,
+17,Alliances to achieve objectives,17.10,Central America,1,,,
+17,Alliances to achieve objectives,17.11,Central America,1,,,
+17,Alliances to achieve objectives,17.12,Central America,,1,,
+17,Alliances to achieve objectives,17.13,Central America,1,,,
+17,Alliances to achieve objectives,17.14,Central America,,,,1
+17,Alliances to achieve objectives,17.15,Central America,,,,1
+17,Alliances to achieve objectives,17.16,Central America,,,,1
+17,Alliances to achieve objectives,17.17,Central America,1,,,
+17,Alliances to achieve objectives,17.18,Central America,,,,1
+17,Alliances to achieve objectives,17.19,Central America,,1,,
+1,End poverty,1.1,Caribbean,1,,,
+1,End poverty,1.2,Caribbean,,,,1
+1,End poverty,1.3,Caribbean,,1,,
+1,End poverty,1.4,Caribbean,,1,,
+1,End poverty,1.5,Caribbean,1,,,
+1,End poverty,1.a,Caribbean,1,,,
+1,End poverty,1.b,Caribbean,,,,1
+2,Ending hunger,2.1,Caribbean,1,,,
+2,Ending hunger,2.2,Caribbean,,1,,
+2,Ending hunger,2.3,Caribbean,,,,1
+2,Ending hunger,2.4,Caribbean,1,,,
+2,Ending hunger,2.5,Caribbean,,1,,
+2,Ending hunger,2.a,Caribbean,,1,,
+2,Ending hunger,2.b,Caribbean,,,,1
+2,Ending hunger,2.c,Caribbean,,,1,
+3,Health and well-being,3.1,Caribbean,1,,,
+3,Health and well-being,3.2,Caribbean,,1,,
+3,Health and well-being,3.3,Caribbean,,1,,
+3,Health and well-being,3.4,Caribbean,1,,,
+3,Health and well-being,3.5,Caribbean,1,,,
+3,Health and well-being,3.6,Caribbean,1,,,
+3,Health and well-being,3.7,Caribbean,1,,,
+3,Health and well-being,3.8,Caribbean,1,,,
+3,Health and well-being,3.9,Caribbean,,,1,
+3,Health and well-being,3.a,Caribbean,,,1,
+3,Health and well-being,3.b,Caribbean,,1,,
+3,Health and well-being,3.c,Caribbean,,,,1
+3,Health and well-being,3.d,Caribbean,1,,,
+4,Quality education,4.1,Caribbean,1,,,
+4,Quality education,4.2,Caribbean,1,,,
+4,Quality education,4.3,Caribbean,1,,,
+4,Quality education,4.4,Caribbean,,,,1
+4,Quality education,4.5,Caribbean,,1,,
+4,Quality education,4.6,Caribbean,,1,,
+4,Quality education,4.7,Caribbean,,,,1
+4,Quality education,4.a,Caribbean,1,,,
+4,Quality education,4.b,Caribbean,,,1,
+4,Quality education,4.c,Caribbean,,,1,
+5,Gender equality,5.1,Caribbean,,,,1
+5,Gender equality,5.2,Caribbean,1,,,
+5,Gender equality,5.3,Caribbean,,,,1
+5,Gender equality,5.4,Caribbean,,,1,
+5,Gender equality,5.5,Caribbean,,1,,
+5,Gender equality,5.6,Caribbean,,,,1
+5,Gender equality,5.a,Caribbean,,,,1
+5,Gender equality,5.b,Caribbean,,1,,
+5,Gender equality,5.c,Caribbean,,1,,
+6,Clean water and sanitation,6.1,Caribbean,1,,,
+6,Clean water and sanitation,6.2,Caribbean,,1,,
+6,Clean water and sanitation,6.3,Caribbean,1,,,
+6,Clean water and sanitation,6.4,Caribbean,1,,,
+6,Clean water and sanitation,6.5,Caribbean,1,,,
+6,Clean water and sanitation,6.6,Caribbean,1,,,
+6,Clean water and sanitation,6.a,Caribbean,,,1,
+6,Clean water and sanitation,6.b,Caribbean,,,,1
+7,Affordable and non-polluting energy,7.1,Caribbean,,1,,
+7,Affordable and non-polluting energy,7.2,Caribbean,,1,,
+7,Affordable and non-polluting energy,7.3,Caribbean,,1,,
+7,Affordable and non-polluting energy,7.a,Caribbean,1,,,
+7,Affordable and non-polluting energy,7.b,Caribbean,,1,,
+8,Decent work and economic growth,8.1,Caribbean,,,1,
+8,Decent work and economic growth,8.2,Caribbean,,1,,
+8,Decent work and economic growth,8.3,Caribbean,1,,,
+8,Decent work and economic growth,8.4,Caribbean,1,,,
+8,Decent work and economic growth,8.5,Caribbean,,1,,
+8,Decent work and economic growth,8.6,Caribbean,,1,,
+8,Decent work and economic growth,8.7,Caribbean,,,,1
+8,Decent work and economic growth,8.8,Caribbean,1,,,
+8,Decent work and economic growth,8.9,Caribbean,,,1,
+8,Decent work and economic growth,8.10,Caribbean,,1,,
+8,Decent work and economic growth,8.a,Caribbean,,,1,
+8,Decent work and economic growth,8.b,Caribbean,,,,1
+9,"Industry, innovation and infrastructure",9.1,Caribbean,1,,,
+9,"Industry, innovation and infrastructure",9.2,Caribbean,1,,,
+9,"Industry, innovation and infrastructure",9.3,Caribbean,,,,1
+9,"Industry, innovation and infrastructure",9.4,Caribbean,,,1,
+9,"Industry, innovation and infrastructure",9.5,Caribbean,,1,,
+9,"Industry, innovation and infrastructure",9.a,Caribbean,1,,,
+9,"Industry, innovation and infrastructure",9.b,Caribbean,1,,,
+9,"Industry, innovation and infrastructure",9.c,Caribbean,,,1,
+10,Reduction of inequalities,10.1,Caribbean,,,,1
+10,Reduction of inequalities,10.2,Caribbean,,,1,
+10,Reduction of inequalities,10.3,Caribbean,,,,1
+10,Reduction of inequalities,10.4,Caribbean,,1,,
+10,Reduction of inequalities,10.5,Caribbean,,1,,
+10,Reduction of inequalities,10.6,Caribbean,,1,,
+10,Reduction of inequalities,10.7,Caribbean,1,,,
+10,Reduction of inequalities,10.a,Caribbean,1,,,
+10,Reduction of inequalities,10.b,Caribbean,1,,,
+10,Reduction of inequalities,10.c,Caribbean,,1,,
+11,Sustainable cities and communities,11.1,Caribbean,1,,,
+11,Sustainable cities and communities,11.2,Caribbean,,,,1
+11,Sustainable cities and communities,11.3,Caribbean,,,,1
+11,Sustainable cities and communities,11.4,Caribbean,,,,1
+11,Sustainable cities and communities,11.5,Caribbean,,1,,
+11,Sustainable cities and communities,11.6,Caribbean,,1,,
+11,Sustainable cities and communities,11.7,Caribbean,,,,1
+11,Sustainable cities and communities,11.a,Caribbean,,,,1
+11,Sustainable cities and communities,11.b,Caribbean,,,,1
+11,Sustainable cities and communities,11.c,Caribbean,,,,1
+12,Responsible production and consumption,12.1,Caribbean,,,,1
+12,Responsible production and consumption,12.2,Caribbean,1,,,
+12,Responsible production and consumption,12.3,Caribbean,1,,,
+12,Responsible production and consumption,12.4,Caribbean,1,,,
+12,Responsible production and consumption,12.5,Caribbean,,,,1
+12,Responsible production and consumption,12.6,Caribbean,,,1,
+12,Responsible production and consumption,12.7,Caribbean,,,,1
+12,Responsible production and consumption,12.8,Caribbean,,,,1
+12,Responsible production and consumption,12.a,Caribbean,,,1,
+12,Responsible production and consumption,12.b,Caribbean,1,,,
+12,Responsible production and consumption,12.c,Caribbean,,,1,
+13,Climate action,13.1,Caribbean,,,,1
+13,Climate action,13.2,Caribbean,,,,1
+13,Climate action,13.3,Caribbean,1,,,
+13,Climate action,13.a,Caribbean,,,,1
+13,Climate action,13.b,Caribbean,,,,1
+14,Underwater life,14.1,Caribbean,1,,,
+14,Underwater life,14.2,Caribbean,1,,,
+14,Underwater life,14.3,Caribbean,,,,1
+14,Underwater life,14.4,Caribbean,,,,1
+14,Underwater life,14.5,Caribbean,,1,,
+14,Underwater life,14.6,Caribbean,,,1,
+14,Underwater life,14.7,Caribbean,1,,,
+14,Underwater life,14.a,Caribbean,,,,1
+14,Underwater life,14.b,Caribbean,1,,,
+14,Underwater life,14.c,Caribbean,,,,1
+15,Life of terrestrial ecosystems,15.1,Caribbean,,1,,
+15,Life of terrestrial ecosystems,15.2,Caribbean,1,,,
+15,Life of terrestrial ecosystems,15.3,Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.4,Caribbean,,1,,
+15,Life of terrestrial ecosystems,15.5,Caribbean,1,,,
+15,Life of terrestrial ecosystems,15.6,Caribbean,1,,,
+15,Life of terrestrial ecosystems,15.7,Caribbean,,,,1
+15,Life of terrestrial ecosystems,15.8,Caribbean,,1,,
+15,Life of terrestrial ecosystems,15.9,Caribbean,,,,1
+15,Life of terrestrial ecosystems,15.a,Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.b,Caribbean,,,1,
+15,Life of terrestrial ecosystems,15.c,Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.1,Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.2,Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.3,Caribbean,1,,,
+16,"Peace, justice and strong institutions",16.4,Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.5,Caribbean,,,1,
+16,"Peace, justice and strong institutions",16.6,Caribbean,1,,,
+16,"Peace, justice and strong institutions",16.7,Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.8,Caribbean,,1,,
+16,"Peace, justice and strong institutions",16.9,Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.10,Caribbean,,,,1
+16,"Peace, justice and strong institutions",16.a,Caribbean,,,1,
+16,"Peace, justice and strong institutions",16.b,Caribbean,,,,1
+17,Alliances to achieve objectives,17.1,Caribbean,1,,,
+17,Alliances to achieve objectives,17.2,Caribbean,,,,1
+17,Alliances to achieve objectives,17.3,Caribbean,,1,,
+17,Alliances to achieve objectives,17.4,Caribbean,,,1,
+17,Alliances to achieve objectives,17.5,Caribbean,,,,1
+17,Alliances to achieve objectives,17.6,Caribbean,,1,,
+17,Alliances to achieve objectives,17.7,Caribbean,,,,1
+17,Alliances to achieve objectives,17.8,Caribbean,,1,,
+17,Alliances to achieve objectives,17.9,Caribbean,1,,,
+17,Alliances to achieve objectives,17.10,Caribbean,1,,,
+17,Alliances to achieve objectives,17.11,Caribbean,1,,,
+17,Alliances to achieve objectives,17.12,Caribbean,1,,,
+17,Alliances to achieve objectives,17.13,Caribbean,1,,,
+17,Alliances to achieve objectives,17.14,Caribbean,,,,1
+17,Alliances to achieve objectives,17.15,Caribbean,,,,1
+17,Alliances to achieve objectives,17.16,Caribbean,,,,1
+17,Alliances to achieve objectives,17.17,Caribbean,1,,,
+17,Alliances to achieve objectives,17.18,Caribbean,,,,1
+17,Alliances to achieve objectives,17.19,Caribbean,1,,,

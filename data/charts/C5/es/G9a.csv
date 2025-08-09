@@ -1,0 +1,181 @@
+country,index,region
+Canadá,24,OCDE
+Uruguay,27,América Latina y el Caribe
+Barbados,31,América Latina y el Caribe
+EE. UU.,31,OCDE
+Chile,34,América Latina y el Caribe
+Bahamas,36,América Latina y el Caribe
+San Vicente y las Granadinas,40,América Latina y el Caribe
+Dominica,44,América Latina y el Caribe
+Costa Rica,45,América Latina y el Caribe
+Santa Lucía,45,América Latina y el Caribe
+Granada,47,América Latina y el Caribe
+Jamaica,56,América Latina y el Caribe
+Cuba,58,América Latina y el Caribe
+Trinidad y Tobago,58,América Latina y el Caribe
+Colombia,60,América Latina y el Caribe
+Guyana,60,América Latina y el Caribe
+Surinam,60,América Latina y el Caribe
+Argentina,63,América Latina y el Caribe
+Brasil,64,América Latina y el Caribe
+Rep. Dominicana,65,América Latina y el Caribe
+Panamá,65,América Latina y el Caribe
+Ecuador,66,América Latina y el Caribe
+Perú,67,América Latina y el Caribe
+El Salvador,69,América Latina y el Caribe
+México,69,América Latina y el Caribe
+Bolivia,71,América Latina y el Caribe
+Paraguay,72,América Latina y el Caribe
+Guatemala,77,América Latina y el Caribe
+Honduras,77,América Latina y el Caribe
+Haití,83,América Latina y el Caribe
+Nicaragua,83,América Latina y el Caribe
+Venezuela,87,América Latina y el Caribe
+Nueva Zelanda,15,OCDE
+Singapur,17,Otros países
+Australia,25,OCDE
+Hong Kong,25,Otros países
+Japón,27,OCDE
+Bután,32,Otros países
+Taiwán,33,Otros países
+Corea del Sur,37,OCDE
+Fiyi,48,Otros países
+Malasia,50,Otros países
+Vanuatu,52,Otros países
+Islas Salomón,57,Otros países
+Timor Oriental,57,Otros países
+China,58,Otros países
+Vietnam,59,Otros países
+India,61,Otros países
+Maldivas,61,Otros países
+Nepal,65,Otros países
+Tailandia,65,Otros países
+Indonesia,66,Otros países
+Filipinas,66,Otros países
+Sri Lanka,66,Otros países
+Mongolia,67,Otros países
+Pakistán,71,Otros países
+Papúa Nueva Guinea,71,Otros países
+Laos,72,Otros países
+Bangladés,76,Otros países
+Camboya,78,Otros países
+Afganistán,80,Otros países
+Birmania,80,Otros países
+Corea del Norte,83,Otros países
+Georgia,47,Otros países
+Armenia,53,Otros países
+Montenegro,54,Otros países
+Moldavia,58,Otros países
+Macedonia del Norte,58,Otros países
+Kosovo,59,Otros países
+Kazajistán,61,Otros países
+Albania,63,Otros países
+Bielorrusia,63,Otros países
+Serbia,64,Otros países
+Ucrania,64,Otros países
+Bosnia y Herzegovina,65,Otros países
+Turquía,66,OCDE
+Uzbekistán,67,Otros países
+Kirguistán,74,Otros países
+Rusia,74,Otros países
+Azerbaiyán,77,Otros países
+Tayikistán,80,Otros países
+Turkmenistán,82,Otros países
+Emiratos Árabes Unidos,32,Otros países
+Israel,38,OCDE
+Catar,42,Otros países
+Arabia Saudita,48,Otros países
+Jordania,54,Otros países
+Kuwait,54,Otros países
+Omán,57,Otros países
+Baréin,58,Otros países
+Túnez,60,Otros países
+Marruecos,62,Otros países
+Argelia,64,Otros países
+Egipto,65,Otros países
+Irán,76,Otros países
+Líbano,76,Otros países
+Irak,77,Otros países
+Libia,82,Otros países
+Yemen,84,Otros países
+Siria,87,Otros países
+Seychelles,29,Otros países
+Cabo Verde,36,Otros países
+Botsuana,41,Otros países
+Ruanda,47,Otros países
+Mauricio,49,Otros países
+Namibia,51,Otros países
+Santo Tomé y Príncipe,55,Otros países
+Benín,57,Otros países
+Ghana,57,Otros países
+Senegal,57,Otros países
+Burkina Faso,59,Otros países
+Sudáfrica,59,Otros países
+Costa de Marfil,60,Otros países
+Tanzania,60,Otros países
+Lesoto,61,Otros países
+Etiopía,63,Otros países
+Gambia,63,Otros países
+Zambia,63,Otros países
+Sierra Leona,65,Otros países
+Malaui,66,Otros países
+Angola,67,Otros países
+Níger,68,Otros países
+Kenia,69,Otros países
+Togo,69,Otros países
+Yibuti,70,Otros países
+Esuatini,70,Otros países
+Mauritania,70,Otros países
+Gabón,72,Otros países
+Malí,72,Otros países
+Camerún,73,Otros países
+Guinea,74,Otros países
+Uganda,74,Otros países
+Liberia,75,Otros países
+Madagascar,75,Otros países
+Mozambique,75,Otros países
+Nigeria,75,Otros países
+República Centroafricana,76,Otros países
+Zimbabue,76,Otros países
+Congo,78,Otros países
+Guinea-Bisáu,78,Otros países
+Eritrea,79,Otros países
+Burundi,80,Otros países
+Chad,80,Otros países
+Comoras,80,Otros países
+República Democrática del Congo,80,Otros países
+Sudán,80,Otros países
+Guinea Ecuatorial,83,Otros países
+Sudán del Sur,87,Otros países
+Somalia,89,Otros países
+Dinamarca,10,OCDE
+Finlandia,13,OCDE
+Noruega,16,OCDE
+Suecia,18,OCDE
+Suiza,18,OCDE
+Países Bajos,21,OCDE
+Alemania,22,OCDE
+Luxemburgo,22,OCDE
+Irlanda,23,OCDE
+Estonia,24,OCDE
+Bélgica,27,OCDE
+Islandia,28,OCDE
+Austria,29,OCDE
+Francia,29,OCDE
+Reino Unido,29,OCDE
+Lituania,39,OCDE
+Portugal,39,OCDE
+Letonia,40,OCDE
+España,40,OCDE
+Chequia,43,OCDE
+Italia,44,OCDE
+Eslovenia,44,OCDE
+Polonia,46,OCDE
+Eslovaquia,46,OCDE
+Chipre,47,Otros países
+Malta,49,Otros países
+Croacia,50,Otros países
+Grecia,51,OCDE
+Rumanía,54,Otros países
+Bulgaria,55,Otros países
+Hungría,58,OCDE

@@ -1,0 +1,902 @@
+[
+    {
+        "country": "Canadá",
+        "index": "24",
+        "region": "OCDE"
+    },
+    {
+        "country": "Uruguai",
+        "index": "27",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Barbados",
+        "index": "31",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "EUA.",
+        "index": "31",
+        "region": "OCDE"
+    },
+    {
+        "country": "Chile",
+        "index": "34",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Bahamas",
+        "index": "36",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "São Vicente e Granadinas",
+        "index": "40",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Dominica",
+        "index": "44",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Costa Rica",
+        "index": "45",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Santa Lúcia",
+        "index": "45",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Granada",
+        "index": "47",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Jamaica",
+        "index": "56",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Cuba",
+        "index": "58",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "T&T",
+        "index": "58",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Colômbia",
+        "index": "60",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Guiana",
+        "index": "60",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Suriname",
+        "index": "60",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Argentina",
+        "index": "63",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Brasil",
+        "index": "64",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "index": "65",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Panamá",
+        "index": "65",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Equador",
+        "index": "66",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Peru",
+        "index": "67",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "El Salvador",
+        "index": "69",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "México",
+        "index": "69",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Bolívia",
+        "index": "71",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Paraguai",
+        "index": "72",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Guatemala",
+        "index": "77",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Honduras",
+        "index": "77",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Haiti",
+        "index": "83",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Nicarágua",
+        "index": "83",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Venezuela",
+        "index": "87",
+        "region": "América Latina e Caribe"
+    },
+    {
+        "country": "Nova Zelândia",
+        "index": "15",
+        "region": "OCDE"
+    },
+    {
+        "country": "Cingapura",
+        "index": "17",
+        "region": "Outros países"
+    },
+    {
+        "country": "Austrália",
+        "index": "25",
+        "region": "OCDE"
+    },
+    {
+        "country": "Hong Kong",
+        "index": "25",
+        "region": "Outros países"
+    },
+    {
+        "country": "Japão",
+        "index": "27",
+        "region": "OCDE"
+    },
+    {
+        "country": "Butão",
+        "index": "32",
+        "region": "Outros países"
+    },
+    {
+        "country": "Taiwan",
+        "index": "33",
+        "region": "Outros países"
+    },
+    {
+        "country": "Coreia do Sul",
+        "index": "37",
+        "region": "OCDE"
+    },
+    {
+        "country": "Fiji",
+        "index": "48",
+        "region": "Outros países"
+    },
+    {
+        "country": "Malásia",
+        "index": "50",
+        "region": "Outros países"
+    },
+    {
+        "country": "Vanuatu",
+        "index": "52",
+        "region": "Outros países"
+    },
+    {
+        "country": "Ilhas Salomão",
+        "index": "57",
+        "region": "Outros países"
+    },
+    {
+        "country": "Timor-Leste",
+        "index": "57",
+        "region": "Outros países"
+    },
+    {
+        "country": "China",
+        "index": "58",
+        "region": "Outros países"
+    },
+    {
+        "country": "Vietnã",
+        "index": "59",
+        "region": "Outros países"
+    },
+    {
+        "country": "Índia",
+        "index": "61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Maldivas",
+        "index": "61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Nepal",
+        "index": "65",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tailândia",
+        "index": "65",
+        "region": "Outros países"
+    },
+    {
+        "country": "Indonésia",
+        "index": "66",
+        "region": "Outros países"
+    },
+    {
+        "country": "Filipinas",
+        "index": "66",
+        "region": "Outros países"
+    },
+    {
+        "country": "Sri Lanka",
+        "index": "66",
+        "region": "Outros países"
+    },
+    {
+        "country": "Mongólia",
+        "index": "67",
+        "region": "Outros países"
+    },
+    {
+        "country": "Paquistão",
+        "index": "71",
+        "region": "Outros países"
+    },
+    {
+        "country": "Papua Nova Guiné",
+        "index": "71",
+        "region": "Outros países"
+    },
+    {
+        "country": "Laos",
+        "index": "72",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bangladesh",
+        "index": "76",
+        "region": "Outros países"
+    },
+    {
+        "country": "Camboja",
+        "index": "78",
+        "region": "Outros países"
+    },
+    {
+        "country": "Afeganistão",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Birmânia",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Coreia do Norte",
+        "index": "83",
+        "region": "Outros países"
+    },
+    {
+        "country": "Geórgia",
+        "index": "47",
+        "region": "Outros países"
+    },
+    {
+        "country": "Armênia",
+        "index": "53",
+        "region": "Outros países"
+    },
+    {
+        "country": "Montenegro",
+        "index": "54",
+        "region": "Outros países"
+    },
+    {
+        "country": "Moldova",
+        "index": "58",
+        "region": "Outros países"
+    },
+    {
+        "country": "Macedônia do Norte",
+        "index": "58",
+        "region": "Outros países"
+    },
+    {
+        "country": "Kosovo",
+        "index": "59",
+        "region": "Outros países"
+    },
+    {
+        "country": "Cazaquistão",
+        "index": "61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Albânia",
+        "index": "63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Belarus",
+        "index": "63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Sérvia",
+        "index": "64",
+        "region": "Outros países"
+    },
+    {
+        "country": "Ucrânia",
+        "index": "64",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bósnia e Herzegovina",
+        "index": "65",
+        "region": "Outros países"
+    },
+    {
+        "country": "Turquia",
+        "index": "66",
+        "region": "OCDE"
+    },
+    {
+        "country": "Uzbequistão",
+        "index": "67",
+        "region": "Outros países"
+    },
+    {
+        "country": "Quirguistão",
+        "index": "74",
+        "region": "Outros países"
+    },
+    {
+        "country": "Rússia",
+        "index": "74",
+        "region": "Outros países"
+    },
+    {
+        "country": "Azerbaijão",
+        "index": "77",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tajiquistão",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Turcomenistão",
+        "index": "82",
+        "region": "Outros países"
+    },
+    {
+        "country": "Emirados Árabes Unidos",
+        "index": "32",
+        "region": "Outros países"
+    },
+    {
+        "country": "Israel",
+        "index": "38",
+        "region": "OCDE"
+    },
+    {
+        "country": "Catar",
+        "index": "42",
+        "region": "Outros países"
+    },
+    {
+        "country": "Arábia Saudita",
+        "index": "48",
+        "region": "Outros países"
+    },
+    {
+        "country": "Jordânia",
+        "index": "54",
+        "region": "Outros países"
+    },
+    {
+        "country": "Kuwait",
+        "index": "54",
+        "region": "Outros países"
+    },
+    {
+        "country": "Omã",
+        "index": "57",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bahrein",
+        "index": "58",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tunísia",
+        "index": "60",
+        "region": "Outros países"
+    },
+    {
+        "country": "Marrocos",
+        "index": "62",
+        "region": "Outros países"
+    },
+    {
+        "country": "Argélia",
+        "index": "64",
+        "region": "Outros países"
+    },
+    {
+        "country": "Egito",
+        "index": "65",
+        "region": "Outros países"
+    },
+    {
+        "country": "Irã",
+        "index": "76",
+        "region": "Outros países"
+    },
+    {
+        "country": "Líbano",
+        "index": "76",
+        "region": "Outros países"
+    },
+    {
+        "country": "Iraque",
+        "index": "77",
+        "region": "Outros países"
+    },
+    {
+        "country": "Líbia",
+        "index": "82",
+        "region": "Outros países"
+    },
+    {
+        "country": "Iêmen",
+        "index": "84",
+        "region": "Outros países"
+    },
+    {
+        "country": "Síria",
+        "index": "87",
+        "region": "Outros países"
+    },
+    {
+        "country": "Seychelles",
+        "index": "29",
+        "region": "Outros países"
+    },
+    {
+        "country": "Cabo Verde",
+        "index": "36",
+        "region": "Outros países"
+    },
+    {
+        "country": "Botsuana",
+        "index": "41",
+        "region": "Outros países"
+    },
+    {
+        "country": "Ruanda",
+        "index": "47",
+        "region": "Outros países"
+    },
+    {
+        "country": "Maurício",
+        "index": "49",
+        "region": "Outros países"
+    },
+    {
+        "country": "Namíbia",
+        "index": "51",
+        "region": "Outros países"
+    },
+    {
+        "country": "São Tomé e Príncipe",
+        "index": "55",
+        "region": "Outros países"
+    },
+    {
+        "country": "Benin",
+        "index": "57",
+        "region": "Outros países"
+    },
+    {
+        "country": "Gana",
+        "index": "57",
+        "region": "Outros países"
+    },
+    {
+        "country": "Senegal",
+        "index": "57",
+        "region": "Outros países"
+    },
+    {
+        "country": "Burkina Faso",
+        "index": "59",
+        "region": "Outros países"
+    },
+    {
+        "country": "África do Sul",
+        "index": "59",
+        "region": "Outros países"
+    },
+    {
+        "country": "Costa do Marfim",
+        "index": "60",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tanzânia",
+        "index": "60",
+        "region": "Outros países"
+    },
+    {
+        "country": "Lesoto",
+        "index": "61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Etiópia",
+        "index": "63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Gâmbia",
+        "index": "63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Zâmbia",
+        "index": "63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Serra Leoa",
+        "index": "65",
+        "region": "Outros países"
+    },
+    {
+        "country": "Malawi",
+        "index": "66",
+        "region": "Outros países"
+    },
+    {
+        "country": "Angola",
+        "index": "67",
+        "region": "Outros países"
+    },
+    {
+        "country": "Níger",
+        "index": "68",
+        "region": "Outros países"
+    },
+    {
+        "country": "Quênia",
+        "index": "69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Togo",
+        "index": "69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Djibuti",
+        "index": "70",
+        "region": "Outros países"
+    },
+    {
+        "country": "Esuatini",
+        "index": "70",
+        "region": "Outros países"
+    },
+    {
+        "country": "Mauritânia",
+        "index": "70",
+        "region": "Outros países"
+    },
+    {
+        "country": "Gabão",
+        "index": "72",
+        "region": "Outros países"
+    },
+    {
+        "country": "Mali",
+        "index": "72",
+        "region": "Outros países"
+    },
+    {
+        "country": "Camarões",
+        "index": "73",
+        "region": "Outros países"
+    },
+    {
+        "country": "Guiné",
+        "index": "74",
+        "region": "Outros países"
+    },
+    {
+        "country": "Uganda",
+        "index": "74",
+        "region": "Outros países"
+    },
+    {
+        "country": "Libéria",
+        "index": "75",
+        "region": "Outros países"
+    },
+    {
+        "country": "Madagascar",
+        "index": "75",
+        "region": "Outros países"
+    },
+    {
+        "country": "Moçambique",
+        "index": "75",
+        "region": "Outros países"
+    },
+    {
+        "country": "Nigéria",
+        "index": "75",
+        "region": "Outros países"
+    },
+    {
+        "country": "Rep. Centro-Africana",
+        "index": "76",
+        "region": "Outros países"
+    },
+    {
+        "country": "Zimbábue",
+        "index": "76",
+        "region": "Outros países"
+    },
+    {
+        "country": "Congo",
+        "index": "78",
+        "region": "Outros países"
+    },
+    {
+        "country": "Guiné-Bissau",
+        "index": "78",
+        "region": "Outros países"
+    },
+    {
+        "country": "Eritreia",
+        "index": "79",
+        "region": "Outros países"
+    },
+    {
+        "country": "Burundi",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Chade",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Comores",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "República Democrática do Congo (RDC)",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Sudão do Sul",
+        "index": "80",
+        "region": "Outros países"
+    },
+    {
+        "country": "Guiné Equatorial",
+        "index": "83",
+        "region": "Outros países"
+    },
+    {
+        "country": "Sudão do Sul",
+        "index": "87",
+        "region": "Outros países"
+    },
+    {
+        "country": "Somália",
+        "index": "89",
+        "region": "Outros países"
+    },
+    {
+        "country": "Dinamarca",
+        "index": "10",
+        "region": "OCDE"
+    },
+    {
+        "country": "Finlândia",
+        "index": "13",
+        "region": "OCDE"
+    },
+    {
+        "country": "Noruega",
+        "index": "16",
+        "region": "OCDE"
+    },
+    {
+        "country": "Suécia",
+        "index": "18",
+        "region": "OCDE"
+    },
+    {
+        "country": "Suíça",
+        "index": "18",
+        "region": "OCDE"
+    },
+    {
+        "country": "Países Baixos",
+        "index": "21",
+        "region": "OCDE"
+    },
+    {
+        "country": "Alemanha",
+        "index": "22",
+        "region": "OCDE"
+    },
+    {
+        "country": "Luxemburgo",
+        "index": "22",
+        "region": "OCDE"
+    },
+    {
+        "country": "Irã",
+        "index": "23",
+        "region": "OCDE"
+    },
+    {
+        "country": "Estônia",
+        "index": "24",
+        "region": "OCDE"
+    },
+    {
+        "country": "Bélgica",
+        "index": "27",
+        "region": "OCDE"
+    },
+    {
+        "country": "Islândia",
+        "index": "28",
+        "region": "OCDE"
+    },
+    {
+        "country": "Áustria",
+        "index": "29",
+        "region": "OCDE"
+    },
+    {
+        "country": "França",
+        "index": "29",
+        "region": "OCDE"
+    },
+    {
+        "country": "Reino Unido",
+        "index": "29",
+        "region": "OCDE"
+    },
+    {
+        "country": "Lituânia",
+        "index": "39",
+        "region": "OCDE"
+    },
+    {
+        "country": "Portugal",
+        "index": "39",
+        "region": "OCDE"
+    },
+    {
+        "country": "Letônia",
+        "index": "40",
+        "region": "OCDE"
+    },
+    {
+        "country": "Espanha",
+        "index": "40",
+        "region": "OCDE"
+    },
+    {
+        "country": "República Tcheca",
+        "index": "43",
+        "region": "OCDE"
+    },
+    {
+        "country": "Itália",
+        "index": "44",
+        "region": "OCDE"
+    },
+    {
+        "country": "Eslovênia",
+        "index": "44",
+        "region": "OCDE"
+    },
+    {
+        "country": "Polônia",
+        "index": "46",
+        "region": "OCDE"
+    },
+    {
+        "country": "Eslováquia",
+        "index": "46",
+        "region": "OCDE"
+    },
+    {
+        "country": "Chipre",
+        "index": "47",
+        "region": "Outros países"
+    },
+    {
+        "country": "Malta",
+        "index": "49",
+        "region": "Outros países"
+    },
+    {
+        "country": "Croácia",
+        "index": "50",
+        "region": "Outros países"
+    },
+    {
+        "country": "Grécia",
+        "index": "51",
+        "region": "OCDE"
+    },
+    {
+        "country": "Romênia",
+        "index": "54",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bulgária",
+        "index": "55",
+        "region": "Outros países"
+    },
+    {
+        "country": "Hungria",
+        "index": "58",
+        "region": "OCDE"
+    }
+]

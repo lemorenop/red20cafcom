@@ -1,0 +1,191 @@
+[
+    {
+        "country": "Panamá",
+        "electrificationRate": "28.20804405",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Suriname",
+        "electrificationRate": "27.48018837",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Chile",
+        "electrificationRate": "25.22264481",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Cuba",
+        "electrificationRate": "24.02193832",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "México",
+        "electrificationRate": "23.86088562",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "electrificationRate": "22.58387375",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Costa Rica",
+        "electrificationRate": "22.04206657",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Barbados",
+        "electrificationRate": "21.71222878",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Peru",
+        "electrificationRate": "21.22262383",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Uruguai",
+        "electrificationRate": "20.8782196",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Paraguai",
+        "electrificationRate": "20.49111557",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Argentina",
+        "electrificationRate": "20.03548813",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Brasil",
+        "electrificationRate": "19.70845413",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Granada",
+        "electrificationRate": "19.56268311",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Colômbia",
+        "electrificationRate": "18.73699951",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "El Salvador",
+        "electrificationRate": "18.68817902",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Equador",
+        "electrificationRate": "18.57583618",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Belize",
+        "electrificationRate": "15.70919895",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Honduras",
+        "electrificationRate": "15.22251797",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Venezuela",
+        "electrificationRate": "14.15746593",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Nicarágua",
+        "electrificationRate": "12.07159901",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Jamaica",
+        "electrificationRate": "11.08745193",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "T&T",
+        "electrificationRate": "11.02429962",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Bolívia",
+        "electrificationRate": "10.88550949",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Guiana",
+        "electrificationRate": "10.30421448",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Guatemala",
+        "electrificationRate": "6.839918613",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    },
+    {
+        "country": "Haiti",
+        "electrificationRate": "0.993251503",
+        "latinAmericaAndCaribbean": "19.97784996",
+        "global": "21.65368652",
+        "oecd": "23.25537872"
+    }
+]

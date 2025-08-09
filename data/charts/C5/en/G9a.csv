@@ -1,0 +1,181 @@
+country,index,region
+Canada,24,OECD
+Uruguay,27,Latin America and the Caribbean
+Barbados,31,Latin America and the Caribbean
+USA,31,OECD
+Chile,34,Latin America and the Caribbean
+Bahamas,36,Latin America and the Caribbean
+Saint Vincent and the Grenadines,40,Latin America and the Caribbean
+Dominica,44,Latin America and the Caribbean
+Costa Rica,45,Latin America and the Caribbean
+St. Lucia,45,Latin America and the Caribbean
+Grenada,47,Latin America and the Caribbean
+Jamaica,56,Latin America and the Caribbean
+Cuba,58,Latin America and the Caribbean
+Trinidad and Tobago,58,Latin America and the Caribbean
+Colombia,60,Latin America and the Caribbean
+Guyana,60,Latin America and the Caribbean
+Suriname,60,Latin America and the Caribbean
+Argentina,63,Latin America and the Caribbean
+Brazil,64,Latin America and the Caribbean
+Dominican Rep.,65,Latin America and the Caribbean
+Panama,65,Latin America and the Caribbean
+Ecuador,66,Latin America and the Caribbean
+Peru,67,Latin America and the Caribbean
+El Salvador,69,Latin America and the Caribbean
+Mexico,69,Latin America and the Caribbean
+Bolivia,71,Latin America and the Caribbean
+Paraguay,72,Latin America and the Caribbean
+Guatemala,77,Latin America and the Caribbean
+Honduras,77,Latin America and the Caribbean
+Haiti,83,Latin America and the Caribbean
+Nicaragua,83,Latin America and the Caribbean
+Venezuela,87,Latin America and the Caribbean
+New Zealand,15,OECD
+Singapore,17,Other countries
+Australia,25,OECD
+Hong Kong,25,Other countries
+Japan,27,OECD
+Bhutan,32,Other countries
+Taiwan,33,Other countries
+South Korea,37,OECD
+Fiji,48,Other countries
+Malaysia,50,Other countries
+Vanuatu,52,Other countries
+Solomon Islands,57,Other countries
+East Timor,57,Other countries
+China,58,Other countries
+Vietnam,59,Other countries
+India,61,Other countries
+Maldives,61,Other countries
+Nepal,65,Other countries
+Thailand,65,Other countries
+Indonesia,66,Other countries
+Philippines,66,Other countries
+Sri Lanka,66,Other countries
+Mongolia,67,Other countries
+Pakistan,71,Other countries
+Papua New Guinea,71,Other countries
+Laos,72,Other countries
+Bangladesh,76,Other countries
+Cambodia,78,Other countries
+Afghanistan,80,Other countries
+Burma,80,Other countries
+North Korea,83,Other countries
+Georgia,47,Other countries
+Armenia,53,Other countries
+Montenegro,54,Other countries
+Moldova,58,Other countries
+North Macedonia,58,Other countries
+Kosovo,59,Other countries
+Kazakhstan,61,Other countries
+Albania,63,Other countries
+Belarus,63,Other countries
+Serbia,64,Other countries
+Ukraine,64,Other countries
+Bosnia and Herzegovina,65,Other countries
+Turkey,66,OECD
+Uzbekistan,67,Other countries
+Kyrgyzstan,74,Other countries
+Russia,74,Other countries
+Azerbaijan,77,Other countries
+Tajikistan,80,Other countries
+Turkmenistan,82,Other countries
+United Arab Emirates,32,Other countries
+Israel,38,OECD
+Qatar,42,Other countries
+Saudi Arabia,48,Other countries
+Jordan,54,Other countries
+Kuwait,54,Other countries
+Oman,57,Other countries
+Bahrain,58,Other countries
+Tunisia,60,Other countries
+Morocco,62,Other countries
+Algeria,64,Other countries
+Egypt,65,Other countries
+Iran,76,Other countries
+Lebanon,76,Other countries
+Iraq,77,Other countries
+Libya,82,Other countries
+Yemen,84,Other countries
+Syria,87,Other countries
+Seychelles,29,Other countries
+Cape Verde,36,Other countries
+Botswana,41,Other countries
+Rwanda,47,Other countries
+Mauricio,49,Other countries
+Namibia,51,Other countries
+Sao Tome and Principe,55,Other countries
+Benin,57,Other countries
+Ghana,57,Other countries
+Senegal,57,Other countries
+Burkina Faso,59,Other countries
+South Africa,59,Other countries
+Ivory Coast,60,Other countries
+Tanzania,60,Other countries
+Lesotho,61,Other countries
+Ethiopia,63,Other countries
+Gambia,63,Other countries
+Zambia,63,Other countries
+Sierra Leone,65,Other countries
+Malawi,66,Other countries
+Angola,67,Other countries
+Niger,68,Other countries
+Kenya,69,Other countries
+Togo,69,Other countries
+Djibouti,70,Other countries
+Esuatini,70,Other countries
+Mauritania,70,Other countries
+Gabon,72,Other countries
+Mali,72,Other countries
+Cameroon,73,Other countries
+Guinea,74,Other countries
+Uganda,74,Other countries
+Liberia,75,Other countries
+Madagascar,75,Other countries
+Mozambique,75,Other countries
+Nigeria,75,Other countries
+Central African Rep.,76,Other countries
+Zimbabwe,76,Other countries
+Congo,78,Other countries
+Guinea-Bissau,78,Other countries
+Eritrea,79,Other countries
+Burundi,80,Other countries
+Chad,80,Other countries
+Comoros,80,Other countries
+Democratic Republic of the Congo,80,Other countries
+Sudan,80,Other countries
+Equatorial Guinea,83,Other countries
+South Sudan,87,Other countries
+Somalia,89,Other countries
+Denmark,10,OECD
+Finland,13,OECD
+Norway,16,OECD
+Sweden,18,OECD
+Switzerland,18,OECD
+Netherlands,21,OECD
+Germany,22,OECD
+Luxembourg,22,OECD
+Ireland,23,OECD
+Estonia,24,OECD
+Belgium,27,OECD
+Iceland,28,OECD
+Austria,29,OECD
+France,29,OECD
+United Kingdom,29,OECD
+Lithuania,39,OECD
+Portugal,39,OECD
+Latvia,40,OECD
+Spain,40,OECD
+Czech Republic,43,OECD
+Italy,44,OECD
+Slovenia,44,OECD
+Poland,46,OECD
+Slovakia,46,OECD
+Cyprus,47,Other countries
+Malta,49,Other countries
+Croatia,50,Other countries
+Greece,51,OECD
+Romania,54,Other countries
+Bulgaria,55,Other countries
+Hungary,58,OECD

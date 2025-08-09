@@ -1,0 +1,141 @@
+country,year,quintile,gender,value
+América Latina,,1,Hombre,19.19
+América Latina,,1,Mujer,42.83
+América Latina,,2,Hombre,17.06
+América Latina,,2,Mujer,40.51
+América Latina,,3,Hombre,16.37
+América Latina,,3,Mujer,37.78
+América Latina,,4,Hombre,16.26
+América Latina,,4,Mujer,34.54
+América Latina,,5,Hombre,16.29
+América Latina,,5,Mujer,31.30
+Argentina,2013,1,Hombre,26.85
+Argentina,2013,1,Mujer,60.08
+Argentina,2013,2,Hombre,25.80
+Argentina,2013,2,Mujer,55.27
+Argentina,2013,3,Hombre,24.42
+Argentina,2013,3,Mujer,47.66
+Argentina,2013,4,Hombre,23.16
+Argentina,2013,4,Mujer,40.46
+Argentina,2013,5,Hombre,20.88
+Argentina,2013,5,Mujer,31.69
+Brasil,2019,1,Hombre,13.76
+Brasil,2019,1,Mujer,25.83
+Brasil,2019,2,Hombre,12.23
+Brasil,2019,2,Mujer,24.49
+Brasil,2019,3,Hombre,12.65
+Brasil,2019,3,Mujer,22.74
+Brasil,2019,4,Hombre,11.87
+Brasil,2019,4,Mujer,21.44
+Brasil,2019,5,Hombre,11.59
+Brasil,2019,5,Mujer,19.12
+Chile,2015,1,Hombre,21.11
+Chile,2015,1,Mujer,47.78
+Chile,2015,2,Hombre,19.62
+Chile,2015,2,Mujer,43.97
+Chile,2015,3,Hombre,19.88
+Chile,2015,3,Mujer,43.49
+Chile,2015,4,Hombre,19.73
+Chile,2015,4,Mujer,38.76
+Chile,2015,5,Hombre,20.47
+Chile,2015,5,Mujer,38.48
+Colombia,2021,1,Hombre,17.80
+Colombia,2021,1,Mujer,36.85
+Colombia,2021,2,Hombre,17.28
+Colombia,2021,2,Mujer,39.06
+Colombia,2021,3,Hombre,17.07
+Colombia,2021,3,Mujer,38.07
+Colombia,2021,4,Hombre,16.43
+Colombia,2021,4,Mujer,34.46
+Colombia,2021,5,Hombre,16.48
+Colombia,2021,5,Mujer,29.69
+Costa Rica,2022,1,Hombre,18.50
+Costa Rica,2022,1,Mujer,41.60
+Costa Rica,2022,2,Hombre,17.70
+Costa Rica,2022,2,Mujer,37.30
+Costa Rica,2022,3,Hombre,16.80
+Costa Rica,2022,3,Mujer,34.50
+Costa Rica,2022,4,Hombre,17.50
+Costa Rica,2022,4,Mujer,31.40
+Costa Rica,2022,5,Hombre,20.10
+Costa Rica,2022,5,Mujer,30.40
+Ecuador,2012,1,Hombre,12.72
+Ecuador,2012,1,Mujer,41.77
+Ecuador,2012,2,Hombre,10.42
+Ecuador,2012,2,Mujer,41.81
+Ecuador,2012,3,Hombre,9.90
+Ecuador,2012,3,Mujer,39.03
+Ecuador,2012,4,Hombre,10.42
+Ecuador,2012,4,Mujer,35.71
+Ecuador,2012,5,Hombre,11.58
+Ecuador,2012,5,Mujer,32.77
+El Salvador,2017,1,Hombre,23.32
+El Salvador,2017,1,Mujer,46.77
+El Salvador,2017,2,Hombre,22.90
+El Salvador,2017,2,Mujer,42.29
+El Salvador,2017,3,Hombre,20.79
+El Salvador,2017,3,Mujer,38.50
+El Salvador,2017,4,Hombre,20.00
+El Salvador,2017,4,Mujer,36.70
+El Salvador,2017,5,Hombre,19.29
+El Salvador,2017,5,Mujer,32.41
+Guatemala,2022,1,Hombre,19.10
+Guatemala,2022,1,Mujer,47.70
+Guatemala,2022,2,Hombre,16.40
+Guatemala,2022,2,Mujer,47.10
+Guatemala,2022,3,Hombre,14.00
+Guatemala,2022,3,Mujer,45.20
+Guatemala,2022,4,Hombre,14.00
+Guatemala,2022,4,Mujer,42.90
+Guatemala,2022,5,Hombre,16.90
+Guatemala,2022,5,Mujer,39.70
+Honduras,2009,1,Hombre,12.06
+Honduras,2009,1,Mujer,32.78
+Honduras,2009,2,Hombre,13.36
+Honduras,2009,2,Mujer,31.86
+Honduras,2009,3,Hombre,14.12
+Honduras,2009,3,Mujer,31.84
+Honduras,2009,4,Hombre,15.03
+Honduras,2009,4,Mujer,30.16
+Honduras,2009,5,Hombre,14.92
+Honduras,2009,5,Mujer,27.35
+México,2019,1,Hombre,18.33
+México,2019,1,Mujer,49.32
+México,2019,2,Hombre,16.12
+México,2019,2,Mujer,45.90
+México,2019,3,Hombre,16.29
+México,2019,3,Mujer,41.64
+México,2019,4,Hombre,18.15
+México,2019,4,Mujer,38.13
+México,2019,5,Hombre,17.36
+México,2019,5,Mujer,37.94
+Paraguay,2016,1,Hombre,20.61
+Paraguay,2016,1,Mujer,32.04
+Paraguay,2016,2,Hombre,13.65
+Paraguay,2016,2,Mujer,32.26
+Paraguay,2016,3,Hombre,11.44
+Paraguay,2016,3,Mujer,30.39
+Paraguay,2016,4,Hombre,9.87
+Paraguay,2016,4,Mujer,26.51
+Paraguay,2016,5,Hombre,10.47
+Paraguay,2016,5,Mujer,24.52
+Perú,2010,1,Hombre,22.38
+Perú,2010,1,Mujer,46.78
+Perú,2010,2,Hombre,17.90
+Perú,2010,2,Mujer,44.31
+Perú,2010,3,Hombre,15.21
+Perú,2010,3,Mujer,40.79
+Perú,2010,4,Hombre,14.62
+Perú,2010,4,Mujer,36.32
+Perú,2010,5,Hombre,14.31
+Perú,2010,5,Mujer,32.50
+Uruguay,2013,1,Hombre,22.86
+Uruguay,2013,1,Mujer,47.54
+Uruguay,2013,2,Hombre,18.44
+Uruguay,2013,2,Mujer,41.01
+Uruguay,2013,3,Hombre,20.27
+Uruguay,2013,3,Mujer,37.35
+Uruguay,2013,4,Hombre,20.56
+Uruguay,2013,4,Mujer,36.10
+Uruguay,2013,5,Hombre,17.47
+Uruguay,2013,5,Mujer,30.36

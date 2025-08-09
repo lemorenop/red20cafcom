@@ -1,0 +1,346 @@
+country,year,region,cleanEnergy
+Antigua and Barbuda,2000,Caribbean,0
+Antigua and Barbuda,2005,Caribbean,0
+Antigua and Barbuda,2010,Caribbean,0.000007629394531
+Antigua and Barbuda,2015,Caribbean,2.857139587
+Antigua and Barbuda,2022,Caribbean,5.555557251
+Argentina,2000,Latin America,39.09867859
+Argentina,2005,Latin America,38.92198563
+Argentina,2010,Latin America,32.22222137
+Argentina,2015,Latin America,27.49277687
+Argentina,2022,Latin America,32.12889099
+Australia,2000,OECD,7.678826809
+Australia,2005,OECD,7.302592754
+Australia,2010,OECD,7.857514858
+Australia,2015,OECD,12.64617157
+Australia,2022,OECD,32.02705002
+Austria,2000,OECD,70.27162933
+Austria,2005,OECD,59.73279572
+Austria,2010,OECD,59.73164368
+Austria,2015,OECD,69.50469208
+Austria,2022,OECD,70.75485992
+Bahamas,2000,Caribbean,0
+Bahamas,2005,Caribbean,0
+Bahamas,2010,Caribbean,0
+Bahamas,2015,Caribbean,0
+Bahamas,2022,Caribbean,0
+Barbados,2000,Caribbean,0
+Barbados,2005,Caribbean,0
+Barbados,2010,Caribbean,0
+Barbados,2015,Caribbean,0.9615325928
+Barbados,2022,Caribbean,7.339447021
+Belgium,2000,OECD,58.75106049
+Belgium,2005,OECD,57.02772903
+Belgium,2010,OECD,53.86517715
+Belgium,2015,OECD,51.22022629
+Belgium,2022,OECD,67.12343597
+Belize,2000,Latin America,69.2307663
+Belize,2005,Latin America,43.75
+Belize,2010,Latin America,61.90476227
+Belize,2015,Latin America,66.66666412
+Belize,2022,Latin America,29.03225327
+Bolivia,2000,Latin America,50.25773239
+Bolivia,2005,Latin America,39.67280197
+Bolivia,2010,Latin America,32.48120499
+Bolivia,2015,Latin America,27.22222137
+Bolivia,2022,Latin America,31.62467384
+Brazil,2000,Latin America,88.97200012
+Brazil,2005,Latin America,86.18850708
+Brazil,2010,Latin America,81.42497253
+Brazil,2015,Latin America,68.16007233
+Brazil,2022,Latin America,81.72689056
+Canada,2000,OECD,71.10231018
+Canada,2005,OECD,73.31990814
+Canada,2010,OECD,74.19731903
+Canada,2015,OECD,77.62297821
+Canada,2022,OECD,80.13643646
+Chile,2000,Latin America,47.50642776
+Chile,2005,Latin America,50.21730423
+Chile,2010,Latin America,36.98935699
+Chile,2015,Latin America,38.16027832
+Chile,2022,Latin America,52.95602036
+Colombia,2000,Latin America,74.18827057
+Colombia,2005,Latin America,79.01482391
+Colombia,2010,Latin America,66.49510193
+Colombia,2015,Latin America,61.58778763
+Colombia,2022,Latin America,69.38152313
+Costa Rica,2000,Latin America,98.83382416
+Costa Rica,2005,Latin America,95.84859467
+Costa Rica,2010,Latin America,91.79810333
+Costa Rica,2015,Latin America,97.3073349
+Costa Rica,2022,Latin America,98.47634125
+Cuba,2000,Caribbean,0.5988001823
+Cuba,2005,Caribbean,0.456028223
+Cuba,2010,Caribbean,0.6321854591
+Cuba,2015,Caribbean,0.9808695316
+Cuba,2022,Caribbean,2.247806787
+Czech Republic,2000,OECD,21.05624008
+Czech Republic,2005,OECD,33.11363602
+Czech Republic,2010,OECD,37.2565155
+Czech Republic,2015,OECD,38.13795471
+Czech Republic,2022,OECD,43.45593643
+Denmark,2000,OECD,11.91073608
+Denmark,2005,OECD,18.37583542
+Denmark,2010,OECD,20.23226166
+Denmark,2015,OECD,51.25086975
+Denmark,2022,OECD,60.59043121
+Dominica,2000,Caribbean,37.5
+Dominica,2005,Caribbean,25
+Dominica,2010,Caribbean,14.2857132
+Dominica,2015,Caribbean,13.33333588
+Dominica,2022,Caribbean,23.52941132
+Dominican Rep.,2000,Caribbean,5.764798164
+Dominican Rep.,2005,Caribbean,14.31783867
+Dominican Rep.,2010,Caribbean,9.675237656
+Dominican Rep.,2015,Caribbean,6.944440842
+Dominican Rep.,2022,Caribbean,13.37047672
+Ecuador,2000,Latin America,71.50997162
+Ecuador,2005,Latin America,53.87658691
+Ecuador,2010,Latin America,44.02677536
+Ecuador,2015,Latin America,50.75494003
+Ecuador,2022,Latin America,79.63246155
+El Salvador,2000,Latin America,52.56064606
+El Salvador,2005,Latin America,56.34095764
+El Salvador,2010,Latin America,60.30150604
+El Salvador,2015,Latin America,49.17763138
+El Salvador,2022,Latin America,76.69290924
+Estonia,2000,OECD,-0.0000008717179298
+Estonia,2005,OECD,0.6862733364
+Estonia,2010,OECD,2.390137672
+Estonia,2015,OECD,7.290635109
+Estonia,2022,OECD,14.04494476
+Finland,2000,OECD,53.1942215
+Finland,2005,OECD,52.74943542
+Finland,2010,OECD,44.65525436
+Finland,2015,OECD,61.74026489
+Finland,2022,OECD,70.87797546
+France,2000,OECD,90.22645569
+France,2005,OECD,88.4000473
+France,2010,OECD,89.04616547
+France,2015,OECD,91.05223846
+France,2022,OECD,85.02184296
+Germany,2000,OECD,35.27375031
+Germany,2005,OECD,34.52733994
+Germany,2010,OECD,33.97093964
+Germany,2015,OECD,35.92158127
+Germany,2022,OECD,41.94054031
+Greece,2000,OECD,7.820167542
+Greece,2005,OECD,10.71002769
+Greece,2010,OECD,18.26532173
+Greece,2015,OECD,28.63858795
+Greece,2022,OECD,42.37551117
+Grenada,2000,Caribbean,0
+Grenada,2005,Caribbean,0
+Grenada,2010,Caribbean,0
+Grenada,2015,Caribbean,0
+Grenada,2022,Caribbean,4
+Guatemala,2000,Latin America,41.79566193
+Guatemala,2005,Latin America,44.17265701
+Guatemala,2010,Latin America,46.04072571
+Guatemala,2015,Latin America,39.39122772
+Guatemala,2022,Latin America,45.516716
+Guyana,2000,Latin America,-0.000004291534424
+Guyana,2005,Latin America,-0.000001788139343
+Guyana,2010,Latin America,0.000004053115845
+Guyana,2015,Latin America,0
+Guyana,2022,Latin America,0.8771939278
+Haiti,2000,Caribbean,51.85185242
+Haiti,2005,Caribbean,47.27272797
+Haiti,2010,Caribbean,25
+Haiti,2015,Caribbean,7.766990662
+Haiti,2022,Caribbean,13.46153259
+Honduras,2000,Latin America,61.53845978
+Honduras,2005,Latin America,30.74141121
+Honduras,2010,Latin America,42.36111069
+Honduras,2015,Latin America,36.60619354
+Honduras,2022,Latin America,52.62281418
+Hungary,2000,OECD,40.80704498
+Hungary,2005,OECD,39.27272797
+Hungary,2010,OECD,44.11135101
+Hungary,2015,OECD,55.68743896
+Hungary,2022,OECD,59.64764786
+Iceland,2000,OECD,100
+Iceland,2005,OECD,100
+Iceland,2010,OECD,100
+Iceland,2015,OECD,100
+Iceland,2022,OECD,100
+Ireland,2000,OECD,4.614740372
+Ireland,2005,OECD,6.802192211
+Ireland,2010,OECD,12.1309166
+Ireland,2015,OECD,26.31954765
+Ireland,2022,OECD,35.82489395
+Israel,2000,OECD,0.07032012939
+Israel,2005,OECD,0.08229064941
+Israel,2010,OECD,0.1878677309
+Israel,2015,OECD,1.790438414
+Israel,2022,OECD,9.945991516
+Italy,2000,OECD,18.32999611
+Italy,2005,OECD,14.85252953
+Italy,2010,OECD,22.76573563
+Italy,2015,OECD,31.9985733
+Italy,2022,OECD,29.51850128
+Jamaica,2000,Caribbean,1.624815464
+Jamaica,2005,Caribbean,2.677374363
+Jamaica,2010,Caribbean,4.629633904
+Jamaica,2015,Caribbean,6.308417797
+Jamaica,2022,Caribbean,12.20043945
+Japan,2000,OECD,36.74193192
+Japan,2005,OECD,32.44728851
+Japan,2010,OECD,33.6294632
+Japan,2015,OECD,12.62474442
+Japan,2022,OECD,22.95196533
+Latvia,2000,OECD,68.11593628
+Latvia,2005,OECD,68.6991806
+Latvia,2010,OECD,53.84615707
+Latvia,2015,OECD,36.28158569
+Latvia,2022,OECD,59.71943665
+Lithuania,2000,OECD,78.70619965
+Lithuania,2005,OECD,74.82662964
+Lithuania,2010,OECD,15.19999695
+Lithuania,2015,OECD,29.07801437
+Lithuania,2022,OECD,58.00971222
+Luxembourg,2000,OECD,35
+Luxembourg,2005,OECD,4.776116371
+Luxembourg,2010,OECD,5.864192486
+Luxembourg,2015,OECD,22.38806152
+Luxembourg,2022,OECD,55.08473969
+Mexico,2000,Latin America,20.292696
+Mexico,2005,Latin America,15.5422039
+Mexico,2010,Latin America,16.07881355
+Mexico,2015,Latin America,16.56839371
+Mexico,2022,Latin America,25.28985596
+Netherlands,2000,OECD,5.575740814
+Netherlands,2005,OECD,6.292498112
+Netherlands,2010,OECD,6.875528336
+Netherlands,2015,OECD,11.77171898
+Netherlands,2022,OECD,35.56700897
+New Zealand,2000,OECD,69.57080078
+New Zealand,2005,OECD,62.80603027
+New Zealand,2010,OECD,71.38343811
+New Zealand,2015,OECD,78.19600677
+New Zealand,2022,OECD,83.23149872
+Nicaragua,2000,Latin America,14.91227818
+Nicaragua,2005,Latin America,24.47551727
+Nicaragua,2010,Latin America,26.30137253
+Nicaragua,2015,Latin America,40.08714676
+Nicaragua,2022,Latin America,46.97674561
+Norway,2000,OECD,99.52988434
+Norway,2005,OECD,99.22768402
+Norway,2010,OECD,95.50917053
+Norway,2015,OECD,97.77622223
+Norway,2022,OECD,98.4916687
+Panama,2000,Latin America,69.93865204
+Panama,2005,Latin America,63.91752625
+Panama,2010,Latin America,56.77506638
+Panama,2015,Latin America,65.04854584
+Panama,2022,Latin America,77.99401855
+Paraguay,2000,Latin America,100
+Paraguay,2005,Latin America,100
+Paraguay,2010,Latin America,100
+Paraguay,2015,Latin America,99.73161316
+Paraguay,2022,Latin America,99.6818924
+Peru,2000,Latin America,81.17469788
+Peru,2005,Latin America,70.90195465
+Peru,2010,Latin America,55.83728409
+Peru,2015,Latin America,50.83903122
+Peru,2022,Latin America,60.32269287
+Poland,2000,OECD,1.473666549
+Poland,2005,OECD,1.506850839
+Poland,2010,OECD,2.921483517
+Poland,2015,OECD,7.760196209
+Poland,2022,OECD,16.80761337
+Portugal,2000,OECD,26.77621269
+Portugal,2005,OECD,14.27949715
+Portugal,2010,OECD,48.1301384
+Portugal,2015,OECD,41.572155
+Portugal,2022,OECD,50.75496292
+St. Kitts and Nevis,2000,Caribbean,0
+St. Kitts and Nevis,2005,Caribbean,0
+St. Kitts and Nevis,2010,Caribbean,0
+St. Kitts and Nevis,2015,Caribbean,4.545455933
+St. Kitts and Nevis,2022,Caribbean,4.545455933
+St. Lucia,2000,Caribbean,0
+St. Lucia,2005,Caribbean,0
+St. Lucia,2010,Caribbean,0
+St. Lucia,2015,Caribbean,0
+St. Lucia,2022,Caribbean,0
+Saint Vincent and the Grenadines,2000,Caribbean,30
+Saint Vincent and the Grenadines,2005,Caribbean,21.42857361
+Saint Vincent and the Grenadines,2010,Caribbean,20
+Saint Vincent and the Grenadines,2015,Caribbean,13.33333588
+Saint Vincent and the Grenadines,2022,Caribbean,23.52941132
+Slovak Rep.,2000,OECD,68.55101013
+Slovak Rep.,2005,OECD,71.41033936
+Slovak Rep.,2010,OECD,72.32337952
+Slovak Rep.,2015,OECD,73.40345764
+Slovak Rep.,2022,OECD,76.29992676
+Slovenia,2000,OECD,63.11535645
+Slovenia,2005,OECD,61.81336975
+Slovenia,2010,OECD,62.66912842
+Slovenia,2015,OECD,65.81080627
+Slovenia,2022,OECD,70.50898743
+Korea,2000,OECD,38.90515137
+Korea,2005,OECD,38.66536713
+Korea,2010,OECD,31.08296585
+Korea,2015,OECD,31.48593903
+Korea,2022,OECD,33.84223557
+Spain,2000,OECD,43.0970459
+Spain,2005,OECD,33.56594849
+Spain,2010,OECD,52.3001976
+Spain,2015,OECD,53.58444595
+Spain,2022,OECD,60.71889877
+Suriname,2000,Latin America,73.95832825
+Suriname,2005,Latin America,48.52070999
+Suriname,2010,Latin America,61.22449112
+Suriname,2015,Latin America,25.8064518
+Suriname,2022,Latin America,47.8468895
+Sweden,2000,OECD,93.89244843
+Sweden,2005,OECD,92.26446533
+Sweden,2010,OECD,86.04244232
+Sweden,2015,OECD,91.40740967
+Sweden,2022,OECD,90.75261688
+Trinidad and Tobago,2000,Caribbean,0.00000211596489
+Trinidad and Tobago,2005,Caribbean,0.000003457069397
+Trinidad and Tobago,2010,Caribbean,0
+Trinidad and Tobago,2015,Caribbean,0.1044921875
+Trinidad and Tobago,2022,Caribbean,0.1061553955
+United Kingdom,2000,OECD,24.15795898
+United Kingdom,2005,OECD,22.4551239
+United Kingdom,2010,OECD,19.90787125
+United Kingdom,2015,OECD,36.72204971
+United Kingdom,2022,OECD,45.14704514
+USA,2000,OECD,27.46087646
+USA,2005,OECD,26.78445244
+USA,2010,OECD,28.57018089
+USA,2015,OECD,31.58773994
+USA,2022,OECD,39.13868332
+Uruguay,2000,Latin America,92.88537598
+Uruguay,2005,Latin America,86.97916412
+Uruguay,2010,Latin America,78.95716858
+Uruguay,2015,Latin America,75.61862946
+Uruguay,2022,Latin America,72.2661438
+Venezuela,2000,Latin America,73.75395203
+Venezuela,2005,Latin America,73.28019714
+Venezuela,2010,Latin America,67.4929657
+Venezuela,2015,Latin America,58.81430054
+Venezuela,2022,Latin America,77.69903564
+,2000,Caribbean,9.8
+,2005,Caribbean,8.6
+,2010,Caribbean,5.7
+,2015,Caribbean,4.4
+,2022,Caribbean,8.5
+,2000,Latin America,61.8
+,2005,Latin America,55.4
+,2010,Latin America,53.8
+,2015,Latin America,50.4
+,2022,Latin America,58.2
+,2000,World,34.3
+,2005,World,32
+,2010,World,31
+,2015,World,31.6
+,2022,World,36.2
+,2000,OECD,38
+,2005,OECD,36.4
+,2010,OECD,37.2
+,2015,OECD,38.8
+,2022,OECD,44.8

@@ -1,0 +1,3572 @@
+[
+    {
+        "region": "América Latina",
+        "country": "Adido regional",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.764257431"
+    },
+    {
+        "region": "América Latina",
+        "country": "Adido regional",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.842909694"
+    },
+    {
+        "region": "América Latina",
+        "country": "Adido regional",
+        "year": "2050",
+        "age": "65",
+        "percentage": "18.94295311"
+    },
+    {
+        "region": "América Latina",
+        "country": "Adido regional",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.041827679"
+    },
+    {
+        "region": "América Latina",
+        "country": "Adido regional",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.01252365"
+    },
+    {
+        "region": "América Latina",
+        "country": "Adido regional",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.79332352"
+    },
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.41600439"
+    },
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.912752517"
+    },
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "year": "2050",
+        "age": "65",
+        "percentage": "19.9461922"
+    },
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.343097821"
+    },
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "year": "2100",
+        "age": "65",
+        "percentage": "34.35578346"
+    },
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.74259305"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "year": "2024",
+        "age": "65",
+        "percentage": "5.023833364"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "year": "2024",
+        "age": "80",
+        "percentage": "0.729250629"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "year": "2050",
+        "age": "65",
+        "percentage": "12.87679523"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "year": "2050",
+        "age": "80",
+        "percentage": "2.505966462"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.37377107"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "year": "2100",
+        "age": "80",
+        "percentage": "12.56222427"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "5.641474575"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "0.966043305"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "9.829247743"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "1.70114357"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "21.21369839"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "6.066206843"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.04918569"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.963495836"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "year": "2050",
+        "age": "65",
+        "percentage": "22.50401378"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "year": "2050",
+        "age": "80",
+        "percentage": "6.052988023"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.55928361"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.67191726"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "year": "2024",
+        "age": "65",
+        "percentage": "14.13508654"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "year": "2024",
+        "age": "80",
+        "percentage": "3.265405819"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.67108774"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "year": "2050",
+        "age": "80",
+        "percentage": "9.200174361"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "year": "2100",
+        "age": "65",
+        "percentage": "42.07417369"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "year": "2100",
+        "age": "80",
+        "percentage": "22.97657579"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.778435528"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.571603678"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "20.58232576"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.815299228"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "35.4031235"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.82638472"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.22515628"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.595103905"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.2791822"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.419600129"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "year": "2100",
+        "age": "65",
+        "percentage": "40.51097631"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "year": "2100",
+        "age": "80",
+        "percentage": "21.86023295"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "year": "2024",
+        "age": "65",
+        "percentage": "8.343998343"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.580054685"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "year": "2050",
+        "age": "65",
+        "percentage": "17.24352092"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.337567091"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.95321763"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.65076953"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "year": "2024",
+        "age": "65",
+        "percentage": "8.148616552"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.572443359"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "year": "2050",
+        "age": "65",
+        "percentage": "14.68013972"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "year": "2050",
+        "age": "80",
+        "percentage": "3.523769975"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.85246789"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.45859915"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "year": "2024",
+        "age": "65",
+        "percentage": "4.849334806"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "year": "2024",
+        "age": "80",
+        "percentage": "0.724358391"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "year": "2050",
+        "age": "65",
+        "percentage": "9.624561667"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "year": "2050",
+        "age": "80",
+        "percentage": "1.699375547"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "year": "2100",
+        "age": "65",
+        "percentage": "26.04243457"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "year": "2100",
+        "age": "80",
+        "percentage": "9.025081992"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "year": "2024",
+        "age": "65",
+        "percentage": "6.734914333"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.012469083"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "year": "2050",
+        "age": "65",
+        "percentage": "11.1812897"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "year": "2050",
+        "age": "80",
+        "percentage": "2.706178091"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "year": "2100",
+        "age": "65",
+        "percentage": "24.12981987"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "year": "2100",
+        "age": "80",
+        "percentage": "8.092112839"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana Francesa",
+        "year": "2024",
+        "age": "65",
+        "percentage": "7.035315782"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana Francesa",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.183708105"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana Francesa",
+        "year": "2050",
+        "age": "65",
+        "percentage": "12.26944998"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana Francesa",
+        "year": "2050",
+        "age": "80",
+        "percentage": "2.952644043"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana Francesa",
+        "year": "2100",
+        "age": "65",
+        "percentage": "21.1577341"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana Francesa",
+        "year": "2100",
+        "age": "80",
+        "percentage": "7.493366301"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "year": "2024",
+        "age": "65",
+        "percentage": "4.4177223"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "year": "2024",
+        "age": "80",
+        "percentage": "0.527249835"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "year": "2050",
+        "age": "65",
+        "percentage": "10.18244177"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "year": "2050",
+        "age": "80",
+        "percentage": "1.643871702"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "year": "2100",
+        "age": "65",
+        "percentage": "25.22599399"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "year": "2100",
+        "age": "80",
+        "percentage": "8.572651446"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "year": "2024",
+        "age": "65",
+        "percentage": "8.248569816"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.568324864"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "year": "2050",
+        "age": "65",
+        "percentage": "16.95580781"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.369723052"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.8559587"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.5358125"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "year": "2024",
+        "age": "65",
+        "percentage": "5.533585325"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "year": "2024",
+        "age": "80",
+        "percentage": "0.889390614"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "year": "2050",
+        "age": "65",
+        "percentage": "12.83286214"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "year": "2050",
+        "age": "80",
+        "percentage": "2.555413544"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "year": "2100",
+        "age": "65",
+        "percentage": "28.93755138"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "year": "2100",
+        "age": "80",
+        "percentage": "11.09231114"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.353112429"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.013507858"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "year": "2050",
+        "age": "65",
+        "percentage": "18.51535141"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.626807362"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.24264777"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.27375078"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "year": "2024",
+        "age": "65",
+        "percentage": "6.537646055"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.105748396"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "year": "2050",
+        "age": "65",
+        "percentage": "12.39307374"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "year": "2050",
+        "age": "80",
+        "percentage": "2.697835304"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "year": "2100",
+        "age": "65",
+        "percentage": "25.59795976"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "year": "2100",
+        "age": "80",
+        "percentage": "9.026999772"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.228122234"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.027536929"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "year": "2050",
+        "age": "65",
+        "percentage": "17.71188974"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.898939282"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.94972575"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.04286176"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "year": "2024",
+        "age": "65",
+        "percentage": "7.899282128"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.408506185"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "year": "2050",
+        "age": "65",
+        "percentage": "14.95563388"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "year": "2050",
+        "age": "80",
+        "percentage": "3.796749935"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "year": "2100",
+        "age": "65",
+        "percentage": "27.16045678"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "year": "2100",
+        "age": "80",
+        "percentage": "10.02425998"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "year": "2024",
+        "age": "65",
+        "percentage": "16.04519188"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.749691486"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.53404164"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.728615403"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "year": "2100",
+        "age": "65",
+        "percentage": "37.47187555"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "year": "2100",
+        "age": "80",
+        "percentage": "18.8221857"
+    },
+    {
+        "region": "América Latina",
+        "country": "Venezuela",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.679211676"
+    },
+    {
+        "region": "América Latina",
+        "country": "Venezuela",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.577171125"
+    },
+    {
+        "region": "América Latina",
+        "country": "Venezuela",
+        "year": "2050",
+        "age": "65",
+        "percentage": "16.37445837"
+    },
+    {
+        "region": "América Latina",
+        "country": "Venezuela",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.082387313"
+    },
+    {
+        "region": "América Latina",
+        "country": "Venezuela",
+        "year": "2100",
+        "age": "65",
+        "percentage": "28.08573246"
+    },
+    {
+        "region": "América Latina",
+        "country": "Venezuela",
+        "year": "2100",
+        "age": "80",
+        "percentage": "10.91489866"
+    },
+    {
+        "region": "Caribe",
+        "country": "Adido regional",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.11107063"
+    },
+    {
+        "region": "Caribe",
+        "country": "Adido regional",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.358825207"
+    },
+    {
+        "region": "Caribe",
+        "country": "Adido regional",
+        "year": "2050",
+        "age": "65",
+        "percentage": "18.27720642"
+    },
+    {
+        "region": "Caribe",
+        "country": "Adido regional",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.558561325"
+    },
+    {
+        "region": "Caribe",
+        "country": "Adido regional",
+        "year": "2100",
+        "age": "65",
+        "percentage": "26.87431908"
+    },
+    {
+        "region": "Caribe",
+        "country": "Adido regional",
+        "year": "2100",
+        "age": "80",
+        "percentage": "10.12671661"
+    },
+    {
+        "region": "Caribe",
+        "country": "Enguia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.50513792"
+    },
+    {
+        "region": "Caribe",
+        "country": "Enguia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.346211858"
+    },
+    {
+        "region": "Caribe",
+        "country": "Enguia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "28.35349143"
+    },
+    {
+        "region": "Caribe",
+        "country": "Enguia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.881940693"
+    },
+    {
+        "region": "Caribe",
+        "country": "Enguia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "39.69814181"
+    },
+    {
+        "region": "Caribe",
+        "country": "Enguia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "19.88398433"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.78443357"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.071513981"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "year": "2050",
+        "age": "65",
+        "percentage": "24.41323549"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.943295687"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "year": "2100",
+        "age": "65",
+        "percentage": "35.53438783"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.83081782"
+    },
+    {
+        "region": "Caribe",
+        "country": "Aruba",
+        "year": "2024",
+        "age": "65",
+        "percentage": "17.05624312"
+    },
+    {
+        "region": "Caribe",
+        "country": "Aruba",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.333296277"
+    },
+    {
+        "region": "Caribe",
+        "country": "Aruba",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.15949607"
+    },
+    {
+        "region": "Caribe",
+        "country": "Aruba",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.754845172"
+    },
+    {
+        "region": "Caribe",
+        "country": "Aruba",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.85222447"
+    },
+    {
+        "region": "Caribe",
+        "country": "Aruba",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.70445192"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.77585348"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.838644944"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "year": "2050",
+        "age": "65",
+        "percentage": "21.16837502"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "year": "2050",
+        "age": "80",
+        "percentage": "6.548736989"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "year": "2100",
+        "age": "65",
+        "percentage": "29.11392152"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "year": "2100",
+        "age": "80",
+        "percentage": "12.36702949"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "year": "2024",
+        "age": "65",
+        "percentage": "16.55025333"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.95043271"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "year": "2050",
+        "age": "65",
+        "percentage": "24.42641854"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.409279048"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.80002773"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.53429556"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bonaire",
+        "year": "2024",
+        "age": "65",
+        "percentage": "14.3977195"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bonaire",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.422168106"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bonaire",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.91629666"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bonaire",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.246271521"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bonaire",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.62706304"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bonaire",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.23187405"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "year": "2024",
+        "age": "65",
+        "percentage": "16.56907946"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.097753763"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "year": "2050",
+        "age": "65",
+        "percentage": "30.17454147"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "year": "2050",
+        "age": "80",
+        "percentage": "11.69425026"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "year": "2100",
+        "age": "65",
+        "percentage": "38.56885731"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "year": "2100",
+        "age": "80",
+        "percentage": "19.05158311"
+    },
+    {
+        "region": "Caribe",
+        "country": "Curaçao",
+        "year": "2024",
+        "age": "65",
+        "percentage": "16.78168327"
+    },
+    {
+        "region": "Caribe",
+        "country": "Curaçao",
+        "year": "2024",
+        "age": "80",
+        "percentage": "3.038300015"
+    },
+    {
+        "region": "Caribe",
+        "country": "Curaçao",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.85185957"
+    },
+    {
+        "region": "Caribe",
+        "country": "Curaçao",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.976748794"
+    },
+    {
+        "region": "Caribe",
+        "country": "Curaçao",
+        "year": "2100",
+        "age": "65",
+        "percentage": "35.53057611"
+    },
+    {
+        "region": "Caribe",
+        "country": "Curaçao",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.43532068"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.95597106"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.582886443"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "year": "2050",
+        "age": "65",
+        "percentage": "18.57276261"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.494240135"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "year": "2100",
+        "age": "65",
+        "percentage": "29.01954949"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "year": "2100",
+        "age": "80",
+        "percentage": "10.71879417"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.23945692"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.980197407"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "year": "2050",
+        "age": "65",
+        "percentage": "20.21626234"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.99065721"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "year": "2100",
+        "age": "65",
+        "percentage": "36.14709079"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.52929336"
+    },
+    {
+        "region": "Caribe",
+        "country": "Guadalupe",
+        "year": "2024",
+        "age": "65",
+        "percentage": "23.91164154"
+    },
+    {
+        "region": "Caribe",
+        "country": "Guadalupe",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.106806919"
+    },
+    {
+        "region": "Caribe",
+        "country": "Guadalupe",
+        "year": "2050",
+        "age": "65",
+        "percentage": "33.07555616"
+    },
+    {
+        "region": "Caribe",
+        "country": "Guadalupe",
+        "year": "2050",
+        "age": "80",
+        "percentage": "15.95268846"
+    },
+    {
+        "region": "Caribe",
+        "country": "Guadalupe",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.30647349"
+    },
+    {
+        "region": "Caribe",
+        "country": "Guadalupe",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.73545986"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "year": "2024",
+        "age": "65",
+        "percentage": "4.705218598"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "year": "2024",
+        "age": "80",
+        "percentage": "0.560940197"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "year": "2050",
+        "age": "65",
+        "percentage": "8.382558823"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "year": "2050",
+        "age": "80",
+        "percentage": "1.058938634"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "year": "2100",
+        "age": "65",
+        "percentage": "18.36045831"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "year": "2100",
+        "age": "80",
+        "percentage": "4.127652943"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Cayman",
+        "year": "2024",
+        "age": "65",
+        "percentage": "8.997810632"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Cayman",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.537800487"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Cayman",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.27150214"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Cayman",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.509209961"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Cayman",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.01769984"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Cayman",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.84254843"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Turks e Caicos",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.25174537"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Turks e Caicos",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.32190825"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Turks e Caicos",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.71216428"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Turks e Caicos",
+        "year": "2050",
+        "age": "80",
+        "percentage": "6.856515259"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Turks e Caicos",
+        "year": "2100",
+        "age": "65",
+        "percentage": "34.80941951"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Turks e Caicos",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.21385014"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens Britânicas",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.623520821"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens Britânicas",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.332623977"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens Britânicas",
+        "year": "2050",
+        "age": "65",
+        "percentage": "28.10114026"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens Britânicas",
+        "year": "2050",
+        "age": "80",
+        "percentage": "6.32622689"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens Britânicas",
+        "year": "2100",
+        "age": "65",
+        "percentage": "34.31695998"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens Britânicas",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.86769372"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens dos Estados Unidos",
+        "year": "2024",
+        "age": "65",
+        "percentage": "22.69006521"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens dos Estados Unidos",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.844826087"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens dos Estados Unidos",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.05265081"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens dos Estados Unidos",
+        "year": "2050",
+        "age": "80",
+        "percentage": "9.559143335"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens dos Estados Unidos",
+        "year": "2100",
+        "age": "65",
+        "percentage": "29.70416844"
+    },
+    {
+        "region": "Caribe",
+        "country": "Ilhas Virgens dos Estados Unidos",
+        "year": "2100",
+        "age": "80",
+        "percentage": "11.92040145"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "year": "2024",
+        "age": "65",
+        "percentage": "8.209602535"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.213680021"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "year": "2050",
+        "age": "65",
+        "percentage": "19.3790257"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "year": "2050",
+        "age": "80",
+        "percentage": "3.816997632"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "year": "2100",
+        "age": "65",
+        "percentage": "36.49653196"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.90144527"
+    },
+    {
+        "region": "Caribe",
+        "country": "Martinica",
+        "year": "2024",
+        "age": "65",
+        "percentage": "25.30995607"
+    },
+    {
+        "region": "Caribe",
+        "country": "Martinica",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.699252129"
+    },
+    {
+        "region": "Caribe",
+        "country": "Martinica",
+        "year": "2050",
+        "age": "65",
+        "percentage": "35.38270891"
+    },
+    {
+        "region": "Caribe",
+        "country": "Martinica",
+        "year": "2050",
+        "age": "80",
+        "percentage": "17.89165884"
+    },
+    {
+        "region": "Caribe",
+        "country": "Martinica",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.25969875"
+    },
+    {
+        "region": "Caribe",
+        "country": "Martinica",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.69812351"
+    },
+    {
+        "region": "Caribe",
+        "country": "Montserrat",
+        "year": "2024",
+        "age": "65",
+        "percentage": "19.36659813"
+    },
+    {
+        "region": "Caribe",
+        "country": "Montserrat",
+        "year": "2024",
+        "age": "80",
+        "percentage": "3.668261319"
+    },
+    {
+        "region": "Caribe",
+        "country": "Montserrat",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.78548193"
+    },
+    {
+        "region": "Caribe",
+        "country": "Montserrat",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.071506023"
+    },
+    {
+        "region": "Caribe",
+        "country": "Montserrat",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.72835112"
+    },
+    {
+        "region": "Caribe",
+        "country": "Montserrat",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.3729791"
+    },
+    {
+        "region": "Caribe",
+        "country": "Porto Rico",
+        "year": "2024",
+        "age": "65",
+        "percentage": "24.71867949"
+    },
+    {
+        "region": "Caribe",
+        "country": "Porto Rico",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.909805536"
+    },
+    {
+        "region": "Caribe",
+        "country": "Porto Rico",
+        "year": "2050",
+        "age": "65",
+        "percentage": "36.9579345"
+    },
+    {
+        "region": "Caribe",
+        "country": "Porto Rico",
+        "year": "2050",
+        "age": "80",
+        "percentage": "16.12529755"
+    },
+    {
+        "region": "Caribe",
+        "country": "Porto Rico",
+        "year": "2100",
+        "age": "65",
+        "percentage": "52.4017632"
+    },
+    {
+        "region": "Caribe",
+        "country": "Porto Rico",
+        "year": "2100",
+        "age": "80",
+        "percentage": "32.49692321"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "year": "2024",
+        "age": "65",
+        "percentage": "7.879474759"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.347978413"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "year": "2050",
+        "age": "65",
+        "percentage": "15.04447311"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "year": "2050",
+        "age": "80",
+        "percentage": "3.809251636"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "year": "2100",
+        "age": "65",
+        "percentage": "27.92275846"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "year": "2100",
+        "age": "80",
+        "percentage": "10.4535237"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Bartolomeu",
+        "year": "2024",
+        "age": "65",
+        "percentage": "17.68075973"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Bartolomeu",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.263635352"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Bartolomeu",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.12401247"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Bartolomeu",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.86871549"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Bartolomeu",
+        "year": "2100",
+        "age": "65",
+        "percentage": "44.20391917"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Bartolomeu",
+        "year": "2100",
+        "age": "80",
+        "percentage": "26.6533196"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.22579724"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.683282293"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "year": "2050",
+        "age": "65",
+        "percentage": "20.58012486"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.761689901"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "year": "2100",
+        "age": "65",
+        "percentage": "30.86081147"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "year": "2100",
+        "age": "80",
+        "percentage": "11.50170267"
+    },
+    {
+        "region": "Caribe",
+        "country": "St. Maarten (parte francesa)",
+        "year": "2024",
+        "age": "65",
+        "percentage": "18.40675175"
+    },
+    {
+        "region": "Caribe",
+        "country": "St. Maarten (parte francesa)",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.357227683"
+    },
+    {
+        "region": "Caribe",
+        "country": "St. Maarten (parte francesa)",
+        "year": "2050",
+        "age": "65",
+        "percentage": "32.63368309"
+    },
+    {
+        "region": "Caribe",
+        "country": "St. Maarten (parte francesa)",
+        "year": "2050",
+        "age": "80",
+        "percentage": "13.52221221"
+    },
+    {
+        "region": "Caribe",
+        "country": "St. Maarten (parte francesa)",
+        "year": "2100",
+        "age": "65",
+        "percentage": "27.53199339"
+    },
+    {
+        "region": "Caribe",
+        "country": "St. Maarten (parte francesa)",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.04219121"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Martinho (parte holandesa)",
+        "year": "2024",
+        "age": "65",
+        "percentage": "13.94232959"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Martinho (parte holandesa)",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.635524817"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Martinho (parte holandesa)",
+        "year": "2050",
+        "age": "65",
+        "percentage": "24.08804893"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Martinho (parte holandesa)",
+        "year": "2050",
+        "age": "80",
+        "percentage": "7.282866538"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Martinho (parte holandesa)",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.45514536"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Martinho (parte holandesa)",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.10038024"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "year": "2024",
+        "age": "65",
+        "percentage": "11.89124957"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.248151787"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "year": "2050",
+        "age": "65",
+        "percentage": "19.14393455"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.635605216"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "year": "2100",
+        "age": "65",
+        "percentage": "28.17356586"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "year": "2100",
+        "age": "80",
+        "percentage": "11.00937426"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "9.616733342"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.557771116"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "20.39940804"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.643452913"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.22104216"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "12.49919087"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.37834841"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "year": "2024",
+        "age": "80",
+        "percentage": "1.503466722"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.84915799"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "year": "2050",
+        "age": "80",
+        "percentage": "5.430060998"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.75570869"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "year": "2100",
+        "age": "80",
+        "percentage": "13.11536133"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Adido regional",
+        "year": "2024",
+        "age": "65",
+        "percentage": "21.03865433"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Adido regional",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.825665951"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Adido regional",
+        "year": "2050",
+        "age": "65",
+        "percentage": "28.15210724"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Adido regional",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.92789745"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Adido regional",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.18875694"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Adido regional",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.07621574"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Alemanha",
+        "year": "2024",
+        "age": "65",
+        "percentage": "23.1955871"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Alemanha",
+        "year": "2024",
+        "age": "80",
+        "percentage": "7.538595796"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Alemanha",
+        "year": "2050",
+        "age": "65",
+        "percentage": "30.28375208"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Alemanha",
+        "year": "2050",
+        "age": "80",
+        "percentage": "13.0186677"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Alemanha",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.19089007"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Alemanha",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.63039517"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Austrália",
+        "year": "2024",
+        "age": "65",
+        "percentage": "17.73001552"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Austrália",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.511266947"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Austrália",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.85058105"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Austrália",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.838943392"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Austrália",
+        "year": "2100",
+        "age": "65",
+        "percentage": "28.35896313"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Austrália",
+        "year": "2100",
+        "age": "80",
+        "percentage": "12.94862479"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Áustria",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.60640305"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Áustria",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.259195507"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Áustria",
+        "year": "2050",
+        "age": "65",
+        "percentage": "30.80870211"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Áustria",
+        "year": "2050",
+        "age": "80",
+        "percentage": "12.5602752"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Áustria",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.44486952"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Áustria",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.16645604"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Bélgica",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.55808157"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Bélgica",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.673553422"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Bélgica",
+        "year": "2050",
+        "age": "65",
+        "percentage": "27.77704597"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Bélgica",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.96228436"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Bélgica",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.45974481"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Bélgica",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.1806047"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Canadá",
+        "year": "2024",
+        "age": "65",
+        "percentage": "19.79958862"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Canadá",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.846443608"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Canadá",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.66986084"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Canadá",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.14089137"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Canadá",
+        "year": "2100",
+        "age": "65",
+        "percentage": "30.35068512"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Canadá",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.06992078"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Coreia do Sul",
+        "year": "2024",
+        "age": "65",
+        "percentage": "19.27351207"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Coreia do Sul",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.724074155"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Coreia do Sul",
+        "year": "2050",
+        "age": "65",
+        "percentage": "39.68487382"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Coreia do Sul",
+        "year": "2050",
+        "age": "80",
+        "percentage": "16.1055848"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Coreia do Sul",
+        "year": "2100",
+        "age": "65",
+        "percentage": "45.20795941"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Coreia do Sul",
+        "year": "2100",
+        "age": "80",
+        "percentage": "27.34037638"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Dinamarca",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.86607069"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Dinamarca",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.536074936"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Dinamarca",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.61434209"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Dinamarca",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.01819223"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Dinamarca",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.31958544"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Dinamarca",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.39449042"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslováquia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "18.53739768"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslováquia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "3.663869575"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslováquia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "30.06532192"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslováquia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.792566508"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslováquia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "34.67603028"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslováquia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.30982608"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslovênia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "21.7723459"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslovênia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.613473803"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslovênia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "31.7651391"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslovênia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "11.46936268"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslovênia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.57391751"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Eslovênia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.07524604"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Espanha",
+        "year": "2024",
+        "age": "65",
+        "percentage": "21.14544362"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Espanha",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.333499402"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Espanha",
+        "year": "2050",
+        "age": "65",
+        "percentage": "36.05969846"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Espanha",
+        "year": "2050",
+        "age": "80",
+        "percentage": "13.85992765"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Espanha",
+        "year": "2100",
+        "age": "65",
+        "percentage": "36.27381921"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Espanha",
+        "year": "2100",
+        "age": "80",
+        "percentage": "19.5362255"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "EUA.",
+        "year": "2024",
+        "age": "65",
+        "percentage": "17.92872995"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "EUA.",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.070069268"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "EUA.",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.11074138"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "EUA.",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.605372906"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "EUA.",
+        "year": "2100",
+        "age": "65",
+        "percentage": "28.41329575"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "EUA.",
+        "year": "2100",
+        "age": "80",
+        "percentage": "12.78877407"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Estônia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "21.29733115"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Estônia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.084432453"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Estônia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "29.81847525"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Estônia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.24009064"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Estônia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "35.25989354"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Estônia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "18.17703843"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Finlândia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "23.89724106"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Finlândia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.10502176"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Finlândia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "28.2410413"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Finlândia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "11.05365679"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Finlândia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.98342133"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Finlândia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "17.05162227"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "França",
+        "year": "2024",
+        "age": "65",
+        "percentage": "22.14656323"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "França",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.257944554"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "França",
+        "year": "2050",
+        "age": "65",
+        "percentage": "27.56072283"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "França",
+        "year": "2050",
+        "age": "80",
+        "percentage": "11.60676479"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "França",
+        "year": "2100",
+        "age": "65",
+        "percentage": "30.94820678"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "França",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.68369418"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Grécia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "23.93976301"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Grécia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "7.484278083"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Grécia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "34.62694287"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Grécia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "13.07550371"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Grécia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "35.85012555"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Grécia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "19.00516748"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Hungria",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.99319696"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Hungria",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.89198938"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Hungria",
+        "year": "2050",
+        "age": "65",
+        "percentage": "27.39737928"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Hungria",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.084177226"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Hungria",
+        "year": "2100",
+        "age": "65",
+        "percentage": "29.8658371"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Hungria",
+        "year": "2100",
+        "age": "80",
+        "percentage": "12.98494041"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Irã",
+        "year": "2024",
+        "age": "65",
+        "percentage": "15.89208096"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Irã",
+        "year": "2024",
+        "age": "80",
+        "percentage": "3.831995279"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Irã",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.13735199"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Irã",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.438926935"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Irã",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.28966498"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Irã",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.91087186"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Islândia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "15.6447947"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Islândia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "3.617474437"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Islândia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "23.94380569"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Islândia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.002208173"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Islândia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "35.61208248"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Islândia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.62644595"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Israel",
+        "year": "2024",
+        "age": "65",
+        "percentage": "12.55269498"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Israel",
+        "year": "2024",
+        "age": "80",
+        "percentage": "2.935590595"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Israel",
+        "year": "2050",
+        "age": "65",
+        "percentage": "15.72361887"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Israel",
+        "year": "2050",
+        "age": "80",
+        "percentage": "4.948875308"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Israel",
+        "year": "2100",
+        "age": "65",
+        "percentage": "23.94148558"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Israel",
+        "year": "2100",
+        "age": "80",
+        "percentage": "10.30802354"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Itália",
+        "year": "2024",
+        "age": "65",
+        "percentage": "24.62477684"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Itália",
+        "year": "2024",
+        "age": "80",
+        "percentage": "7.811827213"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Itália",
+        "year": "2050",
+        "age": "65",
+        "percentage": "36.82802022"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Itália",
+        "year": "2050",
+        "age": "80",
+        "percentage": "15.43229967"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Itália",
+        "year": "2100",
+        "age": "65",
+        "percentage": "37.46142983"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Itália",
+        "year": "2100",
+        "age": "80",
+        "percentage": "19.84988898"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Japão",
+        "year": "2024",
+        "age": "65",
+        "percentage": "29.78077531"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Japão",
+        "year": "2024",
+        "age": "80",
+        "percentage": "10.56573018"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Japão",
+        "year": "2050",
+        "age": "65",
+        "percentage": "37.48130202"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Japão",
+        "year": "2050",
+        "age": "80",
+        "percentage": "15.60557485"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Japão",
+        "year": "2100",
+        "age": "65",
+        "percentage": "37.43064702"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Japão",
+        "year": "2100",
+        "age": "80",
+        "percentage": "21.03073448"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Letônia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "21.735847"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Letônia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "6.184533983"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Letônia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "28.94570827"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Letônia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "9.801296145"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Letônia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "36.1013025"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Letônia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "18.15466285"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Lituânia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.16648501"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Lituânia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.704502761"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Lituânia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "28.61937582"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Lituânia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.26277989"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Lituânia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "39.24400806"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Lituânia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "19.39036399"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Luxemburgo",
+        "year": "2024",
+        "age": "65",
+        "percentage": "15.4763639"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Luxemburgo",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.029130563"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Luxemburgo",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.9786278"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Luxemburgo",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.948101103"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Luxemburgo",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.77717531"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Luxemburgo",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.07820934"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Noruega",
+        "year": "2024",
+        "age": "65",
+        "percentage": "18.78523827"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Noruega",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.702778906"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Noruega",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.81122422"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Noruega",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.02767235"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Noruega",
+        "year": "2100",
+        "age": "65",
+        "percentage": "33.11293721"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Noruega",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.16526991"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Nova Zelândia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "17.19575524"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Nova Zelândia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.11118716"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Nova Zelândia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "24.01757389"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Nova Zelândia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.935312927"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Nova Zelândia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.0675323"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Nova Zelândia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.2509073"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Países Baixos",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.49607784"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Países Baixos",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.038995668"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Países Baixos",
+        "year": "2050",
+        "age": "65",
+        "percentage": "26.25722885"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Países Baixos",
+        "year": "2050",
+        "age": "80",
+        "percentage": "10.54576933"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Países Baixos",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.30423629"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Países Baixos",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.76252973"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Polônia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.1434046"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Polônia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.265363514"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Polônia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "31.80019259"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Polônia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "9.709545225"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Polônia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "39.07156885"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Polônia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "20.19530982"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Portugal",
+        "year": "2024",
+        "age": "65",
+        "percentage": "24.53064919"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Portugal",
+        "year": "2024",
+        "age": "80",
+        "percentage": "7.103168219"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Portugal",
+        "year": "2050",
+        "age": "65",
+        "percentage": "33.04084241"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Portugal",
+        "year": "2050",
+        "age": "80",
+        "percentage": "12.89425194"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Portugal",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.12428486"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Portugal",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.88603354"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Reino Unido",
+        "year": "2024",
+        "age": "65",
+        "percentage": "19.49976832"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Reino Unido",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.292036757"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Reino Unido",
+        "year": "2050",
+        "age": "65",
+        "percentage": "24.67724383"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Reino Unido",
+        "year": "2050",
+        "age": "80",
+        "percentage": "9.101316333"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Reino Unido",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.3297689"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Reino Unido",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.8822695"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Rep. Tcheca",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.84538341"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Rep. Tcheca",
+        "year": "2024",
+        "age": "80",
+        "percentage": "4.730292037"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Rep. Tcheca",
+        "year": "2050",
+        "age": "65",
+        "percentage": "29.58130836"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Rep. Tcheca",
+        "year": "2050",
+        "age": "80",
+        "percentage": "8.827608824"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Rep. Tcheca",
+        "year": "2100",
+        "age": "65",
+        "percentage": "31.0243547"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Rep. Tcheca",
+        "year": "2100",
+        "age": "80",
+        "percentage": "14.80545998"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suécia",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.74676752"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suécia",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.958712101"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suécia",
+        "year": "2050",
+        "age": "65",
+        "percentage": "25.69214404"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suécia",
+        "year": "2050",
+        "age": "80",
+        "percentage": "9.71487537"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suécia",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.19580948"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suécia",
+        "year": "2100",
+        "age": "80",
+        "percentage": "16.01916254"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suíça",
+        "year": "2024",
+        "age": "65",
+        "percentage": "20.01905143"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suíça",
+        "year": "2024",
+        "age": "80",
+        "percentage": "5.865889043"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suíça",
+        "year": "2050",
+        "age": "65",
+        "percentage": "30.2226752"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suíça",
+        "year": "2050",
+        "age": "80",
+        "percentage": "12.00318038"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suíça",
+        "year": "2100",
+        "age": "65",
+        "percentage": "32.09053278"
+    },
+    {
+        "region": "OCDE alta renda não-ALC",
+        "country": "Suíça",
+        "year": "2100",
+        "age": "80",
+        "percentage": "15.43201059"
+    }
+]
