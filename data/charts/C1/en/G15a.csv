@@ -1,0 +1,511 @@
+region,country,year,age,percentage
+Latin America,Regional aggregate,2024,65,9.764257431
+Latin America,Regional aggregate,2024,80,1.842909694
+Latin America,Regional aggregate,2050,65,18.94295311
+Latin America,Regional aggregate,2050,80,5.041827679
+Latin America,Regional aggregate,2100,65,32.01252365
+Latin America,Regional aggregate,2100,80,13.79332352
+Latin America,Argentina,2024,65,12.41600439
+Latin America,Argentina,2024,80,2.912752517
+Latin America,Argentina,2050,65,19.9461922
+Latin America,Argentina,2050,80,5.343097821
+Latin America,Argentina,2100,65,34.35578346
+Latin America,Argentina,2100,80,16.74259305
+Latin America,Belize,2024,65,5.023833364
+Latin America,Belize,2024,80,0.729250629
+Latin America,Belize,2050,65,12.87679523
+Latin America,Belize,2050,80,2.505966462
+Latin America,Belize,2100,65,32.37377107
+Latin America,Belize,2100,80,12.56222427
+Latin America,Bolivia,2024,65,5.641474575
+Latin America,Bolivia,2024,80,0.966043305
+Latin America,Bolivia,2050,65,9.829247743
+Latin America,Bolivia,2050,80,1.70114357
+Latin America,Bolivia,2100,65,21.21369839
+Latin America,Bolivia,2100,80,6.066206843
+Latin America,Brazil,2024,65,11.04918569
+Latin America,Brazil,2024,80,1.963495836
+Latin America,Brazil,2050,65,22.50401378
+Latin America,Brazil,2050,80,6.052988023
+Latin America,Brazil,2100,65,33.55928361
+Latin America,Brazil,2100,80,14.67191726
+Latin America,Chile,2024,65,14.13508654
+Latin America,Chile,2024,80,3.265405819
+Latin America,Chile,2050,65,26.67108774
+Latin America,Chile,2050,80,9.200174361
+Latin America,Chile,2100,65,42.07417369
+Latin America,Chile,2100,80,22.97657579
+Latin America,Colombia,2024,65,9.778435528
+Latin America,Colombia,2024,80,1.571603678
+Latin America,Colombia,2050,65,20.58232576
+Latin America,Colombia,2050,80,5.815299228
+Latin America,Colombia,2100,65,35.4031235
+Latin America,Colombia,2100,80,15.82638472
+Latin America,Costa Rica,2024,65,12.22515628
+Latin America,Costa Rica,2024,80,2.595103905
+Latin America,Costa Rica,2050,65,25.2791822
+Latin America,Costa Rica,2050,80,8.419600129
+Latin America,Costa Rica,2100,65,40.51097631
+Latin America,Costa Rica,2100,80,21.86023295
+Latin America,Ecuador,2024,65,8.343998343
+Latin America,Ecuador,2024,80,1.580054685
+Latin America,Ecuador,2050,65,17.24352092
+Latin America,Ecuador,2050,80,4.337567091
+Latin America,Ecuador,2100,65,32.95321763
+Latin America,Ecuador,2100,80,14.65076953
+Latin America,El Salvador,2024,65,8.148616552
+Latin America,El Salvador,2024,80,1.572443359
+Latin America,El Salvador,2050,65,14.68013972
+Latin America,El Salvador,2050,80,3.523769975
+Latin America,El Salvador,2100,65,32.85246789
+Latin America,El Salvador,2100,80,13.45859915
+Latin America,Guatemala,2024,65,4.849334806
+Latin America,Guatemala,2024,80,0.724358391
+Latin America,Guatemala,2050,65,9.624561667
+Latin America,Guatemala,2050,80,1.699375547
+Latin America,Guatemala,2100,65,26.04243457
+Latin America,Guatemala,2100,80,9.025081992
+Latin America,Guyana,2024,65,6.734914333
+Latin America,Guyana,2024,80,1.012469083
+Latin America,Guyana,2050,65,11.1812897
+Latin America,Guyana,2050,80,2.706178091
+Latin America,Guyana,2100,65,24.12981987
+Latin America,Guyana,2100,80,8.092112839
+Latin America,French Guiana,2024,65,7.035315782
+Latin America,French Guiana,2024,80,1.183708105
+Latin America,French Guiana,2050,65,12.26944998
+Latin America,French Guiana,2050,80,2.952644043
+Latin America,French Guiana,2100,65,21.1577341
+Latin America,French Guiana,2100,80,7.493366301
+Latin America,Honduras,2024,65,4.4177223
+Latin America,Honduras,2024,80,0.527249835
+Latin America,Honduras,2050,65,10.18244177
+Latin America,Honduras,2050,80,1.643871702
+Latin America,Honduras,2100,65,25.22599399
+Latin America,Honduras,2100,80,8.572651446
+Latin America,Mexico,2024,65,8.248569816
+Latin America,Mexico,2024,80,1.568324864
+Latin America,Mexico,2050,65,16.95580781
+Latin America,Mexico,2050,80,4.369723052
+Latin America,Mexico,2100,65,31.8559587
+Latin America,Mexico,2100,80,13.5358125
+Latin America,Nicaragua,2024,65,5.533585325
+Latin America,Nicaragua,2024,80,0.889390614
+Latin America,Nicaragua,2050,65,12.83286214
+Latin America,Nicaragua,2050,80,2.555413544
+Latin America,Nicaragua,2100,65,28.93755138
+Latin America,Nicaragua,2100,80,11.09231114
+Latin America,Panama,2024,65,9.353112429
+Latin America,Panama,2024,80,2.013507858
+Latin America,Panama,2050,65,18.51535141
+Latin America,Panama,2050,80,5.626807362
+Latin America,Panama,2100,65,31.24264777
+Latin America,Panama,2100,80,14.27375078
+Latin America,Paraguay,2024,65,6.537646055
+Latin America,Paraguay,2024,80,1.105748396
+Latin America,Paraguay,2050,65,12.39307374
+Latin America,Paraguay,2050,80,2.697835304
+Latin America,Paraguay,2100,65,25.59795976
+Latin America,Paraguay,2100,80,9.026999772
+Latin America,Peru,2024,65,9.228122234
+Latin America,Peru,2024,80,2.027536929
+Latin America,Peru,2050,65,17.71188974
+Latin America,Peru,2050,80,4.898939282
+Latin America,Peru,2100,65,31.94972575
+Latin America,Peru,2100,80,14.04286176
+Latin America,Suriname,2024,65,7.899282128
+Latin America,Suriname,2024,80,1.408506185
+Latin America,Suriname,2050,65,14.95563388
+Latin America,Suriname,2050,80,3.796749935
+Latin America,Suriname,2100,65,27.16045678
+Latin America,Suriname,2100,80,10.02425998
+Latin America,Uruguay,2024,65,16.04519188
+Latin America,Uruguay,2024,80,4.749691486
+Latin America,Uruguay,2050,65,23.53404164
+Latin America,Uruguay,2050,80,7.728615403
+Latin America,Uruguay,2100,65,37.47187555
+Latin America,Uruguay,2100,80,18.8221857
+Latin America,Venezuela,2024,65,9.679211676
+Latin America,Venezuela,2024,80,1.577171125
+Latin America,Venezuela,2050,65,16.37445837
+Latin America,Venezuela,2050,80,4.082387313
+Latin America,Venezuela,2100,65,28.08573246
+Latin America,Venezuela,2100,80,10.91489866
+Caribbean,Regional aggregate,2024,65,11.11107063
+Caribbean,Regional aggregate,2024,80,2.358825207
+Caribbean,Regional aggregate,2050,65,18.27720642
+Caribbean,Regional aggregate,2050,80,5.558561325
+Caribbean,Regional aggregate,2100,65,26.87431908
+Caribbean,Regional aggregate,2100,80,10.12671661
+Caribbean,Anguilla,2024,65,12.50513792
+Caribbean,Anguilla,2024,80,2.346211858
+Caribbean,Anguilla,2050,65,28.35349143
+Caribbean,Anguilla,2050,80,8.881940693
+Caribbean,Anguilla,2100,65,39.69814181
+Caribbean,Anguilla,2100,80,19.88398433
+Caribbean,Antigua and Barbuda,2024,65,11.78443357
+Caribbean,Antigua and Barbuda,2024,80,2.071513981
+Caribbean,Antigua and Barbuda,2050,65,24.41323549
+Caribbean,Antigua and Barbuda,2050,80,7.943295687
+Caribbean,Antigua and Barbuda,2100,65,35.53438783
+Caribbean,Antigua and Barbuda,2100,80,15.83081782
+Caribbean,Aruba,2024,65,17.05624312
+Caribbean,Aruba,2024,80,2.333296277
+Caribbean,Aruba,2050,65,25.15949607
+Caribbean,Aruba,2050,80,7.754845172
+Caribbean,Aruba,2100,65,31.85222447
+Caribbean,Aruba,2100,80,13.70445192
+Caribbean,Bahamas,2024,65,11.77585348
+Caribbean,Bahamas,2024,80,2.838644944
+Caribbean,Bahamas,2050,65,21.16837502
+Caribbean,Bahamas,2050,80,6.548736989
+Caribbean,Bahamas,2100,65,29.11392152
+Caribbean,Bahamas,2100,80,12.36702949
+Caribbean,Barbados,2024,65,16.55025333
+Caribbean,Barbados,2024,80,2.95043271
+Caribbean,Barbados,2050,65,24.42641854
+Caribbean,Barbados,2050,80,7.409279048
+Caribbean,Barbados,2100,65,32.80002773
+Caribbean,Barbados,2100,80,13.53429556
+Caribbean,Bonaire,2024,65,14.3977195
+Caribbean,Bonaire,2024,80,2.422168106
+Caribbean,Bonaire,2050,65,23.91629666
+Caribbean,Bonaire,2050,80,7.246271521
+Caribbean,Bonaire,2100,65,33.62706304
+Caribbean,Bonaire,2100,80,14.23187405
+Caribbean,Cuba,2024,65,16.56907946
+Caribbean,Cuba,2024,80,4.097753763
+Caribbean,Cuba,2050,65,30.17454147
+Caribbean,Cuba,2050,80,11.69425026
+Caribbean,Cuba,2100,65,38.56885731
+Caribbean,Cuba,2100,80,19.05158311
+Caribbean,Curacao,2024,65,16.78168327
+Caribbean,Curacao,2024,80,3.038300015
+Caribbean,Curacao,2050,65,23.85185957
+Caribbean,Curacao,2050,80,7.976748794
+Caribbean,Curacao,2100,65,35.53057611
+Caribbean,Curacao,2100,80,16.43532068
+Caribbean,Dominica,2024,65,12.95597106
+Caribbean,Dominica,2024,80,2.582886443
+Caribbean,Dominica,2050,65,18.57276261
+Caribbean,Dominica,2050,80,4.494240135
+Caribbean,Dominica,2100,65,29.01954949
+Caribbean,Dominica,2100,80,10.71879417
+Caribbean,Grenada,2024,65,12.23945692
+Caribbean,Grenada,2024,80,2.980197407
+Caribbean,Grenada,2050,65,20.21626234
+Caribbean,Grenada,2050,80,5.99065721
+Caribbean,Grenada,2100,65,36.14709079
+Caribbean,Grenada,2100,80,16.52929336
+Caribbean,Guadalupe,2024,65,23.91164154
+Caribbean,Guadalupe,2024,80,6.106806919
+Caribbean,Guadalupe,2050,65,33.07555616
+Caribbean,Guadalupe,2050,80,15.95268846
+Caribbean,Guadalupe,2100,65,33.30647349
+Caribbean,Guadalupe,2100,80,16.73545986
+Caribbean,Haiti,2024,65,4.705218598
+Caribbean,Haiti,2024,80,0.560940197
+Caribbean,Haiti,2050,65,8.382558823
+Caribbean,Haiti,2050,80,1.058938634
+Caribbean,Haiti,2100,65,18.36045831
+Caribbean,Haiti,2100,80,4.127652943
+Caribbean,Cayman Islands,2024,65,8.997810632
+Caribbean,Cayman Islands,2024,80,1.537800487
+Caribbean,Cayman Islands,2050,65,25.27150214
+Caribbean,Cayman Islands,2050,80,7.509209961
+Caribbean,Cayman Islands,2100,65,31.01769984
+Caribbean,Cayman Islands,2100,80,13.84254843
+Caribbean,Turks and Caicos Islands,2024,65,11.25174537
+Caribbean,Turks and Caicos Islands,2024,80,2.32190825
+Caribbean,Turks and Caicos Islands,2050,65,26.71216428
+Caribbean,Turks and Caicos Islands,2050,80,6.856515259
+Caribbean,Turks and Caicos Islands,2100,65,34.80941951
+Caribbean,Turks and Caicos Islands,2100,80,15.21385014
+Caribbean,British Virgin Islands,2024,65,9.623520821
+Caribbean,British Virgin Islands,2024,80,1.332623977
+Caribbean,British Virgin Islands,2050,65,28.10114026
+Caribbean,British Virgin Islands,2050,80,6.32622689
+Caribbean,British Virgin Islands,2100,65,34.31695998
+Caribbean,British Virgin Islands,2100,80,15.86769372
+Caribbean,United States Virgin Islands,2024,65,22.69006521
+Caribbean,United States Virgin Islands,2024,80,4.844826087
+Caribbean,United States Virgin Islands,2050,65,26.05265081
+Caribbean,United States Virgin Islands,2050,80,9.559143335
+Caribbean,United States Virgin Islands,2100,65,29.70416844
+Caribbean,United States Virgin Islands,2100,80,11.92040145
+Caribbean,Jamaica,2024,65,8.209602535
+Caribbean,Jamaica,2024,80,1.213680021
+Caribbean,Jamaica,2050,65,19.3790257
+Caribbean,Jamaica,2050,80,3.816997632
+Caribbean,Jamaica,2100,65,36.49653196
+Caribbean,Jamaica,2100,80,13.90144527
+Caribbean,Martinique,2024,65,25.30995607
+Caribbean,Martinique,2024,80,6.699252129
+Caribbean,Martinique,2050,65,35.38270891
+Caribbean,Martinique,2050,80,17.89165884
+Caribbean,Martinique,2100,65,33.25969875
+Caribbean,Martinique,2100,80,16.69812351
+Caribbean,Montserrat,2024,65,19.36659813
+Caribbean,Montserrat,2024,80,3.668261319
+Caribbean,Montserrat,2050,65,25.78548193
+Caribbean,Montserrat,2050,80,8.071506023
+Caribbean,Montserrat,2100,65,31.72835112
+Caribbean,Montserrat,2100,80,14.3729791
+Caribbean,Puerto Rico,2024,65,24.71867949
+Caribbean,Puerto Rico,2024,80,6.909805536
+Caribbean,Puerto Rico,2050,65,36.9579345
+Caribbean,Puerto Rico,2050,80,16.12529755
+Caribbean,Puerto Rico,2100,65,52.4017632
+Caribbean,Puerto Rico,2100,80,32.49692321
+Caribbean,Dominican Rep.,2024,65,7.879474759
+Caribbean,Dominican Rep.,2024,80,1.347978413
+Caribbean,Dominican Rep.,2050,65,15.04447311
+Caribbean,Dominican Rep.,2050,80,3.809251636
+Caribbean,Dominican Rep.,2100,65,27.92275846
+Caribbean,Dominican Rep.,2100,80,10.4535237
+Caribbean,St. Bartholomew's,2024,65,17.68075973
+Caribbean,St. Bartholomew's,2024,80,4.263635352
+Caribbean,St. Bartholomew's,2050,65,26.12401247
+Caribbean,St. Bartholomew's,2050,80,10.86871549
+Caribbean,St. Bartholomew's,2100,65,44.20391917
+Caribbean,St. Bartholomew's,2100,80,26.6533196
+Caribbean,St. Kitts and Nevis,2024,65,11.22579724
+Caribbean,St. Kitts and Nevis,2024,80,1.683282293
+Caribbean,St. Kitts and Nevis,2050,65,20.58012486
+Caribbean,St. Kitts and Nevis,2050,80,4.761689901
+Caribbean,St. Kitts and Nevis,2100,65,30.86081147
+Caribbean,St. Kitts and Nevis,2100,80,11.50170267
+Caribbean,St. Martin (French part),2024,65,18.40675175
+Caribbean,St. Martin (French part),2024,80,4.357227683
+Caribbean,St. Martin (French part),2050,65,32.63368309
+Caribbean,St. Martin (French part),2050,80,13.52221221
+Caribbean,St. Martin (French part),2100,65,27.53199339
+Caribbean,St. Martin (French part),2100,80,14.04219121
+Caribbean,St. Maarten (Dutch side),2024,65,13.94232959
+Caribbean,St. Maarten (Dutch side),2024,80,1.635524817
+Caribbean,St. Maarten (Dutch side),2050,65,24.08804893
+Caribbean,St. Maarten (Dutch side),2050,80,7.282866538
+Caribbean,St. Maarten (Dutch side),2100,65,33.45514536
+Caribbean,St. Maarten (Dutch side),2100,80,14.10038024
+Caribbean,Saint Vincent and the Grenadines,2024,65,11.89124957
+Caribbean,Saint Vincent and the Grenadines,2024,80,2.248151787
+Caribbean,Saint Vincent and the Grenadines,2050,65,19.14393455
+Caribbean,Saint Vincent and the Grenadines,2050,80,4.635605216
+Caribbean,Saint Vincent and the Grenadines,2100,65,28.17356586
+Caribbean,Saint Vincent and the Grenadines,2100,80,11.00937426
+Caribbean,St. Lucia,2024,65,9.616733342
+Caribbean,St. Lucia,2024,80,1.557771116
+Caribbean,St. Lucia,2050,65,20.39940804
+Caribbean,St. Lucia,2050,80,4.643452913
+Caribbean,St. Lucia,2100,65,33.22104216
+Caribbean,St. Lucia,2100,80,12.49919087
+Caribbean,Trinidad and Tobago,2024,65,12.37834841
+Caribbean,Trinidad and Tobago,2024,80,1.503466722
+Caribbean,Trinidad and Tobago,2050,65,23.84915799
+Caribbean,Trinidad and Tobago,2050,80,5.430060998
+Caribbean,Trinidad and Tobago,2100,65,32.75570869
+Caribbean,Trinidad and Tobago,2100,80,13.11536133
+OECD high income non-LAC,Regional aggregate,2024,65,21.03865433
+OECD high income non-LAC,Regional aggregate,2024,80,5.825665951
+OECD high income non-LAC,Regional aggregate,2050,65,28.15210724
+OECD high income non-LAC,Regional aggregate,2050,80,10.92789745
+OECD high income non-LAC,Regional aggregate,2100,65,31.18875694
+OECD high income non-LAC,Regional aggregate,2100,80,15.07621574
+OECD high income non-LAC,Germany,2024,65,23.1955871
+OECD high income non-LAC,Germany,2024,80,7.538595796
+OECD high income non-LAC,Germany,2050,65,30.28375208
+OECD high income non-LAC,Germany,2050,80,13.0186677
+OECD high income non-LAC,Germany,2100,65,31.19089007
+OECD high income non-LAC,Germany,2100,80,14.63039517
+OECD high income non-LAC,Australia,2024,65,17.73001552
+OECD high income non-LAC,Australia,2024,80,4.511266947
+OECD high income non-LAC,Australia,2050,65,23.85058105
+OECD high income non-LAC,Australia,2050,80,8.838943392
+OECD high income non-LAC,Australia,2100,65,28.35896313
+OECD high income non-LAC,Australia,2100,80,12.94862479
+OECD high income non-LAC,Austria,2024,65,20.60640305
+OECD high income non-LAC,Austria,2024,80,6.259195507
+OECD high income non-LAC,Austria,2050,65,30.80870211
+OECD high income non-LAC,Austria,2050,80,12.5602752
+OECD high income non-LAC,Austria,2100,65,33.44486952
+OECD high income non-LAC,Austria,2100,80,16.16645604
+OECD high income non-LAC,Belgium,2024,65,20.55808157
+OECD high income non-LAC,Belgium,2024,80,5.673553422
+OECD high income non-LAC,Belgium,2050,65,27.77704597
+OECD high income non-LAC,Belgium,2050,80,10.96228436
+OECD high income non-LAC,Belgium,2100,65,32.45974481
+OECD high income non-LAC,Belgium,2100,80,16.1806047
+OECD high income non-LAC,Canada,2024,65,19.79958862
+OECD high income non-LAC,Canada,2024,80,4.846443608
+OECD high income non-LAC,Canada,2050,65,25.66986084
+OECD high income non-LAC,Canada,2050,80,10.14089137
+OECD high income non-LAC,Canada,2100,65,30.35068512
+OECD high income non-LAC,Canada,2100,80,14.06992078
+OECD high income non-LAC,South Korea,2024,65,19.27351207
+OECD high income non-LAC,South Korea,2024,80,4.724074155
+OECD high income non-LAC,South Korea,2050,65,39.68487382
+OECD high income non-LAC,South Korea,2050,80,16.1055848
+OECD high income non-LAC,South Korea,2100,65,45.20795941
+OECD high income non-LAC,South Korea,2100,80,27.34037638
+OECD high income non-LAC,Denmark,2024,65,20.86607069
+OECD high income non-LAC,Denmark,2024,80,5.536074936
+OECD high income non-LAC,Denmark,2050,65,25.61434209
+OECD high income non-LAC,Denmark,2050,80,10.01819223
+OECD high income non-LAC,Denmark,2100,65,31.31958544
+OECD high income non-LAC,Denmark,2100,80,14.39449042
+OECD high income non-LAC,Slovakia,2024,65,18.53739768
+OECD high income non-LAC,Slovakia,2024,80,3.663869575
+OECD high income non-LAC,Slovakia,2050,65,30.06532192
+OECD high income non-LAC,Slovakia,2050,80,8.792566508
+OECD high income non-LAC,Slovakia,2100,65,34.67603028
+OECD high income non-LAC,Slovakia,2100,80,16.30982608
+OECD high income non-LAC,Slovenia,2024,65,21.7723459
+OECD high income non-LAC,Slovenia,2024,80,5.613473803
+OECD high income non-LAC,Slovenia,2050,65,31.7651391
+OECD high income non-LAC,Slovenia,2050,80,11.46936268
+OECD high income non-LAC,Slovenia,2100,65,32.57391751
+OECD high income non-LAC,Slovenia,2100,80,16.07524604
+OECD high income non-LAC,Spain,2024,65,21.14544362
+OECD high income non-LAC,Spain,2024,80,6.333499402
+OECD high income non-LAC,Spain,2050,65,36.05969846
+OECD high income non-LAC,Spain,2050,80,13.85992765
+OECD high income non-LAC,Spain,2100,65,36.27381921
+OECD high income non-LAC,Spain,2100,80,19.5362255
+OECD high income non-LAC,USA,2024,65,17.92872995
+OECD high income non-LAC,USA,2024,80,4.070069268
+OECD high income non-LAC,USA,2050,65,23.11074138
+OECD high income non-LAC,USA,2050,80,8.605372906
+OECD high income non-LAC,USA,2100,65,28.41329575
+OECD high income non-LAC,USA,2100,80,12.78877407
+OECD high income non-LAC,Estonia,2024,65,21.29733115
+OECD high income non-LAC,Estonia,2024,80,6.084432453
+OECD high income non-LAC,Estonia,2050,65,29.81847525
+OECD high income non-LAC,Estonia,2050,80,10.24009064
+OECD high income non-LAC,Estonia,2100,65,35.25989354
+OECD high income non-LAC,Estonia,2100,80,18.17703843
+OECD high income non-LAC,Finland,2024,65,23.89724106
+OECD high income non-LAC,Finland,2024,80,6.10502176
+OECD high income non-LAC,Finland,2050,65,28.2410413
+OECD high income non-LAC,Finland,2050,80,11.05365679
+OECD high income non-LAC,Finland,2100,65,33.98342133
+OECD high income non-LAC,Finland,2100,80,17.05162227
+OECD high income non-LAC,France,2024,65,22.14656323
+OECD high income non-LAC,France,2024,80,6.257944554
+OECD high income non-LAC,France,2050,65,27.56072283
+OECD high income non-LAC,France,2050,80,11.60676479
+OECD high income non-LAC,France,2100,65,30.94820678
+OECD high income non-LAC,France,2100,80,15.68369418
+OECD high income non-LAC,Greece,2024,65,23.93976301
+OECD high income non-LAC,Greece,2024,80,7.484278083
+OECD high income non-LAC,Greece,2050,65,34.62694287
+OECD high income non-LAC,Greece,2050,80,13.07550371
+OECD high income non-LAC,Greece,2100,65,35.85012555
+OECD high income non-LAC,Greece,2100,80,19.00516748
+OECD high income non-LAC,Hungary,2024,65,20.99319696
+OECD high income non-LAC,Hungary,2024,80,4.89198938
+OECD high income non-LAC,Hungary,2050,65,27.39737928
+OECD high income non-LAC,Hungary,2050,80,8.084177226
+OECD high income non-LAC,Hungary,2100,65,29.8658371
+OECD high income non-LAC,Hungary,2100,80,12.98494041
+OECD high income non-LAC,Ireland,2024,65,15.89208096
+OECD high income non-LAC,Ireland,2024,80,3.831995279
+OECD high income non-LAC,Ireland,2050,65,26.13735199
+OECD high income non-LAC,Ireland,2050,80,8.438926935
+OECD high income non-LAC,Ireland,2100,65,33.28966498
+OECD high income non-LAC,Ireland,2100,80,16.91087186
+OECD high income non-LAC,Iceland,2024,65,15.6447947
+OECD high income non-LAC,Iceland,2024,80,3.617474437
+OECD high income non-LAC,Iceland,2050,65,23.94380569
+OECD high income non-LAC,Iceland,2050,80,8.002208173
+OECD high income non-LAC,Iceland,2100,65,35.61208248
+OECD high income non-LAC,Iceland,2100,80,16.62644595
+OECD high income non-LAC,Israel,2024,65,12.55269498
+OECD high income non-LAC,Israel,2024,80,2.935590595
+OECD high income non-LAC,Israel,2050,65,15.72361887
+OECD high income non-LAC,Israel,2050,80,4.948875308
+OECD high income non-LAC,Israel,2100,65,23.94148558
+OECD high income non-LAC,Israel,2100,80,10.30802354
+OECD high income non-LAC,Italy,2024,65,24.62477684
+OECD high income non-LAC,Italy,2024,80,7.811827213
+OECD high income non-LAC,Italy,2050,65,36.82802022
+OECD high income non-LAC,Italy,2050,80,15.43229967
+OECD high income non-LAC,Italy,2100,65,37.46142983
+OECD high income non-LAC,Italy,2100,80,19.84988898
+OECD high income non-LAC,Japan,2024,65,29.78077531
+OECD high income non-LAC,Japan,2024,80,10.56573018
+OECD high income non-LAC,Japan,2050,65,37.48130202
+OECD high income non-LAC,Japan,2050,80,15.60557485
+OECD high income non-LAC,Japan,2100,65,37.43064702
+OECD high income non-LAC,Japan,2100,80,21.03073448
+OECD high income non-LAC,Latvia,2024,65,21.735847
+OECD high income non-LAC,Latvia,2024,80,6.184533983
+OECD high income non-LAC,Latvia,2050,65,28.94570827
+OECD high income non-LAC,Latvia,2050,80,9.801296145
+OECD high income non-LAC,Latvia,2100,65,36.1013025
+OECD high income non-LAC,Latvia,2100,80,18.15466285
+OECD high income non-LAC,Lithuania,2024,65,20.16648501
+OECD high income non-LAC,Lithuania,2024,80,5.704502761
+OECD high income non-LAC,Lithuania,2050,65,28.61937582
+OECD high income non-LAC,Lithuania,2050,80,10.26277989
+OECD high income non-LAC,Lithuania,2100,65,39.24400806
+OECD high income non-LAC,Lithuania,2100,80,19.39036399
+OECD high income non-LAC,Luxembourg,2024,65,15.4763639
+OECD high income non-LAC,Luxembourg,2024,80,4.029130563
+OECD high income non-LAC,Luxembourg,2050,65,25.9786278
+OECD high income non-LAC,Luxembourg,2050,80,8.948101103
+OECD high income non-LAC,Luxembourg,2100,65,32.77717531
+OECD high income non-LAC,Luxembourg,2100,80,15.07820934
+OECD high income non-LAC,Norway,2024,65,18.78523827
+OECD high income non-LAC,Norway,2024,80,4.702778906
+OECD high income non-LAC,Norway,2050,65,26.81122422
+OECD high income non-LAC,Norway,2050,80,10.02767235
+OECD high income non-LAC,Norway,2100,65,33.11293721
+OECD high income non-LAC,Norway,2100,80,16.16526991
+OECD high income non-LAC,New Zealand,2024,65,17.19575524
+OECD high income non-LAC,New Zealand,2024,80,4.11118716
+OECD high income non-LAC,New Zealand,2050,65,24.01757389
+OECD high income non-LAC,New Zealand,2050,80,8.935312927
+OECD high income non-LAC,New Zealand,2100,65,31.0675323
+OECD high income non-LAC,New Zealand,2100,80,14.2509073
+OECD high income non-LAC,Netherlands,2024,65,20.49607784
+OECD high income non-LAC,Netherlands,2024,80,5.038995668
+OECD high income non-LAC,Netherlands,2050,65,26.25722885
+OECD high income non-LAC,Netherlands,2050,80,10.54576933
+OECD high income non-LAC,Netherlands,2100,65,32.30423629
+OECD high income non-LAC,Netherlands,2100,80,14.76252973
+OECD high income non-LAC,Poland,2024,65,20.1434046
+OECD high income non-LAC,Poland,2024,80,4.265363514
+OECD high income non-LAC,Poland,2050,65,31.80019259
+OECD high income non-LAC,Poland,2050,80,9.709545225
+OECD high income non-LAC,Poland,2100,65,39.07156885
+OECD high income non-LAC,Poland,2100,80,20.19530982
+OECD high income non-LAC,Portugal,2024,65,24.53064919
+OECD high income non-LAC,Portugal,2024,80,7.103168219
+OECD high income non-LAC,Portugal,2050,65,33.04084241
+OECD high income non-LAC,Portugal,2050,80,12.89425194
+OECD high income non-LAC,Portugal,2100,65,31.12428486
+OECD high income non-LAC,Portugal,2100,80,14.88603354
+OECD high income non-LAC,United Kingdom,2024,65,19.49976832
+OECD high income non-LAC,United Kingdom,2024,80,5.292036757
+OECD high income non-LAC,United Kingdom,2050,65,24.67724383
+OECD high income non-LAC,United Kingdom,2050,80,9.101316333
+OECD high income non-LAC,United Kingdom,2100,65,31.3297689
+OECD high income non-LAC,United Kingdom,2100,80,14.8822695
+OECD high income non-LAC,Czech Rep.,2024,65,20.84538341
+OECD high income non-LAC,Czech Rep.,2024,80,4.730292037
+OECD high income non-LAC,Czech Rep.,2050,65,29.58130836
+OECD high income non-LAC,Czech Rep.,2050,80,8.827608824
+OECD high income non-LAC,Czech Rep.,2100,65,31.0243547
+OECD high income non-LAC,Czech Rep.,2100,80,14.80545998
+OECD high income non-LAC,Sweden,2024,65,20.74676752
+OECD high income non-LAC,Sweden,2024,80,5.958712101
+OECD high income non-LAC,Sweden,2050,65,25.69214404
+OECD high income non-LAC,Sweden,2050,80,9.71487537
+OECD high income non-LAC,Sweden,2100,65,32.19580948
+OECD high income non-LAC,Sweden,2100,80,16.01916254
+OECD high income non-LAC,Switzerland,2024,65,20.01905143
+OECD high income non-LAC,Switzerland,2024,80,5.865889043
+OECD high income non-LAC,Switzerland,2050,65,30.2226752
+OECD high income non-LAC,Switzerland,2050,80,12.00318038
+OECD high income non-LAC,Switzerland,2100,65,32.09053278
+OECD high income non-LAC,Switzerland,2100,80,15.43201059

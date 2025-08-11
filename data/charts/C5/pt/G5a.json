@@ -1,0 +1,822 @@
+[
+    {
+        "country": "Albânia",
+        "index": "1.43",
+        "region": "Outros países"
+    },
+    {
+        "country": "Argélia",
+        "index": "0.92",
+        "region": "Outros países"
+    },
+    {
+        "country": "Angola",
+        "index": "0.92",
+        "region": "Outros países"
+    },
+    {
+        "country": "Antígua e Barbuda",
+        "index": "0.77",
+        "region": "Caribe"
+    },
+    {
+        "country": "Argentina",
+        "index": "1.54",
+        "region": "América Latina"
+    },
+    {
+        "country": "Armênia",
+        "index": "1.44",
+        "region": "Outros países"
+    },
+    {
+        "country": "Austrália",
+        "index": "1.84",
+        "region": "OCDE"
+    },
+    {
+        "country": "Áustria",
+        "index": "1.79",
+        "region": "OCDE"
+    },
+    {
+        "country": "Azerbaijão",
+        "index": "1.3",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bahamas",
+        "index": "0.72",
+        "region": "Caribe"
+    },
+    {
+        "country": "Bahrein",
+        "index": "1.28",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bangladesh",
+        "index": "1.06",
+        "region": "Outros países"
+    },
+    {
+        "country": "Barbados",
+        "index": "0.74",
+        "region": "Caribe"
+    },
+    {
+        "country": "Belarus",
+        "index": "0.69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bélgica",
+        "index": "1.8",
+        "region": "OCDE"
+    },
+    {
+        "country": "Belize",
+        "index": "0.54",
+        "region": "Caribe"
+    },
+    {
+        "country": "Benin",
+        "index": "0.99",
+        "region": "Outros países"
+    },
+    {
+        "country": "Butão",
+        "index": "0.66",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bolívia",
+        "index": "0.92",
+        "region": "América Latina"
+    },
+    {
+        "country": "Bósnia e Herzegovina",
+        "index": "1.24",
+        "region": "Outros países"
+    },
+    {
+        "country": "Botsuana",
+        "index": "1.18",
+        "region": "Outros países"
+    },
+    {
+        "country": "Brasil",
+        "index": "1.58",
+        "region": "América Latina"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "index": "1.38",
+        "region": "Outros países"
+    },
+    {
+        "country": "Bulgária",
+        "index": "1.69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Burkina Faso",
+        "index": "0.64",
+        "region": "Outros países"
+    },
+    {
+        "country": "Burundi",
+        "index": "0.53",
+        "region": "Outros países"
+    },
+    {
+        "country": "Camboja",
+        "index": "1.24",
+        "region": "Outros países"
+    },
+    {
+        "country": "Camarões",
+        "index": "1.02",
+        "region": "Outros países"
+    },
+    {
+        "country": "Canadá",
+        "index": "1.8",
+        "region": "OCDE"
+    },
+    {
+        "country": "Rep. Centro-Africana",
+        "index": "0.63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Chade",
+        "index": "0.43",
+        "region": "Outros países"
+    },
+    {
+        "country": "Chile",
+        "index": "1.62",
+        "region": "América Latina"
+    },
+    {
+        "country": "China",
+        "index": "1.61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Taipei Chinês",
+        "index": "1.61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Colômbia",
+        "index": "1.64",
+        "region": "América Latina"
+    },
+    {
+        "country": "Comores",
+        "index": "0.44",
+        "region": "Outros países"
+    },
+    {
+        "country": "Congo",
+        "index": "0.85",
+        "region": "Outros países"
+    },
+    {
+        "country": "Costa Rica",
+        "index": "1.63",
+        "region": "América Latina"
+    },
+    {
+        "country": "Croácia",
+        "index": "1.79",
+        "region": "Outros países"
+    },
+    {
+        "country": "Cuba",
+        "index": "1.09",
+        "region": "Caribe"
+    },
+    {
+        "country": "Chipre",
+        "index": "1.79",
+        "region": "Outros países"
+    },
+    {
+        "country": "República Tcheca",
+        "index": "1.71",
+        "region": "OCDE"
+    },
+    {
+        "country": "Costa do Marfim",
+        "index": "0.81",
+        "region": "Outros países"
+    },
+    {
+        "country": "República Democrática do Congo (RDC)",
+        "index": "0.6",
+        "region": "Outros países"
+    },
+    {
+        "country": "Dinamarca",
+        "index": "1.82",
+        "region": "OCDE"
+    },
+    {
+        "country": "Djibuti",
+        "index": "0.38",
+        "region": "Outros países"
+    },
+    {
+        "country": "Dominica",
+        "index": "0.95",
+        "region": "Caribe"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "index": "1.36",
+        "region": "Caribe"
+    },
+    {
+        "country": "Equador",
+        "index": "1.22",
+        "region": "América Latina"
+    },
+    {
+        "country": "Egito",
+        "index": "1.2",
+        "region": "Outros países"
+    },
+    {
+        "country": "El Salvador",
+        "index": "1.41",
+        "region": "América Latina"
+    },
+    {
+        "country": "Estônia",
+        "index": "1.82",
+        "region": "OCDE"
+    },
+    {
+        "country": "Esuatini",
+        "index": "0.85",
+        "region": "Outros países"
+    },
+    {
+        "country": "Etiópia",
+        "index": "0.78",
+        "region": "Outros países"
+    },
+    {
+        "country": "Fiji",
+        "index": "1.09",
+        "region": "Outros países"
+    },
+    {
+        "country": "Finlândia",
+        "index": "1.83",
+        "region": "OCDE"
+    },
+    {
+        "country": "França",
+        "index": "1.81",
+        "region": "OCDE"
+    },
+    {
+        "country": "Gabão",
+        "index": "0.58",
+        "region": "Outros países"
+    },
+    {
+        "country": "Gâmbia",
+        "index": "0.77",
+        "region": "Outros países"
+    },
+    {
+        "country": "Geórgia",
+        "index": "1.61",
+        "region": "Outros países"
+    },
+    {
+        "country": "Alemanha",
+        "index": "1.78",
+        "region": "OCDE"
+    },
+    {
+        "country": "Gana",
+        "index": "0.94",
+        "region": "Outros países"
+    },
+    {
+        "country": "Grécia",
+        "index": "1.67",
+        "region": "OCDE"
+    },
+    {
+        "country": "Guatemala",
+        "index": "1.31",
+        "region": "América Latina"
+    },
+    {
+        "country": "Honduras",
+        "index": "1.08",
+        "region": "América Latina"
+    },
+    {
+        "country": "Hong Kong, China",
+        "index": "1.88",
+        "region": "Outros países"
+    },
+    {
+        "country": "Hungria",
+        "index": "1.62",
+        "region": "OCDE"
+    },
+    {
+        "country": "Islândia",
+        "index": "1.66",
+        "region": "OCDE"
+    },
+    {
+        "country": "Índia",
+        "index": "1.55",
+        "region": "Outros países"
+    },
+    {
+        "country": "Indonésia",
+        "index": "1.42",
+        "region": "Outros países"
+    },
+    {
+        "country": "Irã",
+        "index": "1.79",
+        "region": "OCDE"
+    },
+    {
+        "country": "Israel",
+        "index": "1.6",
+        "region": "OCDE"
+    },
+    {
+        "country": "Itália",
+        "index": "1.72",
+        "region": "OCDE"
+    },
+    {
+        "country": "Jamaica",
+        "index": "0.89",
+        "region": "Caribe"
+    },
+    {
+        "country": "Japão",
+        "index": "1.86",
+        "region": "OCDE"
+    },
+    {
+        "country": "Jordânia",
+        "index": "1.01",
+        "region": "Outros países"
+    },
+    {
+        "country": "Cazaquistão",
+        "index": "1.28",
+        "region": "Outros países"
+    },
+    {
+        "country": "Quênia",
+        "index": "1.34",
+        "region": "Outros países"
+    },
+    {
+        "country": "Kiribati",
+        "index": "0.46",
+        "region": "Outros países"
+    },
+    {
+        "country": "Coreia do Sul",
+        "index": "1.88",
+        "region": "OCDE"
+    },
+    {
+        "country": "Kuwait",
+        "index": "1.01",
+        "region": "Outros países"
+    },
+    {
+        "country": "Quirguistão",
+        "index": "1.05",
+        "region": "Outros países"
+    },
+    {
+        "country": "Laos",
+        "index": "0.91",
+        "region": "Outros países"
+    },
+    {
+        "country": "Letônia",
+        "index": "1.73",
+        "region": "OCDE"
+    },
+    {
+        "country": "Líbano",
+        "index": "0.92",
+        "region": "Outros países"
+    },
+    {
+        "country": "Lesoto",
+        "index": "0.84",
+        "region": "Outros países"
+    },
+    {
+        "country": "Libéria",
+        "index": "0.69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Lituânia",
+        "index": "1.77",
+        "region": "OCDE"
+    },
+    {
+        "country": "Luxemburgo",
+        "index": "1.82",
+        "region": "OCDE"
+    },
+    {
+        "country": "Madagascar",
+        "index": "1.0",
+        "region": "Outros países"
+    },
+    {
+        "country": "Malawi",
+        "index": "0.9",
+        "region": "Outros países"
+    },
+    {
+        "country": "Malásia",
+        "index": "1.56",
+        "region": "Outros países"
+    },
+    {
+        "country": "Maldivas",
+        "index": "0.92",
+        "region": "Outros países"
+    },
+    {
+        "country": "Mali",
+        "index": "0.92",
+        "region": "Outros países"
+    },
+    {
+        "country": "Malta",
+        "index": "1.69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Maurício",
+        "index": "1.66",
+        "region": "Outros países"
+    },
+    {
+        "country": "México",
+        "index": "1.66",
+        "region": "América Latina"
+    },
+    {
+        "country": "Micronésia",
+        "index": "0.46",
+        "region": "Outros países"
+    },
+    {
+        "country": "Moldova",
+        "index": "1.11",
+        "region": "Outros países"
+    },
+    {
+        "country": "Mongólia",
+        "index": "1.19",
+        "region": "Outros países"
+    },
+    {
+        "country": "Montenegro",
+        "index": "1.35",
+        "region": "Outros países"
+    },
+    {
+        "country": "Marrocos",
+        "index": "1.59",
+        "region": "Outros países"
+    },
+    {
+        "country": "Moçambique",
+        "index": "0.9",
+        "region": "Outros países"
+    },
+    {
+        "country": "Myanmar",
+        "index": "1.09",
+        "region": "Outros países"
+    },
+    {
+        "country": "Namíbia",
+        "index": "0.96",
+        "region": "Outros países"
+    },
+    {
+        "country": "Nepal",
+        "index": "0.7",
+        "region": "Outros países"
+    },
+    {
+        "country": "Países Baixos",
+        "index": "1.87",
+        "region": "OCDE"
+    },
+    {
+        "country": "Nova Zelândia",
+        "index": "1.81",
+        "region": "OCDE"
+    },
+    {
+        "country": "Nicarágua",
+        "index": "1.32",
+        "region": "América Latina"
+    },
+    {
+        "country": "Níger",
+        "index": "0.72",
+        "region": "Outros países"
+    },
+    {
+        "country": "Nigéria",
+        "index": "0.93",
+        "region": "Outros países"
+    },
+    {
+        "country": "Macedônia do Norte",
+        "index": "1.39",
+        "region": "Outros países"
+    },
+    {
+        "country": "Noruega",
+        "index": "1.86",
+        "region": "OCDE"
+    },
+    {
+        "country": "Omã",
+        "index": "1.71",
+        "region": "Outros países"
+    },
+    {
+        "country": "Paquistão",
+        "index": "1.35",
+        "region": "Outros países"
+    },
+    {
+        "country": "Palau",
+        "index": "0.55",
+        "region": "Outros países"
+    },
+    {
+        "country": "Panamá",
+        "index": "1.56",
+        "region": "América Latina"
+    },
+    {
+        "country": "Papua Nova Guiné",
+        "index": "1.08",
+        "region": "Outros países"
+    },
+    {
+        "country": "Paraguai",
+        "index": "1.21",
+        "region": "América Latina"
+    },
+    {
+        "country": "Peru",
+        "index": "1.57",
+        "region": "América Latina"
+    },
+    {
+        "country": "Filipinas",
+        "index": "1.37",
+        "region": "Outros países"
+    },
+    {
+        "country": "Polônia",
+        "index": "1.8",
+        "region": "OCDE"
+    },
+    {
+        "country": "Portugal",
+        "index": "1.83",
+        "region": "OCDE"
+    },
+    {
+        "country": "Catar",
+        "index": "1.43",
+        "region": "Outros países"
+    },
+    {
+        "country": "Romênia",
+        "index": "1.62",
+        "region": "Outros países"
+    },
+    {
+        "country": "Rússia",
+        "index": "1.69",
+        "region": "Outros países"
+    },
+    {
+        "country": "Ruanda",
+        "index": "1.01",
+        "region": "Outros países"
+    },
+    {
+        "country": "Samoa",
+        "index": "0.87",
+        "region": "Outros países"
+    },
+    {
+        "country": "Arábia Saudita",
+        "index": "1.37",
+        "region": "Outros países"
+    },
+    {
+        "country": "Senegal",
+        "index": "1.21",
+        "region": "Outros países"
+    },
+    {
+        "country": "Sérvia",
+        "index": "1.35",
+        "region": "Outros países"
+    },
+    {
+        "country": "Serra Leoa",
+        "index": "0.53",
+        "region": "Outros países"
+    },
+    {
+        "country": "Cingapura",
+        "index": "1.85",
+        "region": "Outros países"
+    },
+    {
+        "country": "Rep. Eslovaca",
+        "index": "1.69",
+        "region": "OCDE"
+    },
+    {
+        "country": "Eslovênia",
+        "index": "1.77",
+        "region": "OCDE"
+    },
+    {
+        "country": "Ilhas Salomão",
+        "index": "0.63",
+        "region": "Outros países"
+    },
+    {
+        "country": "África do Sul",
+        "index": "1.63",
+        "region": "Outros países"
+    },
+    {
+        "country": "Espanha",
+        "index": "1.81",
+        "region": "OCDE"
+    },
+    {
+        "country": "Sri Lanka",
+        "index": "1.07",
+        "region": "Outros países"
+    },
+    {
+        "country": "Sudão do Sul",
+        "index": "0.54",
+        "region": "Outros países"
+    },
+    {
+        "country": "Suriname",
+        "index": "0.46",
+        "region": "Caribe"
+    },
+    {
+        "country": "Suécia",
+        "index": "1.85",
+        "region": "OCDE"
+    },
+    {
+        "country": "Suíça",
+        "index": "1.8",
+        "region": "OCDE"
+    },
+    {
+        "country": "Tajiquistão",
+        "index": "1.04",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tanzânia",
+        "index": "0.96",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tailândia",
+        "index": "1.51",
+        "region": "Outros países"
+    },
+    {
+        "country": "Togo",
+        "index": "0.82",
+        "region": "Outros países"
+    },
+    {
+        "country": "Tonga",
+        "index": "0.81",
+        "region": "Outros países"
+    },
+    {
+        "country": "T&T",
+        "index": "1.14",
+        "region": "Caribe"
+    },
+    {
+        "country": "Tunísia",
+        "index": "1.26",
+        "region": "Outros países"
+    },
+    {
+        "country": "Turquia",
+        "index": "1.63",
+        "region": "OCDE"
+    },
+    {
+        "country": "Uganda",
+        "index": "0.95",
+        "region": "Outros países"
+    },
+    {
+        "country": "Ucrânia",
+        "index": "1.08",
+        "region": "Outros países"
+    },
+    {
+        "country": "Emirados Árabes Unidos",
+        "index": "1.48",
+        "region": "Outros países"
+    },
+    {
+        "country": "Reino Unido",
+        "index": "1.82",
+        "region": "OCDE"
+    },
+    {
+        "country": "EUA.",
+        "index": "1.85",
+        "region": "OCDE"
+    },
+    {
+        "country": "Uruguai",
+        "index": "1.54",
+        "region": "América Latina"
+    },
+    {
+        "country": "Uzbequistão",
+        "index": "0.85",
+        "region": "Outros países"
+    },
+    {
+        "country": "Vanuatu",
+        "index": "1.23",
+        "region": "Outros países"
+    },
+    {
+        "country": "Venezuela",
+        "index": "0.71",
+        "region": "América Latina"
+    },
+    {
+        "country": "Vietnã",
+        "index": "1.47",
+        "region": "Outros países"
+    },
+    {
+        "country": "Iêmen",
+        "index": "0.31",
+        "region": "Outros países"
+    },
+    {
+        "country": "Zâmbia",
+        "index": "0.85",
+        "region": "Outros países"
+    },
+    {
+        "country": "Zimbábue",
+        "index": "0.91",
+        "region": "Outros países"
+    }
+]

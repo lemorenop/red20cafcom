@@ -1,0 +1,206 @@
+[
+    {
+        "countryRegionGroup": "Bahamas",
+        "averageCountry": "26.65",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Argentina",
+        "averageCountry": "14.15",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Brasil",
+        "averageCountry": "12.49",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Belize",
+        "averageCountry": "11.82",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Barbados",
+        "averageCountry": "11.64",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Uruguai",
+        "averageCountry": "10.88",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Equador",
+        "averageCountry": "10.83",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Bolívia",
+        "averageCountry": "9.67",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Paraguai",
+        "averageCountry": "9.62",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Jamaica",
+        "averageCountry": "9.42",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "T&T",
+        "averageCountry": "8.75",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Guatemala",
+        "averageCountry": "6.27",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "México",
+        "averageCountry": "6",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Chile",
+        "averageCountry": "5.91",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Panamá",
+        "averageCountry": "5.87",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Colômbia",
+        "averageCountry": "5.28",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Rep. Dominicana",
+        "averageCountry": "4.4",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "El Salvador",
+        "averageCountry": "3.11",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Nicarágua",
+        "averageCountry": "2.97",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Costa Rica",
+        "averageCountry": "2.62",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Peru",
+        "averageCountry": "2.58",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Honduras",
+        "averageCountry": "1.64",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Sul da Ásia",
+        "averageCountry": null,
+        "averageRegion": "12.63",
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "África Subsaariana",
+        "averageCountry": null,
+        "averageRegion": "11.22",
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "América Latina e Caribe",
+        "averageCountry": "6.96",
+        "averageRegion": null,
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Leste Asiático e Pacífico",
+        "averageCountry": null,
+        "averageRegion": "4.68",
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Oriente Médio e Norte da África",
+        "averageCountry": null,
+        "averageRegion": "4.65",
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "América do Norte",
+        "averageCountry": null,
+        "averageRegion": "3.19",
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Europa e Ásia Central",
+        "averageCountry": null,
+        "averageRegion": "2.79",
+        "averageGroup": null
+    },
+    {
+        "countryRegionGroup": "Menos desenvolvido (OMC)",
+        "averageCountry": null,
+        "averageRegion": null,
+        "averageGroup": "12.16"
+    },
+    {
+        "countryRegionGroup": "Em desenvolvimento (OMC)",
+        "averageCountry": null,
+        "averageRegion": null,
+        "averageGroup": "7.17"
+    },
+    {
+        "countryRegionGroup": "OCDE",
+        "averageCountry": null,
+        "averageRegion": null,
+        "averageGroup": "2.97"
+    },
+    {
+        "countryRegionGroup": "Alta renda",
+        "averageCountry": null,
+        "averageRegion": null,
+        "averageGroup": "2.77"
+    },
+    {
+        "countryRegionGroup": "União Europeia",
+        "averageCountry": null,
+        "averageRegion": null,
+        "averageGroup": "1.89"
+    }
+]

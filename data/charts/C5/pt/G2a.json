@@ -1,0 +1,2072 @@
+[
+    {
+        "country": "Antígua e Barbuda",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Antígua e Barbuda",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Antígua e Barbuda",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0.000007629394531"
+    },
+    {
+        "country": "Antígua e Barbuda",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "2.857139587"
+    },
+    {
+        "country": "Antígua e Barbuda",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "5.555557251"
+    },
+    {
+        "country": "Argentina",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "39.09867859"
+    },
+    {
+        "country": "Argentina",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "38.92198563"
+    },
+    {
+        "country": "Argentina",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "32.22222137"
+    },
+    {
+        "country": "Argentina",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "27.49277687"
+    },
+    {
+        "country": "Argentina",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "32.12889099"
+    },
+    {
+        "country": "Austrália",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "7.678826809"
+    },
+    {
+        "country": "Austrália",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "7.302592754"
+    },
+    {
+        "country": "Austrália",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "7.857514858"
+    },
+    {
+        "country": "Austrália",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "12.64617157"
+    },
+    {
+        "country": "Austrália",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "32.02705002"
+    },
+    {
+        "country": "Áustria",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "70.27162933"
+    },
+    {
+        "country": "Áustria",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "59.73279572"
+    },
+    {
+        "country": "Áustria",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "59.73164368"
+    },
+    {
+        "country": "Áustria",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "69.50469208"
+    },
+    {
+        "country": "Áustria",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "70.75485992"
+    },
+    {
+        "country": "Bahamas",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Bahamas",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Bahamas",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Bahamas",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Bahamas",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Barbados",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Barbados",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Barbados",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Barbados",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "0.9615325928"
+    },
+    {
+        "country": "Barbados",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "7.339447021"
+    },
+    {
+        "country": "Bélgica",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "58.75106049"
+    },
+    {
+        "country": "Bélgica",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "57.02772903"
+    },
+    {
+        "country": "Bélgica",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "53.86517715"
+    },
+    {
+        "country": "Bélgica",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "51.22022629"
+    },
+    {
+        "country": "Bélgica",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "67.12343597"
+    },
+    {
+        "country": "Belize",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "69.2307663"
+    },
+    {
+        "country": "Belize",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "43.75"
+    },
+    {
+        "country": "Belize",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "61.90476227"
+    },
+    {
+        "country": "Belize",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "66.66666412"
+    },
+    {
+        "country": "Belize",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "29.03225327"
+    },
+    {
+        "country": "Bolívia",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "50.25773239"
+    },
+    {
+        "country": "Bolívia",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "39.67280197"
+    },
+    {
+        "country": "Bolívia",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "32.48120499"
+    },
+    {
+        "country": "Bolívia",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "27.22222137"
+    },
+    {
+        "country": "Bolívia",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "31.62467384"
+    },
+    {
+        "country": "Brasil",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "88.97200012"
+    },
+    {
+        "country": "Brasil",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "86.18850708"
+    },
+    {
+        "country": "Brasil",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "81.42497253"
+    },
+    {
+        "country": "Brasil",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "68.16007233"
+    },
+    {
+        "country": "Brasil",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "81.72689056"
+    },
+    {
+        "country": "Canadá",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "71.10231018"
+    },
+    {
+        "country": "Canadá",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "73.31990814"
+    },
+    {
+        "country": "Canadá",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "74.19731903"
+    },
+    {
+        "country": "Canadá",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "77.62297821"
+    },
+    {
+        "country": "Canadá",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "80.13643646"
+    },
+    {
+        "country": "Chile",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "47.50642776"
+    },
+    {
+        "country": "Chile",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "50.21730423"
+    },
+    {
+        "country": "Chile",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "36.98935699"
+    },
+    {
+        "country": "Chile",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "38.16027832"
+    },
+    {
+        "country": "Chile",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "52.95602036"
+    },
+    {
+        "country": "Colômbia",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "74.18827057"
+    },
+    {
+        "country": "Colômbia",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "79.01482391"
+    },
+    {
+        "country": "Colômbia",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "66.49510193"
+    },
+    {
+        "country": "Colômbia",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "61.58778763"
+    },
+    {
+        "country": "Colômbia",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "69.38152313"
+    },
+    {
+        "country": "Costa Rica",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "98.83382416"
+    },
+    {
+        "country": "Costa Rica",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "95.84859467"
+    },
+    {
+        "country": "Costa Rica",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "91.79810333"
+    },
+    {
+        "country": "Costa Rica",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "97.3073349"
+    },
+    {
+        "country": "Costa Rica",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "98.47634125"
+    },
+    {
+        "country": "Cuba",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0.5988001823"
+    },
+    {
+        "country": "Cuba",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0.456028223"
+    },
+    {
+        "country": "Cuba",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0.6321854591"
+    },
+    {
+        "country": "Cuba",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "0.9808695316"
+    },
+    {
+        "country": "Cuba",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "2.247806787"
+    },
+    {
+        "country": "República Tcheca",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "21.05624008"
+    },
+    {
+        "country": "República Tcheca",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "33.11363602"
+    },
+    {
+        "country": "República Tcheca",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "37.2565155"
+    },
+    {
+        "country": "República Tcheca",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "38.13795471"
+    },
+    {
+        "country": "República Tcheca",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "43.45593643"
+    },
+    {
+        "country": "Dinamarca",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "11.91073608"
+    },
+    {
+        "country": "Dinamarca",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "18.37583542"
+    },
+    {
+        "country": "Dinamarca",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "20.23226166"
+    },
+    {
+        "country": "Dinamarca",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "51.25086975"
+    },
+    {
+        "country": "Dinamarca",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "60.59043121"
+    },
+    {
+        "country": "Dominica",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "37.5"
+    },
+    {
+        "country": "Dominica",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "25"
+    },
+    {
+        "country": "Dominica",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "14.2857132"
+    },
+    {
+        "country": "Dominica",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "13.33333588"
+    },
+    {
+        "country": "Dominica",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "23.52941132"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "5.764798164"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "14.31783867"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "9.675237656"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "6.944440842"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "13.37047672"
+    },
+    {
+        "country": "Equador",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "71.50997162"
+    },
+    {
+        "country": "Equador",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "53.87658691"
+    },
+    {
+        "country": "Equador",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "44.02677536"
+    },
+    {
+        "country": "Equador",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "50.75494003"
+    },
+    {
+        "country": "Equador",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "79.63246155"
+    },
+    {
+        "country": "El Salvador",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "52.56064606"
+    },
+    {
+        "country": "El Salvador",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "56.34095764"
+    },
+    {
+        "country": "El Salvador",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "60.30150604"
+    },
+    {
+        "country": "El Salvador",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "49.17763138"
+    },
+    {
+        "country": "El Salvador",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "76.69290924"
+    },
+    {
+        "country": "Estônia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "-0.0000008717179298"
+    },
+    {
+        "country": "Estônia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "0.6862733364"
+    },
+    {
+        "country": "Estônia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "2.390137672"
+    },
+    {
+        "country": "Estônia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "7.290635109"
+    },
+    {
+        "country": "Estônia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "14.04494476"
+    },
+    {
+        "country": "Finlândia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "53.1942215"
+    },
+    {
+        "country": "Finlândia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "52.74943542"
+    },
+    {
+        "country": "Finlândia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "44.65525436"
+    },
+    {
+        "country": "Finlândia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "61.74026489"
+    },
+    {
+        "country": "Finlândia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "70.87797546"
+    },
+    {
+        "country": "França",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "90.22645569"
+    },
+    {
+        "country": "França",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "88.4000473"
+    },
+    {
+        "country": "França",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "89.04616547"
+    },
+    {
+        "country": "França",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "91.05223846"
+    },
+    {
+        "country": "França",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "85.02184296"
+    },
+    {
+        "country": "Alemanha",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "35.27375031"
+    },
+    {
+        "country": "Alemanha",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "34.52733994"
+    },
+    {
+        "country": "Alemanha",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "33.97093964"
+    },
+    {
+        "country": "Alemanha",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "35.92158127"
+    },
+    {
+        "country": "Alemanha",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "41.94054031"
+    },
+    {
+        "country": "Grécia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "7.820167542"
+    },
+    {
+        "country": "Grécia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "10.71002769"
+    },
+    {
+        "country": "Grécia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "18.26532173"
+    },
+    {
+        "country": "Grécia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "28.63858795"
+    },
+    {
+        "country": "Grécia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "42.37551117"
+    },
+    {
+        "country": "Granada",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Granada",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Granada",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Granada",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Granada",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "4"
+    },
+    {
+        "country": "Guatemala",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "41.79566193"
+    },
+    {
+        "country": "Guatemala",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "44.17265701"
+    },
+    {
+        "country": "Guatemala",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "46.04072571"
+    },
+    {
+        "country": "Guatemala",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "39.39122772"
+    },
+    {
+        "country": "Guatemala",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "45.516716"
+    },
+    {
+        "country": "Guiana",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "-0.000004291534424"
+    },
+    {
+        "country": "Guiana",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "-0.000001788139343"
+    },
+    {
+        "country": "Guiana",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "0.000004053115845"
+    },
+    {
+        "country": "Guiana",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Guiana",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "0.8771939278"
+    },
+    {
+        "country": "Haiti",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "51.85185242"
+    },
+    {
+        "country": "Haiti",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "47.27272797"
+    },
+    {
+        "country": "Haiti",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "25"
+    },
+    {
+        "country": "Haiti",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "7.766990662"
+    },
+    {
+        "country": "Haiti",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "13.46153259"
+    },
+    {
+        "country": "Honduras",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "61.53845978"
+    },
+    {
+        "country": "Honduras",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "30.74141121"
+    },
+    {
+        "country": "Honduras",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "42.36111069"
+    },
+    {
+        "country": "Honduras",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "36.60619354"
+    },
+    {
+        "country": "Honduras",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "52.62281418"
+    },
+    {
+        "country": "Hungria",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "40.80704498"
+    },
+    {
+        "country": "Hungria",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "39.27272797"
+    },
+    {
+        "country": "Hungria",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "44.11135101"
+    },
+    {
+        "country": "Hungria",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "55.68743896"
+    },
+    {
+        "country": "Hungria",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "59.64764786"
+    },
+    {
+        "country": "Islândia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Islândia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Islândia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Islândia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Islândia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Irã",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "4.614740372"
+    },
+    {
+        "country": "Irã",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "6.802192211"
+    },
+    {
+        "country": "Irã",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "12.1309166"
+    },
+    {
+        "country": "Irã",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "26.31954765"
+    },
+    {
+        "country": "Irã",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "35.82489395"
+    },
+    {
+        "country": "Israel",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "0.07032012939"
+    },
+    {
+        "country": "Israel",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "0.08229064941"
+    },
+    {
+        "country": "Israel",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "0.1878677309"
+    },
+    {
+        "country": "Israel",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "1.790438414"
+    },
+    {
+        "country": "Israel",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "9.945991516"
+    },
+    {
+        "country": "Itália",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "18.32999611"
+    },
+    {
+        "country": "Itália",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "14.85252953"
+    },
+    {
+        "country": "Itália",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "22.76573563"
+    },
+    {
+        "country": "Itália",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "31.9985733"
+    },
+    {
+        "country": "Itália",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "29.51850128"
+    },
+    {
+        "country": "Jamaica",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "1.624815464"
+    },
+    {
+        "country": "Jamaica",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "2.677374363"
+    },
+    {
+        "country": "Jamaica",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "4.629633904"
+    },
+    {
+        "country": "Jamaica",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "6.308417797"
+    },
+    {
+        "country": "Jamaica",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "12.20043945"
+    },
+    {
+        "country": "Japão",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "36.74193192"
+    },
+    {
+        "country": "Japão",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "32.44728851"
+    },
+    {
+        "country": "Japão",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "33.6294632"
+    },
+    {
+        "country": "Japão",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "12.62474442"
+    },
+    {
+        "country": "Japão",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "22.95196533"
+    },
+    {
+        "country": "Letônia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "68.11593628"
+    },
+    {
+        "country": "Letônia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "68.6991806"
+    },
+    {
+        "country": "Letônia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "53.84615707"
+    },
+    {
+        "country": "Letônia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "36.28158569"
+    },
+    {
+        "country": "Letônia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "59.71943665"
+    },
+    {
+        "country": "Lituânia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "78.70619965"
+    },
+    {
+        "country": "Lituânia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "74.82662964"
+    },
+    {
+        "country": "Lituânia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "15.19999695"
+    },
+    {
+        "country": "Lituânia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "29.07801437"
+    },
+    {
+        "country": "Lituânia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "58.00971222"
+    },
+    {
+        "country": "Luxemburgo",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "35"
+    },
+    {
+        "country": "Luxemburgo",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "4.776116371"
+    },
+    {
+        "country": "Luxemburgo",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "5.864192486"
+    },
+    {
+        "country": "Luxemburgo",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "22.38806152"
+    },
+    {
+        "country": "Luxemburgo",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "55.08473969"
+    },
+    {
+        "country": "México",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "20.292696"
+    },
+    {
+        "country": "México",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "15.5422039"
+    },
+    {
+        "country": "México",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "16.07881355"
+    },
+    {
+        "country": "México",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "16.56839371"
+    },
+    {
+        "country": "México",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "25.28985596"
+    },
+    {
+        "country": "Países Baixos",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "5.575740814"
+    },
+    {
+        "country": "Países Baixos",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "6.292498112"
+    },
+    {
+        "country": "Países Baixos",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "6.875528336"
+    },
+    {
+        "country": "Países Baixos",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "11.77171898"
+    },
+    {
+        "country": "Países Baixos",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "35.56700897"
+    },
+    {
+        "country": "Nova Zelândia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "69.57080078"
+    },
+    {
+        "country": "Nova Zelândia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "62.80603027"
+    },
+    {
+        "country": "Nova Zelândia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "71.38343811"
+    },
+    {
+        "country": "Nova Zelândia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "78.19600677"
+    },
+    {
+        "country": "Nova Zelândia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "83.23149872"
+    },
+    {
+        "country": "Nicarágua",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "14.91227818"
+    },
+    {
+        "country": "Nicarágua",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "24.47551727"
+    },
+    {
+        "country": "Nicarágua",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "26.30137253"
+    },
+    {
+        "country": "Nicarágua",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "40.08714676"
+    },
+    {
+        "country": "Nicarágua",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "46.97674561"
+    },
+    {
+        "country": "Noruega",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "99.52988434"
+    },
+    {
+        "country": "Noruega",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "99.22768402"
+    },
+    {
+        "country": "Noruega",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "95.50917053"
+    },
+    {
+        "country": "Noruega",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "97.77622223"
+    },
+    {
+        "country": "Noruega",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "98.4916687"
+    },
+    {
+        "country": "Panamá",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "69.93865204"
+    },
+    {
+        "country": "Panamá",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "63.91752625"
+    },
+    {
+        "country": "Panamá",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "56.77506638"
+    },
+    {
+        "country": "Panamá",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "65.04854584"
+    },
+    {
+        "country": "Panamá",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "77.99401855"
+    },
+    {
+        "country": "Paraguai",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Paraguai",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Paraguai",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "100"
+    },
+    {
+        "country": "Paraguai",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "99.73161316"
+    },
+    {
+        "country": "Paraguai",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "99.6818924"
+    },
+    {
+        "country": "Peru",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "81.17469788"
+    },
+    {
+        "country": "Peru",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "70.90195465"
+    },
+    {
+        "country": "Peru",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "55.83728409"
+    },
+    {
+        "country": "Peru",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "50.83903122"
+    },
+    {
+        "country": "Peru",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "60.32269287"
+    },
+    {
+        "country": "Polônia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "1.473666549"
+    },
+    {
+        "country": "Polônia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "1.506850839"
+    },
+    {
+        "country": "Polônia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "2.921483517"
+    },
+    {
+        "country": "Polônia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "7.760196209"
+    },
+    {
+        "country": "Polônia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "16.80761337"
+    },
+    {
+        "country": "Portugal",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "26.77621269"
+    },
+    {
+        "country": "Portugal",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "14.27949715"
+    },
+    {
+        "country": "Portugal",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "48.1301384"
+    },
+    {
+        "country": "Portugal",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "41.572155"
+    },
+    {
+        "country": "Portugal",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "50.75496292"
+    },
+    {
+        "country": "São Cristóvão e Névis",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "São Cristóvão e Névis",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "São Cristóvão e Névis",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "São Cristóvão e Névis",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "4.545455933"
+    },
+    {
+        "country": "São Cristóvão e Névis",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "4.545455933"
+    },
+    {
+        "country": "Santa Lúcia",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Santa Lúcia",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Santa Lúcia",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Santa Lúcia",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "Santa Lúcia",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "São Vicente e Granadinas",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "30"
+    },
+    {
+        "country": "São Vicente e Granadinas",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "21.42857361"
+    },
+    {
+        "country": "São Vicente e Granadinas",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "20"
+    },
+    {
+        "country": "São Vicente e Granadinas",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "13.33333588"
+    },
+    {
+        "country": "São Vicente e Granadinas",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "23.52941132"
+    },
+    {
+        "country": "Rep. Eslovaca",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "68.55101013"
+    },
+    {
+        "country": "Rep. Eslovaca",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "71.41033936"
+    },
+    {
+        "country": "Rep. Eslovaca",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "72.32337952"
+    },
+    {
+        "country": "Rep. Eslovaca",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "73.40345764"
+    },
+    {
+        "country": "Rep. Eslovaca",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "76.29992676"
+    },
+    {
+        "country": "Eslovênia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "63.11535645"
+    },
+    {
+        "country": "Eslovênia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "61.81336975"
+    },
+    {
+        "country": "Eslovênia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "62.66912842"
+    },
+    {
+        "country": "Eslovênia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "65.81080627"
+    },
+    {
+        "country": "Eslovênia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "70.50898743"
+    },
+    {
+        "country": "Coreia do Sul",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "38.90515137"
+    },
+    {
+        "country": "Coreia do Sul",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "38.66536713"
+    },
+    {
+        "country": "Coreia do Sul",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "31.08296585"
+    },
+    {
+        "country": "Coreia do Sul",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "31.48593903"
+    },
+    {
+        "country": "Coreia do Sul",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "33.84223557"
+    },
+    {
+        "country": "Espanha",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "43.0970459"
+    },
+    {
+        "country": "Espanha",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "33.56594849"
+    },
+    {
+        "country": "Espanha",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "52.3001976"
+    },
+    {
+        "country": "Espanha",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "53.58444595"
+    },
+    {
+        "country": "Espanha",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "60.71889877"
+    },
+    {
+        "country": "Suriname",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "73.95832825"
+    },
+    {
+        "country": "Suriname",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "48.52070999"
+    },
+    {
+        "country": "Suriname",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "61.22449112"
+    },
+    {
+        "country": "Suriname",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "25.8064518"
+    },
+    {
+        "country": "Suriname",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "47.8468895"
+    },
+    {
+        "country": "Suécia",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "93.89244843"
+    },
+    {
+        "country": "Suécia",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "92.26446533"
+    },
+    {
+        "country": "Suécia",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "86.04244232"
+    },
+    {
+        "country": "Suécia",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "91.40740967"
+    },
+    {
+        "country": "Suécia",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "90.75261688"
+    },
+    {
+        "country": "T&T",
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "0.00000211596489"
+    },
+    {
+        "country": "T&T",
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "0.000003457069397"
+    },
+    {
+        "country": "T&T",
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "0"
+    },
+    {
+        "country": "T&T",
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "0.1044921875"
+    },
+    {
+        "country": "T&T",
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "0.1061553955"
+    },
+    {
+        "country": "Reino Unido",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "24.15795898"
+    },
+    {
+        "country": "Reino Unido",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "22.4551239"
+    },
+    {
+        "country": "Reino Unido",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "19.90787125"
+    },
+    {
+        "country": "Reino Unido",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "36.72204971"
+    },
+    {
+        "country": "Reino Unido",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "45.14704514"
+    },
+    {
+        "country": "EUA.",
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "27.46087646"
+    },
+    {
+        "country": "EUA.",
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "26.78445244"
+    },
+    {
+        "country": "EUA.",
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "28.57018089"
+    },
+    {
+        "country": "EUA.",
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "31.58773994"
+    },
+    {
+        "country": "EUA.",
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "39.13868332"
+    },
+    {
+        "country": "Uruguai",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "92.88537598"
+    },
+    {
+        "country": "Uruguai",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "86.97916412"
+    },
+    {
+        "country": "Uruguai",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "78.95716858"
+    },
+    {
+        "country": "Uruguai",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "75.61862946"
+    },
+    {
+        "country": "Uruguai",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "72.2661438"
+    },
+    {
+        "country": "Venezuela",
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "73.75395203"
+    },
+    {
+        "country": "Venezuela",
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "73.28019714"
+    },
+    {
+        "country": "Venezuela",
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "67.4929657"
+    },
+    {
+        "country": "Venezuela",
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "58.81430054"
+    },
+    {
+        "country": "Venezuela",
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "77.69903564"
+    },
+    {
+        "country": null,
+        "year": "2000",
+        "region": "Caribe",
+        "cleanEnergy": "9.8"
+    },
+    {
+        "country": null,
+        "year": "2005",
+        "region": "Caribe",
+        "cleanEnergy": "8.6"
+    },
+    {
+        "country": null,
+        "year": "2010",
+        "region": "Caribe",
+        "cleanEnergy": "5.7"
+    },
+    {
+        "country": null,
+        "year": "2015",
+        "region": "Caribe",
+        "cleanEnergy": "4.4"
+    },
+    {
+        "country": null,
+        "year": "2022",
+        "region": "Caribe",
+        "cleanEnergy": "8.5"
+    },
+    {
+        "country": null,
+        "year": "2000",
+        "region": "América Latina",
+        "cleanEnergy": "61.8"
+    },
+    {
+        "country": null,
+        "year": "2005",
+        "region": "América Latina",
+        "cleanEnergy": "55.4"
+    },
+    {
+        "country": null,
+        "year": "2010",
+        "region": "América Latina",
+        "cleanEnergy": "53.8"
+    },
+    {
+        "country": null,
+        "year": "2015",
+        "region": "América Latina",
+        "cleanEnergy": "50.4"
+    },
+    {
+        "country": null,
+        "year": "2022",
+        "region": "América Latina",
+        "cleanEnergy": "58.2"
+    },
+    {
+        "country": null,
+        "year": "2000",
+        "region": "Mundo",
+        "cleanEnergy": "34.3"
+    },
+    {
+        "country": null,
+        "year": "2005",
+        "region": "Mundo",
+        "cleanEnergy": "32"
+    },
+    {
+        "country": null,
+        "year": "2010",
+        "region": "Mundo",
+        "cleanEnergy": "31"
+    },
+    {
+        "country": null,
+        "year": "2015",
+        "region": "Mundo",
+        "cleanEnergy": "31.6"
+    },
+    {
+        "country": null,
+        "year": "2022",
+        "region": "Mundo",
+        "cleanEnergy": "36.2"
+    },
+    {
+        "country": null,
+        "year": "2000",
+        "region": "OCDE",
+        "cleanEnergy": "38"
+    },
+    {
+        "country": null,
+        "year": "2005",
+        "region": "OCDE",
+        "cleanEnergy": "36.4"
+    },
+    {
+        "country": null,
+        "year": "2010",
+        "region": "OCDE",
+        "cleanEnergy": "37.2"
+    },
+    {
+        "country": null,
+        "year": "2015",
+        "region": "OCDE",
+        "cleanEnergy": "38.8"
+    },
+    {
+        "country": null,
+        "year": "2022",
+        "region": "OCDE",
+        "cleanEnergy": "44.8"
+    }
+]

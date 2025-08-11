@@ -1,0 +1,111 @@
+year,region,homicideVictims,country
+2000,América Central,17.05448283,Belize
+2010,América Central,40.04886583,Belize
+2022,América Central,27.88247414,Belize
+2000,América Central,6.257550212,Costa Rica
+2010,América Central,11.40136886,Costa Rica
+2023,América Central,17.38238543,Costa Rica
+2000,América Central,59.59571582,El Salvador
+2010,América Central,65.21061787,El Salvador
+2022,América Central,7.827798533,El Salvador
+2000,América Central,24.74459977,Guatemala
+2010,América Central,40.98157473,Guatemala
+2021,América Central,19.99036374,Guatemala
+2000,América Central,47.71114925,Honduras
+2010,América Central,73.79066903,Honduras
+2022,América Central,35.07188034,Honduras
+2000,América Central,10.97028957,México
+2010,América Central,22.88851901,México
+2022,América Central,26.10660625,México
+2000,América Central,9.291026371,Nicarágua
+2010,América Central,13.40566358,Nicarágua
+2021,América Central,11.00643161,Nicarágua
+2000,América Central,9.960915898,Panamá
+2010,América Central,12.69449484,Panamá
+2022,América Central,11.31883607,Panamá
+2001,América do Sul,8.348342697,Argentina
+2010,América do Sul,5.800469259,Argentina
+2022,América do Sul,4.308912981,Argentina
+2000,América do Sul,,Bolívia
+2015,América do Sul,4.896265006,Bolívia
+2023,América do Sul,4.318496459,Bolívia
+2000,América do Sul,25.79976133,Brasil
+2010,América do Sul,26.63003314,Brasil
+2022,América do Sul,20.60576806,Brasil
+2003,América do Sul,3.234733445,Chile
+2010,América do Sul,3.181574017,Chile
+2022,América do Sul,6.743613576,Chile
+2000,América do Sul,67.67539962,Colômbia
+2010,América do Sul,34.49429388,Colômbia
+2022,América do Sul,25.26890916,Colômbia
+2000,América do Sul,14.51707903,Equador
+2010,América do Sul,17.50548681,Equador
+2022,América do Sul,26.99294484,Equador
+2000,América do Sul,10.01250245,Guiana
+2010,América do Sul,18.71829172,Guiana
+2022,América do Sul,16.19832687,Guiana
+2000,América do Sul,19.41910907,Paraguai
+2010,América do Sul,12.84537548,Paraguai
+2022,América do Sul,6.960888068,Paraguai
+2000,América do Sul,,Peru
+2011,América do Sul,5.485498506,Peru
+2021,América do Sul,8.461990388,Peru
+2000,América do Sul,14.19628663,Suriname
+2013,América do Sul,5.142327205,Suriname
+2022,América do Sul,7.28107624,Suriname
+2000,América do Sul,6.500163263,Uruguai
+2010,América do Sul,6.114564266,Uruguai
+2022,América do Sul,11.18969053,Uruguai
+2000,América do Sul,32.83972898,Venezuela
+2010,América do Sul,45.55107079,Venezuela
+2022,América do Sul,12.60701854,Venezuela
+2000,Caribe,6.66178136,Antígua e Barbuda
+2010,Caribe,7.001575354,Antígua e Barbuda
+2022,Caribe,10.66518776,Antígua e Barbuda
+2000,Caribe,22.76824998,Bahamas
+2010,Caribe,25.18270859,Bahamas
+2022,Caribe,31.22073057,Bahamas
+2000,Caribe,7.556951073,Barbados
+2010,Caribe,11.28458635,Barbados
+2022,Caribe,15.26798871,Barbados
+2000,Caribe,5.285530765,Cuba
+2010,Caribe,4.472819341,Cuba
+2019,Caribe,4.418250307,Cuba
+2000,Caribe,2.926286835,Dominica
+2010,Caribe,21.81659516,Dominica
+2022,Caribe,26.12132669,Dominica
+2000,Caribe,14.16730439,Rep. Dominicana
+2010,Caribe,25.30750822,Rep. Dominicana
+2022,Caribe,12.36995407,Rep. Dominicana
+2000,Caribe,13.96232035,Granada
+2010,Caribe,8.768929927,Granada
+2022,Caribe,6.377678127,Granada
+2010,Caribe,6.878068208,Haiti
+2023,Caribe,40.84517355,Haiti
+2000,Caribe,33.95598737,Jamaica
+2010,Caribe,52.92812894,Jamaica
+2022,Caribe,53.3356535,Jamaica
+2000,Caribe,6.599062933,São Cristóvão e Névis
+2010,Caribe,44.30099361,São Cristóvão e Névis
+2022,Caribe,23.0813618,São Cristóvão e Névis
+2000,Caribe,14.4200627,Santa Lúcia
+2010,Caribe,25.74077866,Santa Lúcia
+2022,Caribe,36.69571744,Santa Lúcia
+2000,Caribe,17.57276222,São Vicente e Granadinas
+2010,Caribe,22.87125769,São Vicente e Granadinas
+2022,Caribe,40.40501215,São Vicente e Granadinas
+2000,Caribe,9.007636224,T&T
+2010,Caribe,33.53905847,T&T
+2022,Caribe,39.51550722,T&T
+2000,,7.77097553,Europa
+2010,,3.485121805,Europa
+2022,,2.185395589,Europa
+2000,,21.65831313,América Latina e Caribe
+2010,,23.7455757,América Latina e Caribe
+2022,,19.57897096,América Latina e Caribe
+2000,,5.154759399,América do Norte
+2010,,4.430708226,América do Norte
+2022,,5.965737435,América do Norte
+2000,,6.901814193,Mundo
+2010,,6.074348814,Mundo
+2022,,5.6144224,Mundo

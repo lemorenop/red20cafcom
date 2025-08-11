@@ -1,0 +1,226 @@
+[
+  {
+    "country": "Belize",
+    "percentage": "56.09999847",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Uruguai",
+    "percentage": "36.40000153",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Bolívia",
+    "percentage": "29.70000076",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Brasil",
+    "percentage": "27.89999962",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Chile",
+    "percentage": "27.20000076",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Honduras",
+    "percentage": "26.5",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "México",
+    "percentage": "25.20000076",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "El Salvador",
+    "percentage": "24.60000038",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Argentina",
+    "percentage": "22.79999924",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Equador",
+    "percentage": "21.60000038",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Guiana",
+    "percentage": "21.5",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Venezuela",
+    "percentage": "20.5",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Paraguai",
+    "percentage": "20.20000076",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Guatemala",
+    "percentage": "19.20000076",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Colômbia",
+    "percentage": "17",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Peru",
+    "percentage": "16.20000076",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Costa Rica",
+    "percentage": "14.39999962",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Suriname",
+    "percentage": "13.5",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Nicarágua",
+    "percentage": "10.5",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Panamá",
+    "percentage": "0.5",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": null,
+    "percentage": null,
+    "oecdHighIncomeNonLacAverage": null,
+    "latinAmericaAverage": null,
+    "caribbeanAverage": null
+  },
+  {
+    "country": "São Cristóvão e Névis",
+    "percentage": "30.89999962",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Antígua e Barbuda",
+    "percentage": "24.39999962",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Santa Lúcia",
+    "percentage": "21.10000038",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Granada",
+    "percentage": "14.80000019",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Bahamas",
+    "percentage": "14.30000019",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Rep. Dominicana",
+    "percentage": "13.80000019",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "São Vicente e Granadinas",
+    "percentage": "12",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Dominica",
+    "percentage": "11.80000019",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Jamaica",
+    "percentage": "11.80000019",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "TTO",
+    "percentage": "11.60000038",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  },
+  {
+    "country": "Barbados",
+    "percentage": "3.799999952",
+    "oecdHighIncomeNonLacAverage": "13.53333321",
+    "latinAmericaAverage": "22.57500019",
+    "caribbeanAverage": "15.48181826"
+  }
+]

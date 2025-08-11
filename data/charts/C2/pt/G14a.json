@@ -1,0 +1,267 @@
+[
+    {
+        "country": "Argentina",
+        "latinAmerica": "0.5176",
+        "oecd": null
+    },
+    {
+        "country": "Brasil",
+        "latinAmerica": "1.1453",
+        "oecd": null
+    },
+    {
+        "country": "Chile",
+        "latinAmerica": "0.3350",
+        "oecd": null
+    },
+    {
+        "country": "Colômbia",
+        "latinAmerica": "0.2896",
+        "oecd": null
+    },
+    {
+        "country": "Costa Rica",
+        "latinAmerica": "0.2753",
+        "oecd": null
+    },
+    {
+        "country": "Equador",
+        "latinAmerica": "0.4427",
+        "oecd": null
+    },
+    {
+        "country": "Guatemala",
+        "latinAmerica": "0.0586",
+        "oecd": null
+    },
+    {
+        "country": "Honduras",
+        "latinAmerica": "0.0595",
+        "oecd": null
+    },
+    {
+        "country": "México",
+        "latinAmerica": "0.2824",
+        "oecd": null
+    },
+    {
+        "country": "Nicarágua",
+        "latinAmerica": "0.1074",
+        "oecd": null
+    },
+    {
+        "country": "Panamá",
+        "latinAmerica": "0.1769",
+        "oecd": null
+    },
+    {
+        "country": "Peru",
+        "latinAmerica": "0.1392",
+        "oecd": null
+    },
+    {
+        "country": "Paraguai",
+        "latinAmerica": "0.1440",
+        "oecd": null
+    },
+    {
+        "country": "El Salvador",
+        "latinAmerica": "0.1603",
+        "oecd": null
+    },
+    {
+        "country": "T&T",
+        "latinAmerica": "0.0538",
+        "oecd": null
+    },
+    {
+        "country": "Uruguai",
+        "latinAmerica": "0.4204",
+        "oecd": null
+    },
+    {
+        "country": "Venezuela",
+        "latinAmerica": "0.6900",
+        "oecd": null
+    },
+    {
+        "country": "Austrália",
+        "latinAmerica": null,
+        "oecd": "1.8289"
+    },
+    {
+        "country": "Áustria",
+        "latinAmerica": null,
+        "oecd": "3.2563"
+    },
+    {
+        "country": "Bélgica",
+        "latinAmerica": null,
+        "oecd": "3.4298"
+    },
+    {
+        "country": "Canadá",
+        "latinAmerica": null,
+        "oecd": "1.6973"
+    },
+    {
+        "country": "Suíça",
+        "latinAmerica": null,
+        "oecd": "3.3592"
+    },
+    {
+        "country": "Rep. Tcheca",
+        "latinAmerica": null,
+        "oecd": "1.9960"
+    },
+    {
+        "country": "Alemanha",
+        "latinAmerica": null,
+        "oecd": "3.1425"
+    },
+    {
+        "country": "Dinamarca",
+        "latinAmerica": null,
+        "oecd": "2.8126"
+    },
+    {
+        "country": "Espanha",
+        "latinAmerica": null,
+        "oecd": "1.4293"
+    },
+    {
+        "country": "Estônia",
+        "latinAmerica": null,
+        "oecd": "1.7522"
+    },
+    {
+        "country": "Finlândia",
+        "latinAmerica": null,
+        "oecd": "2.9893"
+    },
+    {
+        "country": "França",
+        "latinAmerica": null,
+        "oecd": "2.2192"
+    },
+    {
+        "country": "Reino Unido",
+        "latinAmerica": null,
+        "oecd": "2.9148"
+    },
+    {
+        "country": "Grécia",
+        "latinAmerica": null,
+        "oecd": "1.4564"
+    },
+    {
+        "country": "Hungria",
+        "latinAmerica": null,
+        "oecd": "1.6423"
+    },
+    {
+        "country": "Irã",
+        "latinAmerica": null,
+        "oecd": "1.1309"
+    },
+    {
+        "country": "Islândia",
+        "latinAmerica": null,
+        "oecd": "2.8054"
+    },
+    {
+        "country": "Israel",
+        "latinAmerica": null,
+        "oecd": "5.5567"
+    },
+    {
+        "country": "Itália",
+        "latinAmerica": null,
+        "oecd": "1.4539"
+    },
+    {
+        "country": "Japão",
+        "latinAmerica": null,
+        "oecd": "3.2958"
+    },
+    {
+        "country": "Coreia do Sul",
+        "latinAmerica": null,
+        "oecd": "4.9301"
+    },
+    {
+        "country": "Lituânia",
+        "latinAmerica": null,
+        "oecd": "1.1108"
+    },
+    {
+        "country": "Luxemburgo",
+        "latinAmerica": null,
+        "oecd": "1.0422"
+    },
+    {
+        "country": "Letônia",
+        "latinAmerica": null,
+        "oecd": "0.7409"
+    },
+    {
+        "country": "Países Baixos",
+        "latinAmerica": null,
+        "oecd": "2.3089"
+    },
+    {
+        "country": "Noruega",
+        "latinAmerica": null,
+        "oecd": "1.9380"
+    },
+    {
+        "country": "Nova Zelândia",
+        "latinAmerica": null,
+        "oecd": "1.4547"
+    },
+    {
+        "country": "Polônia",
+        "latinAmerica": null,
+        "oecd": "1.4359"
+    },
+    {
+        "country": "Portugal",
+        "latinAmerica": null,
+        "oecd": "1.6807"
+    },
+    {
+        "country": "Eslováquia",
+        "latinAmerica": null,
+        "oecd": "0.9154"
+    },
+    {
+        "country": "Eslovênia",
+        "latinAmerica": null,
+        "oecd": "2.1309"
+    },
+    {
+        "country": "Suécia",
+        "latinAmerica": null,
+        "oecd": "3.4174"
+    },
+    {
+        "country": "Turquia",
+        "latinAmerica": null,
+        "oecd": "1.4035"
+    },
+    {
+        "country": "EUA.",
+        "latinAmerica": null,
+        "oecd": "3.4571"
+    },
+    {
+        "country": "Média da ALC",
+        "latinAmerica": "0.3116",
+        "oecd": null
+    },
+    {
+        "country": "Média da OCDE",
+        "latinAmerica": null,
+        "oecd": "2.2981"
+    }
+]

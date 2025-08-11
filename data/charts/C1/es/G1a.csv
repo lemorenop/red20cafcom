@@ -1,0 +1,677 @@
+sdgNumber,sdgName,goal,region,trendMovingAwayFromGoal,correctTrendButProgressTooSlow,goalAchievedOrLikelyToAchieve,insufficientData
+1,Fin de la pobreza,1.1,América Latina y el Caribe,1,,,
+1,Fin de la pobreza,1.2,América Latina y el Caribe,,1,,
+1,Fin de la pobreza,1.3,América Latina y el Caribe,1,,,
+1,Fin de la pobreza,1.4,América Latina y el Caribe,,1,,
+1,Fin de la pobreza,1.5,América Latina y el Caribe,,1,,
+1,Fin de la pobreza,1.a,América Latina y el Caribe,,1,,
+1,Fin de la pobreza,1.b,América Latina y el Caribe,,,,1
+2,Poner fin al hambre,2.1,América Latina y el Caribe,1,,,
+2,Poner fin al hambre,2.2,América Latina y el Caribe,,1,,
+2,Poner fin al hambre,2.3,América Latina y el Caribe,,,,1
+2,Poner fin al hambre,2.4,América Latina y el Caribe,1,,,
+2,Poner fin al hambre,2.5,América Latina y el Caribe,,1,,
+2,Poner fin al hambre,2.a,América Latina y el Caribe,1,,,
+2,Poner fin al hambre,2.b,América Latina y el Caribe,,,1,
+2,Poner fin al hambre,2.c,América Latina y el Caribe,,1,,
+3,Salud y bienestar,3.1,América Latina y el Caribe,,1,,
+3,Salud y bienestar,3.2,América Latina y el Caribe,,,1,
+3,Salud y bienestar,3.3,América Latina y el Caribe,,1,,
+3,Salud y bienestar,3.4,América Latina y el Caribe,1,,,
+3,Salud y bienestar,3.5,América Latina y el Caribe,,,1,
+3,Salud y bienestar,3.6,América Latina y el Caribe,,1,,
+3,Salud y bienestar,3.7,América Latina y el Caribe,,1,,
+3,Salud y bienestar,3.8,América Latina y el Caribe,1,,,
+3,Salud y bienestar,3.9,América Latina y el Caribe,,,1,
+3,Salud y bienestar,3.a,América Latina y el Caribe,,,,
+3,Salud y bienestar,3.b,América Latina y el Caribe,1,,,
+3,Salud y bienestar,3.c,América Latina y el Caribe,,,1,
+3,Salud y bienestar,3.d,América Latina y el Caribe,1,,,
+4,Educación de calidad,4.1,América Latina y el Caribe,1,,,
+4,Educación de calidad,4.2,América Latina y el Caribe,,1,,
+4,Educación de calidad,4.3,América Latina y el Caribe,,,1,
+4,Educación de calidad,4.4,América Latina y el Caribe,,,,1
+4,Educación de calidad,4.5,América Latina y el Caribe,,,1,
+4,Educación de calidad,4.6,América Latina y el Caribe,,1,,
+4,Educación de calidad,4.7,América Latina y el Caribe,,,,1
+4,Educación de calidad,4.a,América Latina y el Caribe,,1,,
+4,Educación de calidad,4.b,América Latina y el Caribe,1,,,
+4,Educación de calidad,4.c,América Latina y el Caribe,,1,,
+5,Igualdad de género,5.1,América Latina y el Caribe,,,,1
+5,Igualdad de género,5.2,América Latina y el Caribe,,1,,
+5,Igualdad de género,5.3,América Latina y el Caribe,,1,,
+5,Igualdad de género,5.4,América Latina y el Caribe,,1,,
+5,Igualdad de género,5.5,América Latina y el Caribe,,1,,
+5,Igualdad de género,5.6,América Latina y el Caribe,,,,1
+5,Igualdad de género,5.a,América Latina y el Caribe,,,,1
+5,Igualdad de género,5.b,América Latina y el Caribe,,1,,
+5,Igualdad de género,5.c,América Latina y el Caribe,,,1,
+6,Agua limpia y saneamiento,6.1,América Latina y el Caribe,,1,,
+6,Agua limpia y saneamiento,6.2,América Latina y el Caribe,,1,,
+6,Agua limpia y saneamiento,6.3,América Latina y el Caribe,,1,,
+6,Agua limpia y saneamiento,6.4,América Latina y el Caribe,1,,,
+6,Agua limpia y saneamiento,6.5,América Latina y el Caribe,,1,,
+6,Agua limpia y saneamiento,6.6,América Latina y el Caribe,1,,,
+6,Agua limpia y saneamiento,6.a,América Latina y el Caribe,,1,,
+6,Agua limpia y saneamiento,6.b,América Latina y el Caribe,1,,,
+7,Energía asequible y no contaminable,7.1,América Latina y el Caribe,,1,,
+7,Energía asequible y no contaminable,7.2,América Latina y el Caribe,,,1,
+7,Energía asequible y no contaminable,7.3,América Latina y el Caribe,,1,,
+7,Energía asequible y no contaminable,7.a,América Latina y el Caribe,1,,,
+7,Energía asequible y no contaminable,7.b,América Latina y el Caribe,,,1,
+8,Trabajo decente y crecimiento económico,8.1,América Latina y el Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.2,América Latina y el Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.3,América Latina y el Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.4,América Latina y el Caribe,1,,,
+8,Trabajo decente y crecimiento económico,8.5,América Latina y el Caribe,1,,,
+8,Trabajo decente y crecimiento económico,8.6,América Latina y el Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.7,América Latina y el Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.8,América Latina y el Caribe,,,1,
+8,Trabajo decente y crecimiento económico,8.9,América Latina y el Caribe,,,1,
+8,Trabajo decente y crecimiento económico,8.10,América Latina y el Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.a,América Latina y el Caribe,1,,,
+8,Trabajo decente y crecimiento económico,8.b,América Latina y el Caribe,,,,1
+9,"Industria, innovación e infraestructura",9.1,América Latina y el Caribe,1,,,
+9,"Industria, innovación e infraestructura",9.2,América Latina y el Caribe,1,,,
+9,"Industria, innovación e infraestructura",9.3,América Latina y el Caribe,,,,1
+9,"Industria, innovación e infraestructura",9.4,América Latina y el Caribe,,,1,
+9,"Industria, innovación e infraestructura",9.5,América Latina y el Caribe,,1,,
+9,"Industria, innovación e infraestructura",9.a,América Latina y el Caribe,,1,,
+9,"Industria, innovación e infraestructura",9.b,América Latina y el Caribe,,,1,
+9,"Industria, innovación e infraestructura",9.c,América Latina y el Caribe,,,1,
+10,Reducción de las desigualdades,10.1,América Latina y el Caribe,,,,1
+10,Reducción de las desigualdades,10.2,América Latina y el Caribe,,1,,
+10,Reducción de las desigualdades,10.3,América Latina y el Caribe,,,,1
+10,Reducción de las desigualdades,10.4,América Latina y el Caribe,,1,,
+10,Reducción de las desigualdades,10.5,América Latina y el Caribe,1,,,
+10,Reducción de las desigualdades,10.6,América Latina y el Caribe,,1,,
+10,Reducción de las desigualdades,10.7,América Latina y el Caribe,1,,,
+10,Reducción de las desigualdades,10.a,América Latina y el Caribe,,1,,
+10,Reducción de las desigualdades,10.b,América Latina y el Caribe,1,,,
+10,Reducción de las desigualdades,10.c,América Latina y el Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.1,América Latina y el Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.2,América Latina y el Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.3,América Latina y el Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.4,América Latina y el Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.5,América Latina y el Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.6,América Latina y el Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.7,América Latina y el Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.a,América Latina y el Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.b,América Latina y el Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.c,América Latina y el Caribe,,,,1
+12,Producción y consumo responsables,12.1,América Latina y el Caribe,,,1,
+12,Producción y consumo responsables,12.2,América Latina y el Caribe,1,,,
+12,Producción y consumo responsables,12.3,América Latina y el Caribe,1,,,
+12,Producción y consumo responsables,12.4,América Latina y el Caribe,1,,,
+12,Producción y consumo responsables,12.5,América Latina y el Caribe,,1,,
+12,Producción y consumo responsables,12.6,América Latina y el Caribe,,,1,
+12,Producción y consumo responsables,12.7,América Latina y el Caribe,,,,1
+12,Producción y consumo responsables,12.8,América Latina y el Caribe,,,,1
+12,Producción y consumo responsables,12.a,América Latina y el Caribe,,,1,
+12,Producción y consumo responsables,12.b,América Latina y el Caribe,1,,,
+12,Producción y consumo responsables,12.c,América Latina y el Caribe,1,,,
+13,Acción por el clima,13.1,América Latina y el Caribe,,,,1
+13,Acción por el clima,13.2,América Latina y el Caribe,1,,,
+13,Acción por el clima,13.3,América Latina y el Caribe,1,,,
+13,Acción por el clima,13.a,América Latina y el Caribe,,,,1
+13,Acción por el clima,13.b,América Latina y el Caribe,,,,1
+14,Vida submarina,14.1,América Latina y el Caribe,1,,,
+14,Vida submarina,14.2,América Latina y el Caribe,,1,,
+14,Vida submarina,14.3,América Latina y el Caribe,,,,1
+14,Vida submarina,14.4,América Latina y el Caribe,,,,1
+14,Vida submarina,14.5,América Latina y el Caribe,,,1,
+14,Vida submarina,14.6,América Latina y el Caribe,,,1,
+14,Vida submarina,14.7,América Latina y el Caribe,,1,,
+14,Vida submarina,14.a,América Latina y el Caribe,1,,,
+14,Vida submarina,14.b,América Latina y el Caribe,,1,,
+14,Vida submarina,14.c,América Latina y el Caribe,,,,1
+15,Vida de ecosistemas terrestres,15.1,América Latina y el Caribe,,1,,
+15,Vida de ecosistemas terrestres,15.2,América Latina y el Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.3,América Latina y el Caribe,1,,,
+15,Vida de ecosistemas terrestres,15.4,América Latina y el Caribe,,1,,
+15,Vida de ecosistemas terrestres,15.5,América Latina y el Caribe,1,,,
+15,Vida de ecosistemas terrestres,15.6,América Latina y el Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.7,América Latina y el Caribe,,,,1
+15,Vida de ecosistemas terrestres,15.8,América Latina y el Caribe,,1,,
+15,Vida de ecosistemas terrestres,15.9,América Latina y el Caribe,,,,1
+15,Vida de ecosistemas terrestres,15.a,América Latina y el Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.b,América Latina y el Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.c,América Latina y el Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.1,América Latina y el Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.2,América Latina y el Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.3,América Latina y el Caribe,1,,,
+16,"Paz, justicia e instituciones sólidas",16.4,América Latina y el Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.5,América Latina y el Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.6,América Latina y el Caribe,1,,,
+16,"Paz, justicia e instituciones sólidas",16.7,América Latina y el Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.8,América Latina y el Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.9,América Latina y el Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.10,América Latina y el Caribe,1,,,
+16,"Paz, justicia e instituciones sólidas",16.a,América Latina y el Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.b,América Latina y el Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.1,América Latina y el Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.2,América Latina y el Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.3,América Latina y el Caribe,,,1,
+17,Alianzas para lograr los objetivos,17.4,América Latina y el Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.5,América Latina y el Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.6,América Latina y el Caribe,,,1,
+17,Alianzas para lograr los objetivos,17.7,América Latina y el Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.8,América Latina y el Caribe,,,1,
+17,Alianzas para lograr los objetivos,17.9,América Latina y el Caribe,,,1,
+17,Alianzas para lograr los objetivos,17.10,América Latina y el Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.11,América Latina y el Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.12,América Latina y el Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.13,América Latina y el Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.14,América Latina y el Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.15,América Latina y el Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.16,América Latina y el Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.17,América Latina y el Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.18,América Latina y el Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.19,América Latina y el Caribe,,,1,
+1,Fin de la pobreza,1.1,América del Sur,1,,,
+1,Fin de la pobreza,1.2,América del Sur,,1,,
+1,Fin de la pobreza,1.3,América del Sur,1,,,
+1,Fin de la pobreza,1.4,América del Sur,,1,,
+1,Fin de la pobreza,1.5,América del Sur,,,1,
+1,Fin de la pobreza,1.a,América del Sur,,1,,
+1,Fin de la pobreza,1.b,América del Sur,,,,1
+2,Poner fin al hambre,2.1,América del Sur,1,,,
+2,Poner fin al hambre,2.2,América del Sur,,1,,
+2,Poner fin al hambre,2.3,América del Sur,,,,1
+2,Poner fin al hambre,2.4,América del Sur,1,,,
+2,Poner fin al hambre,2.5,América del Sur,,,1,
+2,Poner fin al hambre,2.a,América del Sur,1,,,
+2,Poner fin al hambre,2.b,América del Sur,,,,1
+2,Poner fin al hambre,2.c,América del Sur,1,,,
+3,Salud y bienestar,3.1,América del Sur,1,,,
+3,Salud y bienestar,3.2,América del Sur,,,1,
+3,Salud y bienestar,3.3,América del Sur,1,,,
+3,Salud y bienestar,3.4,América del Sur,1,,,
+3,Salud y bienestar,3.5,América del Sur,,,1,
+3,Salud y bienestar,3.6,América del Sur,,1,,
+3,Salud y bienestar,3.7,América del Sur,1,,,
+3,Salud y bienestar,3.8,América del Sur,,1,,
+3,Salud y bienestar,3.9,América del Sur,,,1,
+3,Salud y bienestar,3.a,América del Sur,,,1,
+3,Salud y bienestar,3.b,América del Sur,1,,,
+3,Salud y bienestar,3.c,América del Sur,,,1,
+3,Salud y bienestar,3.d,América del Sur,1,,,
+4,Educación de calidad,4.1,América del Sur,,1,,
+4,Educación de calidad,4.2,América del Sur,,1,,
+4,Educación de calidad,4.3,América del Sur,,,1,
+4,Educación de calidad,4.4,América del Sur,,,,1
+4,Educación de calidad,4.5,América del Sur,,1,,
+4,Educación de calidad,4.6,América del Sur,,1,,
+4,Educación de calidad,4.7,América del Sur,,,,1
+4,Educación de calidad,4.a,América del Sur,,1,,
+4,Educación de calidad,4.b,América del Sur,1,,,
+4,Educación de calidad,4.c,América del Sur,,1,,
+5,Igualdad de género,5.1,América del Sur,,,,1
+5,Igualdad de género,5.2,América del Sur,1,,,
+5,Igualdad de género,5.3,América del Sur,,,,1
+5,Igualdad de género,5.4,América del Sur,1,,,
+5,Igualdad de género,5.5,América del Sur,,1,,
+5,Igualdad de género,5.6,América del Sur,,,,1
+5,Igualdad de género,5.a,América del Sur,,,,1
+5,Igualdad de género,5.b,América del Sur,,1,,
+5,Igualdad de género,5.c,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.1,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.2,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.3,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.4,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.5,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.6,América del Sur,,1,,
+6,Agua limpia y saneamiento,6.a,América del Sur,1,,,
+6,Agua limpia y saneamiento,6.b,América del Sur,,,,1
+7,Energía asequible y no contaminable,7.1,América del Sur,,,1,
+7,Energía asequible y no contaminable,7.2,América del Sur,,,1,
+7,Energía asequible y no contaminable,7.3,América del Sur,,1,,
+7,Energía asequible y no contaminable,7.a,América del Sur,1,,,
+7,Energía asequible y no contaminable,7.b,América del Sur,,,1,
+8,Trabajo decente y crecimiento económico,8.1,América del Sur,,,1,
+8,Trabajo decente y crecimiento económico,8.2,América del Sur,,1,,
+8,Trabajo decente y crecimiento económico,8.3,América del Sur,1,,,
+8,Trabajo decente y crecimiento económico,8.4,América del Sur,1,,,
+8,Trabajo decente y crecimiento económico,8.5,América del Sur,,1,,
+8,Trabajo decente y crecimiento económico,8.6,América del Sur,,1,,
+8,Trabajo decente y crecimiento económico,8.7,América del Sur,,,,1
+8,Trabajo decente y crecimiento económico,8.8,América del Sur,,,1,
+8,Trabajo decente y crecimiento económico,8.9,América del Sur,1,,,
+8,Trabajo decente y crecimiento económico,8.10,América del Sur,1,,,
+8,Trabajo decente y crecimiento económico,8.a,América del Sur,1,,,
+8,Trabajo decente y crecimiento económico,8.b,América del Sur,,,,1
+9,"Industria, innovación e infraestructura",9.1,América del Sur,1,,,
+9,"Industria, innovación e infraestructura",9.2,América del Sur,1,,,
+9,"Industria, innovación e infraestructura",9.3,América del Sur,,,,1
+9,"Industria, innovación e infraestructura",9.4,América del Sur,,,1,
+9,"Industria, innovación e infraestructura",9.5,América del Sur,1,,,
+9,"Industria, innovación e infraestructura",9.a,América del Sur,1,,,
+9,"Industria, innovación e infraestructura",9.b,América del Sur,1,,,
+9,"Industria, innovación e infraestructura",9.c,América del Sur,,1,,
+10,Reducción de las desigualdades,10.1,América del Sur,,,,1
+10,Reducción de las desigualdades,10.2,América del Sur,,1,,
+10,Reducción de las desigualdades,10.3,América del Sur,,,,1
+10,Reducción de las desigualdades,10.4,América del Sur,,1,,
+10,Reducción de las desigualdades,10.5,América del Sur,1,,,
+10,Reducción de las desigualdades,10.6,América del Sur,,1,,
+10,Reducción de las desigualdades,10.7,América del Sur,1,,,
+10,Reducción de las desigualdades,10.a,América del Sur,1,1,,
+10,Reducción de las desigualdades,10.b,América del Sur,1,,,
+10,Reducción de las desigualdades,10.c,América del Sur,,1,,
+11,Ciudades y comunidades sostenibles,11.1,América del Sur,1,,,
+11,Ciudades y comunidades sostenibles,11.2,América del Sur,,,,1
+11,Ciudades y comunidades sostenibles,11.3,América del Sur,,,,1
+11,Ciudades y comunidades sostenibles,11.4,América del Sur,,,,1
+11,Ciudades y comunidades sostenibles,11.5,América del Sur,,1,,
+11,Ciudades y comunidades sostenibles,11.6,América del Sur,,1,,
+11,Ciudades y comunidades sostenibles,11.7,América del Sur,,,,1
+11,Ciudades y comunidades sostenibles,11.a,América del Sur,,,,1
+11,Ciudades y comunidades sostenibles,11.b,América del Sur,,,,1
+11,Ciudades y comunidades sostenibles,11.c,América del Sur,,,,1
+12,Producción y consumo responsables,12.1,América del Sur,,,,1
+12,Producción y consumo responsables,12.2,América del Sur,1,,,
+12,Producción y consumo responsables,12.3,América del Sur,1,,,
+12,Producción y consumo responsables,12.4,América del Sur,1,,,
+12,Producción y consumo responsables,12.5,América del Sur,,,,1
+12,Producción y consumo responsables,12.6,América del Sur,,,1,
+12,Producción y consumo responsables,12.7,América del Sur,,,,1
+12,Producción y consumo responsables,12.8,América del Sur,,,,1
+12,Producción y consumo responsables,12.a,América del Sur,,,1,
+12,Producción y consumo responsables,12.b,América del Sur,1,,,
+12,Producción y consumo responsables,12.c,América del Sur,,1,,
+13,Acción por el clima,13.1,América del Sur,,,,1
+13,Acción por el clima,13.2,América del Sur,,,,1
+13,Acción por el clima,13.3,América del Sur,1,,,
+13,Acción por el clima,13.a,América del Sur,,,,1
+13,Acción por el clima,13.b,América del Sur,,,,1
+14,Vida submarina,14.1,América del Sur,1,,,
+14,Vida submarina,14.2,América del Sur,1,,,
+14,Vida submarina,14.3,América del Sur,,,,1
+14,Vida submarina,14.4,América del Sur,,,,1
+14,Vida submarina,14.5,América del Sur,1,,,
+14,Vida submarina,14.6,América del Sur,,1,,
+14,Vida submarina,14.7,América del Sur,,,1,
+14,Vida submarina,14.a,América del Sur,1,,,
+14,Vida submarina,14.b,América del Sur,,1,,
+14,Vida submarina,14.c,América del Sur,,,,1
+15,Vida de ecosistemas terrestres,15.1,América del Sur,,1,,
+15,Vida de ecosistemas terrestres,15.2,América del Sur,,1,,
+15,Vida de ecosistemas terrestres,15.3,América del Sur,,,1,
+15,Vida de ecosistemas terrestres,15.4,América del Sur,,,1,
+15,Vida de ecosistemas terrestres,15.5,América del Sur,1,,,
+15,Vida de ecosistemas terrestres,15.6,América del Sur,,1,,
+15,Vida de ecosistemas terrestres,15.7,América del Sur,,,,1
+15,Vida de ecosistemas terrestres,15.8,América del Sur,,1,,
+15,Vida de ecosistemas terrestres,15.9,América del Sur,,,,1
+15,Vida de ecosistemas terrestres,15.a,América del Sur,,,1,
+15,Vida de ecosistemas terrestres,15.b,América del Sur,,,1,
+15,Vida de ecosistemas terrestres,15.c,América del Sur,,,,1
+16,"Paz, justicia e instituciones sólidas",16.1,América del Sur,1,,,
+16,"Paz, justicia e instituciones sólidas",16.2,América del Sur,,1,,
+16,"Paz, justicia e instituciones sólidas",16.3,América del Sur,,,1,
+16,"Paz, justicia e instituciones sólidas",16.4,América del Sur,,,,1
+16,"Paz, justicia e instituciones sólidas",16.5,América del Sur,1,,,
+16,"Paz, justicia e instituciones sólidas",16.6,América del Sur,1,,,
+16,"Paz, justicia e instituciones sólidas",16.7,América del Sur,,,,1
+16,"Paz, justicia e instituciones sólidas",16.8,América del Sur,,1,,
+16,"Paz, justicia e instituciones sólidas",16.9,América del Sur,,,,1
+16,"Paz, justicia e instituciones sólidas",16.10,América del Sur,,,,1
+16,"Paz, justicia e instituciones sólidas",16.a,América del Sur,,,1,
+16,"Paz, justicia e instituciones sólidas",16.b,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.1,América del Sur,1,,,
+17,Alianzas para lograr los objetivos,17.2,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.3,América del Sur,,,1,
+17,Alianzas para lograr los objetivos,17.4,América del Sur,,,1,
+17,Alianzas para lograr los objetivos,17.5,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.6,América del Sur,,,1,
+17,Alianzas para lograr los objetivos,17.7,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.8,América del Sur,,,1,
+17,Alianzas para lograr los objetivos,17.9,América del Sur,,,1,
+17,Alianzas para lograr los objetivos,17.10,América del Sur,1,,,
+17,Alianzas para lograr los objetivos,17.11,América del Sur,1,,,
+17,Alianzas para lograr los objetivos,17.12,América del Sur,,1,,
+17,Alianzas para lograr los objetivos,17.13,América del Sur,1,,,
+17,Alianzas para lograr los objetivos,17.14,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.15,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.16,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.17,América del Sur,,,1,
+17,Alianzas para lograr los objetivos,17.18,América del Sur,,,,1
+17,Alianzas para lograr los objetivos,17.19,América del Sur,,,1,
+1,Fin de la pobreza,1.1,América Central,,1,,
+1,Fin de la pobreza,1.2,América Central,,1,,
+1,Fin de la pobreza,1.3,América Central,,1,,
+1,Fin de la pobreza,1.4,América Central,,1,,
+1,Fin de la pobreza,1.5,América Central,1,,,
+1,Fin de la pobreza,1.a,América Central,1,,,
+1,Fin de la pobreza,1.b,América Central,,,,1
+2,Poner fin al hambre,2.1,América Central,1,,,
+2,Poner fin al hambre,2.2,América Central,,1,,
+2,Poner fin al hambre,2.3,América Central,,,,1
+2,Poner fin al hambre,2.4,América Central,1,,,
+2,Poner fin al hambre,2.5,América Central,1,,,
+2,Poner fin al hambre,2.a,América Central,1,,,
+2,Poner fin al hambre,2.b,América Central,,,,1
+2,Poner fin al hambre,2.c,América Central,1,,,
+3,Salud y bienestar,3.1,América Central,1,,,
+3,Salud y bienestar,3.2,América Central,,,1,
+3,Salud y bienestar,3.3,América Central,1,,,
+3,Salud y bienestar,3.4,América Central,1,,,
+3,Salud y bienestar,3.5,América Central,1,,,
+3,Salud y bienestar,3.6,América Central,1,,,
+3,Salud y bienestar,3.7,América Central,,,1,
+3,Salud y bienestar,3.8,América Central,1,,,
+3,Salud y bienestar,3.9,América Central,,,1,
+3,Salud y bienestar,3.a,América Central,,,1,
+3,Salud y bienestar,3.b,América Central,1,,,
+3,Salud y bienestar,3.c,América Central,,,1,
+3,Salud y bienestar,3.d,América Central,1,,,
+4,Educación de calidad,4.1,América Central,1,,,
+4,Educación de calidad,4.2,América Central,,1,,
+4,Educación de calidad,4.3,América Central,,,1,
+4,Educación de calidad,4.4,América Central,,,,1
+4,Educación de calidad,4.5,América Central,,1,,
+4,Educación de calidad,4.6,América Central,,1,,
+4,Educación de calidad,4.7,América Central,,,,1
+4,Educación de calidad,4.a,América Central,,1,,
+4,Educación de calidad,4.b,América Central,1,,,
+4,Educación de calidad,4.c,América Central,,1,,
+5,Igualdad de género,5.1,América Central,,,,1
+5,Igualdad de género,5.2,América Central,1,,,
+5,Igualdad de género,5.3,América Central,,,,1
+5,Igualdad de género,5.4,América Central,1,,,
+5,Igualdad de género,5.5,América Central,,1,,
+5,Igualdad de género,5.6,América Central,,,,1
+5,Igualdad de género,5.a,América Central,,,,1
+5,Igualdad de género,5.b,América Central,,,1,
+5,Igualdad de género,5.c,América Central,1,,,
+6,Agua limpia y saneamiento,6.1,América Central,,1,,
+6,Agua limpia y saneamiento,6.2,América Central,,1,,
+6,Agua limpia y saneamiento,6.3,América Central,,,1,
+6,Agua limpia y saneamiento,6.4,América Central,1,,,
+6,Agua limpia y saneamiento,6.5,América Central,1,,,
+6,Agua limpia y saneamiento,6.6,América Central,1,,,
+6,Agua limpia y saneamiento,6.a,América Central,1,,,
+6,Agua limpia y saneamiento,6.b,América Central,,,,1
+7,Energía asequible y no contaminable,7.1,América Central,,1,,
+7,Energía asequible y no contaminable,7.2,América Central,,1,,
+7,Energía asequible y no contaminable,7.3,América Central,,1,,
+7,Energía asequible y no contaminable,7.a,América Central,1,,,
+7,Energía asequible y no contaminable,7.b,América Central,,,1,
+8,Trabajo decente y crecimiento económico,8.1,América Central,,,1,
+8,Trabajo decente y crecimiento económico,8.2,América Central,1,,,
+8,Trabajo decente y crecimiento económico,8.3,América Central,,1,,
+8,Trabajo decente y crecimiento económico,8.4,América Central,1,,,
+8,Trabajo decente y crecimiento económico,8.5,América Central,1,,,
+8,Trabajo decente y crecimiento económico,8.6,América Central,1,,,
+8,Trabajo decente y crecimiento económico,8.7,América Central,,,,1
+8,Trabajo decente y crecimiento económico,8.8,América Central,1,,,
+8,Trabajo decente y crecimiento económico,8.9,América Central,1,,,
+8,Trabajo decente y crecimiento económico,8.10,América Central,,1,,
+8,Trabajo decente y crecimiento económico,8.a,América Central,,,1,
+8,Trabajo decente y crecimiento económico,8.b,América Central,,,,1
+9,"Industria, innovación e infraestructura",9.1,América Central,,,1,
+9,"Industria, innovación e infraestructura",9.2,América Central,,1,,
+9,"Industria, innovación e infraestructura",9.3,América Central,,,,1
+9,"Industria, innovación e infraestructura",9.4,América Central,,,1,
+9,"Industria, innovación e infraestructura",9.5,América Central,,1,,
+9,"Industria, innovación e infraestructura",9.a,América Central,1,,,
+9,"Industria, innovación e infraestructura",9.b,América Central,,,1,
+9,"Industria, innovación e infraestructura",9.c,América Central,,1,,
+10,Reducción de las desigualdades,10.1,América Central,,,,1
+10,Reducción de las desigualdades,10.2,América Central,1,,,
+10,Reducción de las desigualdades,10.3,América Central,,,,1
+10,Reducción de las desigualdades,10.4,América Central,,1,,
+10,Reducción de las desigualdades,10.5,América Central,1,,,
+10,Reducción de las desigualdades,10.6,América Central,,1,,
+10,Reducción de las desigualdades,10.7,América Central,1,,,
+10,Reducción de las desigualdades,10.a,América Central,1,,,
+10,Reducción de las desigualdades,10.b,América Central,,,1,
+10,Reducción de las desigualdades,10.c,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.1,América Central,,1,,
+11,Ciudades y comunidades sostenibles,11.2,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.3,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.4,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.5,América Central,,1,,
+11,Ciudades y comunidades sostenibles,11.6,América Central,,1,,
+11,Ciudades y comunidades sostenibles,11.7,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.a,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.b,América Central,,,,1
+11,Ciudades y comunidades sostenibles,11.c,América Central,,,,1
+12,Producción y consumo responsables,12.1,América Central,,,,1
+12,Producción y consumo responsables,12.2,América Central,1,,,
+12,Producción y consumo responsables,12.3,América Central,,,,1
+12,Producción y consumo responsables,12.4,América Central,1,,,
+12,Producción y consumo responsables,12.5,América Central,,,,1
+12,Producción y consumo responsables,12.6,América Central,,,1,
+12,Producción y consumo responsables,12.7,América Central,,,,1
+12,Producción y consumo responsables,12.8,América Central,,,,1
+12,Producción y consumo responsables,12.a,América Central,,,1,
+12,Producción y consumo responsables,12.b,América Central,1,,,
+12,Producción y consumo responsables,12.c,América Central,1,,,
+13,Acción por el clima,13.1,América Central,,,,1
+13,Acción por el clima,13.2,América Central,,,,1
+13,Acción por el clima,13.3,América Central,1,,,
+13,Acción por el clima,13.a,América Central,,,,1
+13,Acción por el clima,13.b,América Central,,,,1
+14,Vida submarina,14.1,América Central,1,,,
+14,Vida submarina,14.2,América Central,,1,,
+14,Vida submarina,14.3,América Central,,,,1
+14,Vida submarina,14.4,América Central,,,,1
+14,Vida submarina,14.5,América Central,1,,,
+14,Vida submarina,14.6,América Central,1,,,
+14,Vida submarina,14.7,América Central,,,1,
+14,Vida submarina,14.a,América Central,,,1,
+14,Vida submarina,14.b,América Central,1,,,
+14,Vida submarina,14.c,América Central,,,,1
+15,Vida de ecosistemas terrestres,15.1,América Central,,1,,
+15,Vida de ecosistemas terrestres,15.2,América Central,1,,,
+15,Vida de ecosistemas terrestres,15.3,América Central,1,,,
+15,Vida de ecosistemas terrestres,15.4,América Central,,,1,
+15,Vida de ecosistemas terrestres,15.5,América Central,1,,,
+15,Vida de ecosistemas terrestres,15.6,América Central,,1,,
+15,Vida de ecosistemas terrestres,15.7,América Central,,,,1
+15,Vida de ecosistemas terrestres,15.8,América Central,,1,,
+15,Vida de ecosistemas terrestres,15.9,América Central,,,,1
+15,Vida de ecosistemas terrestres,15.a,América Central,,,1,
+15,Vida de ecosistemas terrestres,15.b,América Central,,,1,
+15,Vida de ecosistemas terrestres,15.c,América Central,,,,1
+16,"Paz, justicia e instituciones sólidas",16.1,América Central,1,,,
+16,"Paz, justicia e instituciones sólidas",16.2,América Central,,1,,
+16,"Paz, justicia e instituciones sólidas",16.3,América Central,,1,,
+16,"Paz, justicia e instituciones sólidas",16.4,América Central,,,,1
+16,"Paz, justicia e instituciones sólidas",16.5,América Central,1,,,
+16,"Paz, justicia e instituciones sólidas",16.6,América Central,1,,,
+16,"Paz, justicia e instituciones sólidas",16.7,América Central,,,,1
+16,"Paz, justicia e instituciones sólidas",16.8,América Central,,1,,
+16,"Paz, justicia e instituciones sólidas",16.9,América Central,,,,1
+16,"Paz, justicia e instituciones sólidas",16.10,América Central,,,,1
+16,"Paz, justicia e instituciones sólidas",16.a,América Central,,,1,
+16,"Paz, justicia e instituciones sólidas",16.b,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.1,América Central,1,,,
+17,Alianzas para lograr los objetivos,17.2,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.3,América Central,,,1,
+17,Alianzas para lograr los objetivos,17.4,América Central,1,,,
+17,Alianzas para lograr los objetivos,17.5,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.6,América Central,,,1,
+17,Alianzas para lograr los objetivos,17.7,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.8,América Central,,1,,
+17,Alianzas para lograr los objetivos,17.9,América Central,,,1,
+17,Alianzas para lograr los objetivos,17.10,América Central,1,,,
+17,Alianzas para lograr los objetivos,17.11,América Central,1,,,
+17,Alianzas para lograr los objetivos,17.12,América Central,,1,,
+17,Alianzas para lograr los objetivos,17.13,América Central,1,,,
+17,Alianzas para lograr los objetivos,17.14,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.15,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.16,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.17,América Central,1,,,
+17,Alianzas para lograr los objetivos,17.18,América Central,,,,1
+17,Alianzas para lograr los objetivos,17.19,América Central,,1,,
+1,Fin de la pobreza,1.1,Caribe,1,,,
+1,Fin de la pobreza,1.2,Caribe,,,,1
+1,Fin de la pobreza,1.3,Caribe,,1,,
+1,Fin de la pobreza,1.4,Caribe,,1,,
+1,Fin de la pobreza,1.5,Caribe,1,,,
+1,Fin de la pobreza,1.a,Caribe,1,,,
+1,Fin de la pobreza,1.b,Caribe,,,,1
+2,Poner fin al hambre,2.1,Caribe,1,,,
+2,Poner fin al hambre,2.2,Caribe,,1,,
+2,Poner fin al hambre,2.3,Caribe,,,,1
+2,Poner fin al hambre,2.4,Caribe,1,,,
+2,Poner fin al hambre,2.5,Caribe,,1,,
+2,Poner fin al hambre,2.a,Caribe,,1,,
+2,Poner fin al hambre,2.b,Caribe,,,,1
+2,Poner fin al hambre,2.c,Caribe,,,1,
+3,Salud y bienestar,3.1,Caribe,1,,,
+3,Salud y bienestar,3.2,Caribe,,1,,
+3,Salud y bienestar,3.3,Caribe,,1,,
+3,Salud y bienestar,3.4,Caribe,1,,,
+3,Salud y bienestar,3.5,Caribe,1,,,
+3,Salud y bienestar,3.6,Caribe,1,,,
+3,Salud y bienestar,3.7,Caribe,1,,,
+3,Salud y bienestar,3.8,Caribe,1,,,
+3,Salud y bienestar,3.9,Caribe,,,1,
+3,Salud y bienestar,3.a,Caribe,,,1,
+3,Salud y bienestar,3.b,Caribe,,1,,
+3,Salud y bienestar,3.c,Caribe,,,,1
+3,Salud y bienestar,3.d,Caribe,1,,,
+4,Educación de calidad,4.1,Caribe,1,,,
+4,Educación de calidad,4.2,Caribe,1,,,
+4,Educación de calidad,4.3,Caribe,1,,,
+4,Educación de calidad,4.4,Caribe,,,,1
+4,Educación de calidad,4.5,Caribe,,1,,
+4,Educación de calidad,4.6,Caribe,,1,,
+4,Educación de calidad,4.7,Caribe,,,,1
+4,Educación de calidad,4.a,Caribe,1,,,
+4,Educación de calidad,4.b,Caribe,,,1,
+4,Educación de calidad,4.c,Caribe,,,1,
+5,Igualdad de género,5.1,Caribe,,,,1
+5,Igualdad de género,5.2,Caribe,1,,,
+5,Igualdad de género,5.3,Caribe,,,,1
+5,Igualdad de género,5.4,Caribe,,,1,
+5,Igualdad de género,5.5,Caribe,,1,,
+5,Igualdad de género,5.6,Caribe,,,,1
+5,Igualdad de género,5.a,Caribe,,,,1
+5,Igualdad de género,5.b,Caribe,,1,,
+5,Igualdad de género,5.c,Caribe,,1,,
+6,Agua limpia y saneamiento,6.1,Caribe,1,,,
+6,Agua limpia y saneamiento,6.2,Caribe,,1,,
+6,Agua limpia y saneamiento,6.3,Caribe,1,,,
+6,Agua limpia y saneamiento,6.4,Caribe,1,,,
+6,Agua limpia y saneamiento,6.5,Caribe,1,,,
+6,Agua limpia y saneamiento,6.6,Caribe,1,,,
+6,Agua limpia y saneamiento,6.a,Caribe,,,1,
+6,Agua limpia y saneamiento,6.b,Caribe,,,,1
+7,Energía asequible y no contaminable,7.1,Caribe,,1,,
+7,Energía asequible y no contaminable,7.2,Caribe,,1,,
+7,Energía asequible y no contaminable,7.3,Caribe,,1,,
+7,Energía asequible y no contaminable,7.a,Caribe,1,,,
+7,Energía asequible y no contaminable,7.b,Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.1,Caribe,,,1,
+8,Trabajo decente y crecimiento económico,8.2,Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.3,Caribe,1,,,
+8,Trabajo decente y crecimiento económico,8.4,Caribe,1,,,
+8,Trabajo decente y crecimiento económico,8.5,Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.6,Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.7,Caribe,,,,1
+8,Trabajo decente y crecimiento económico,8.8,Caribe,1,,,
+8,Trabajo decente y crecimiento económico,8.9,Caribe,,,1,
+8,Trabajo decente y crecimiento económico,8.10,Caribe,,1,,
+8,Trabajo decente y crecimiento económico,8.a,Caribe,,,1,
+8,Trabajo decente y crecimiento económico,8.b,Caribe,,,,1
+9,"Industria, innovación e infraestructura",9.1,Caribe,1,,,
+9,"Industria, innovación e infraestructura",9.2,Caribe,1,,,
+9,"Industria, innovación e infraestructura",9.3,Caribe,,,,1
+9,"Industria, innovación e infraestructura",9.4,Caribe,,,1,
+9,"Industria, innovación e infraestructura",9.5,Caribe,,1,,
+9,"Industria, innovación e infraestructura",9.a,Caribe,1,,,
+9,"Industria, innovación e infraestructura",9.b,Caribe,1,,,
+9,"Industria, innovación e infraestructura",9.c,Caribe,,,1,
+10,Reducción de las desigualdades,10.1,Caribe,,,,1
+10,Reducción de las desigualdades,10.2,Caribe,,,1,
+10,Reducción de las desigualdades,10.3,Caribe,,,,1
+10,Reducción de las desigualdades,10.4,Caribe,,1,,
+10,Reducción de las desigualdades,10.5,Caribe,,1,,
+10,Reducción de las desigualdades,10.6,Caribe,,1,,
+10,Reducción de las desigualdades,10.7,Caribe,1,,,
+10,Reducción de las desigualdades,10.a,Caribe,1,,,
+10,Reducción de las desigualdades,10.b,Caribe,1,,,
+10,Reducción de las desigualdades,10.c,Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.1,Caribe,1,,,
+11,Ciudades y comunidades sostenibles,11.2,Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.3,Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.4,Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.5,Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.6,Caribe,,1,,
+11,Ciudades y comunidades sostenibles,11.7,Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.a,Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.b,Caribe,,,,1
+11,Ciudades y comunidades sostenibles,11.c,Caribe,,,,1
+12,Producción y consumo responsables,12.1,Caribe,,,,1
+12,Producción y consumo responsables,12.2,Caribe,1,,,
+12,Producción y consumo responsables,12.3,Caribe,1,,,
+12,Producción y consumo responsables,12.4,Caribe,1,,,
+12,Producción y consumo responsables,12.5,Caribe,,,,1
+12,Producción y consumo responsables,12.6,Caribe,,,1,
+12,Producción y consumo responsables,12.7,Caribe,,,,1
+12,Producción y consumo responsables,12.8,Caribe,,,,1
+12,Producción y consumo responsables,12.a,Caribe,,,1,
+12,Producción y consumo responsables,12.b,Caribe,1,,,
+12,Producción y consumo responsables,12.c,Caribe,,,1,
+13,Acción por el clima,13.1,Caribe,,,,1
+13,Acción por el clima,13.2,Caribe,,,,1
+13,Acción por el clima,13.3,Caribe,1,,,
+13,Acción por el clima,13.a,Caribe,,,,1
+13,Acción por el clima,13.b,Caribe,,,,1
+14,Vida submarina,14.1,Caribe,1,,,
+14,Vida submarina,14.2,Caribe,1,,,
+14,Vida submarina,14.3,Caribe,,,,1
+14,Vida submarina,14.4,Caribe,,,,1
+14,Vida submarina,14.5,Caribe,,1,,
+14,Vida submarina,14.6,Caribe,,,1,
+14,Vida submarina,14.7,Caribe,1,,,
+14,Vida submarina,14.a,Caribe,,,,1
+14,Vida submarina,14.b,Caribe,1,,,
+14,Vida submarina,14.c,Caribe,,,,1
+15,Vida de ecosistemas terrestres,15.1,Caribe,,1,,
+15,Vida de ecosistemas terrestres,15.2,Caribe,1,,,
+15,Vida de ecosistemas terrestres,15.3,Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.4,Caribe,,1,,
+15,Vida de ecosistemas terrestres,15.5,Caribe,1,,,
+15,Vida de ecosistemas terrestres,15.6,Caribe,1,,,
+15,Vida de ecosistemas terrestres,15.7,Caribe,,,,1
+15,Vida de ecosistemas terrestres,15.8,Caribe,,1,,
+15,Vida de ecosistemas terrestres,15.9,Caribe,,,,1
+15,Vida de ecosistemas terrestres,15.a,Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.b,Caribe,,,1,
+15,Vida de ecosistemas terrestres,15.c,Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.1,Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.2,Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.3,Caribe,1,,,
+16,"Paz, justicia e instituciones sólidas",16.4,Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.5,Caribe,,,1,
+16,"Paz, justicia e instituciones sólidas",16.6,Caribe,1,,,
+16,"Paz, justicia e instituciones sólidas",16.7,Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.8,Caribe,,1,,
+16,"Paz, justicia e instituciones sólidas",16.9,Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.10,Caribe,,,,1
+16,"Paz, justicia e instituciones sólidas",16.a,Caribe,,,1,
+16,"Paz, justicia e instituciones sólidas",16.b,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.1,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.2,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.3,Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.4,Caribe,,,1,
+17,Alianzas para lograr los objetivos,17.5,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.6,Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.7,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.8,Caribe,,1,,
+17,Alianzas para lograr los objetivos,17.9,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.10,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.11,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.12,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.13,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.14,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.15,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.16,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.17,Caribe,1,,,
+17,Alianzas para lograr los objetivos,17.18,Caribe,,,,1
+17,Alianzas para lograr los objetivos,17.19,Caribe,1,,,

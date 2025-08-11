@@ -1,0 +1,347 @@
+[
+    {
+        "region": "América Latina",
+        "country": "Argentina",
+        "percentage": "25.94339561"
+    },
+    {
+        "region": "América Latina",
+        "country": "Belize",
+        "percentage": "35.84905624"
+    },
+    {
+        "region": "América Latina",
+        "country": "Bolívia",
+        "percentage": "10.37735844"
+    },
+    {
+        "region": "América Latina",
+        "country": "Brasil",
+        "percentage": "43.86792374"
+    },
+    {
+        "region": "América Latina",
+        "country": "Chile",
+        "percentage": "81.13207245"
+    },
+    {
+        "region": "América Latina",
+        "country": "Colômbia",
+        "percentage": "56.60377502"
+    },
+    {
+        "region": "América Latina",
+        "country": "Costa Rica",
+        "percentage": "71.22641754"
+    },
+    {
+        "region": "América Latina",
+        "country": "Equador",
+        "percentage": "35.37735748"
+    },
+    {
+        "region": "América Latina",
+        "country": "El Salvador",
+        "percentage": "34.90565872"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guatemala",
+        "percentage": "41.50943375"
+    },
+    {
+        "region": "América Latina",
+        "country": "Guiana",
+        "percentage": "32.54716873"
+    },
+    {
+        "region": "América Latina",
+        "country": "Honduras",
+        "percentage": "33.49056625"
+    },
+    {
+        "region": "América Latina",
+        "country": "México",
+        "percentage": "46.69811249"
+    },
+    {
+        "region": "América Latina",
+        "country": "Nicarágua",
+        "percentage": "18.39622688"
+    },
+    {
+        "region": "América Latina",
+        "country": "Panamá",
+        "percentage": "55.18867874"
+    },
+    {
+        "region": "América Latina",
+        "country": "Paraguai",
+        "percentage": "45.28302002"
+    },
+    {
+        "region": "América Latina",
+        "country": "Peru",
+        "percentage": "59.90565872"
+    },
+    {
+        "region": "América Latina",
+        "country": "Suriname",
+        "percentage": "21.22641563"
+    },
+    {
+        "region": "América Latina",
+        "country": "Uruguai",
+        "percentage": "74.05660248"
+    },
+    {
+        "region": "Caribe",
+        "country": "Antígua e Barbuda",
+        "percentage": "61.320755"
+    },
+    {
+        "region": "Caribe",
+        "country": "Bahamas",
+        "percentage": "47.16981125"
+    },
+    {
+        "region": "Caribe",
+        "country": "Barbados",
+        "percentage": "67.92453003"
+    },
+    {
+        "region": "Caribe",
+        "country": "Cuba",
+        "percentage": "7.075471878"
+    },
+    {
+        "region": "Caribe",
+        "country": "Dominica",
+        "percentage": "62.73584747"
+    },
+    {
+        "region": "Caribe",
+        "country": "Rep. Dominicana",
+        "percentage": "54.24528122"
+    },
+    {
+        "region": "Caribe",
+        "country": "Granada",
+        "percentage": "64.15093994"
+    },
+    {
+        "region": "Caribe",
+        "country": "Haiti",
+        "percentage": "8.490566254"
+    },
+    {
+        "region": "Caribe",
+        "country": "Jamaica",
+        "percentage": "58.96226501"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Cristóvão e Névis",
+        "percentage": "71.69811249"
+    },
+    {
+        "region": "Caribe",
+        "country": "Santa Lúcia",
+        "percentage": "66.03773499"
+    },
+    {
+        "region": "Caribe",
+        "country": "São Vicente e Granadinas",
+        "percentage": "63.20754623"
+    },
+    {
+        "region": "Caribe",
+        "country": "T&T",
+        "percentage": "50"
+    },
+    {
+        "region": "OCDE",
+        "country": "Austrália",
+        "percentage": "99.52830505"
+    },
+    {
+        "region": "OCDE",
+        "country": "Áustria",
+        "percentage": "87.26415253"
+    },
+    {
+        "region": "OCDE",
+        "country": "Bélgica",
+        "percentage": "86.79244995"
+    },
+    {
+        "region": "OCDE",
+        "country": "Canadá",
+        "percentage": "95.75471497"
+    },
+    {
+        "region": "OCDE",
+        "country": "Rep. Tcheca",
+        "percentage": "88.679245"
+    },
+    {
+        "region": "OCDE",
+        "country": "Dinamarca",
+        "percentage": "98.58490753"
+    },
+    {
+        "region": "OCDE",
+        "country": "Estônia",
+        "percentage": "92.92453003"
+    },
+    {
+        "region": "OCDE",
+        "country": "Finlândia",
+        "percentage": "97.16981506"
+    },
+    {
+        "region": "OCDE",
+        "country": "França",
+        "percentage": "85.37735748"
+    },
+    {
+        "region": "OCDE",
+        "country": "Alemanha",
+        "percentage": "92.45282745"
+    },
+    {
+        "region": "OCDE",
+        "country": "Grécia",
+        "percentage": "67.45282745"
+    },
+    {
+        "region": "OCDE",
+        "country": "Hungria",
+        "percentage": "64.62264252"
+    },
+    {
+        "region": "OCDE",
+        "country": "Islândia",
+        "percentage": "88.20755005"
+    },
+    {
+        "region": "OCDE",
+        "country": "Irã",
+        "percentage": "95.28302002"
+    },
+    {
+        "region": "OCDE",
+        "country": "Israel",
+        "percentage": "86.320755"
+    },
+    {
+        "region": "OCDE",
+        "country": "Itália",
+        "percentage": "68.86792755"
+    },
+    {
+        "region": "OCDE",
+        "country": "Japão",
+        "percentage": "91.50943756"
+    },
+    {
+        "region": "OCDE",
+        "country": "Coreia do Sul",
+        "percentage": "83.96226501"
+    },
+    {
+        "region": "OCDE",
+        "country": "Letônia",
+        "percentage": "84.90566254"
+    },
+    {
+        "region": "OCDE",
+        "country": "Lituânia",
+        "percentage": "87.73584747"
+    },
+    {
+        "region": "OCDE",
+        "country": "Luxemburgo",
+        "percentage": "98.11320496"
+    },
+    {
+        "region": "OCDE",
+        "country": "Países Baixos",
+        "percentage": "96.69811249"
+    },
+    {
+        "region": "OCDE",
+        "country": "Nova Zelândia",
+        "percentage": "99.05660248"
+    },
+    {
+        "region": "OCDE",
+        "country": "Noruega",
+        "percentage": "91.98113251"
+    },
+    {
+        "region": "OCDE",
+        "country": "Polônia",
+        "percentage": "74.52830505"
+    },
+    {
+        "region": "OCDE",
+        "country": "Portugal",
+        "percentage": "75"
+    },
+    {
+        "region": "OCDE",
+        "country": "Rep. Eslovaca",
+        "percentage": "76.88679504"
+    },
+    {
+        "region": "OCDE",
+        "country": "Eslovênia",
+        "percentage": "73.58490753"
+    },
+    {
+        "region": "OCDE",
+        "country": "Espanha",
+        "percentage": "75.94339752"
+    },
+    {
+        "region": "OCDE",
+        "country": "Suécia",
+        "percentage": "96.22641754"
+    },
+    {
+        "region": "OCDE",
+        "country": "Suíça",
+        "percentage": "94.3396225"
+    },
+    {
+        "region": "OCDE",
+        "country": "Turquia",
+        "percentage": "43.39622498"
+    },
+    {
+        "region": "OCDE",
+        "country": "Reino Unido",
+        "percentage": "93.39622498"
+    },
+    {
+        "region": "OCDE",
+        "country": "EUA.",
+        "percentage": "91.03773499"
+    },
+    {
+        "region": "Caribe",
+        "country": "Média do Caribe",
+        "percentage": "52.53991244"
+    },
+    {
+        "region": "OCDE",
+        "country": "Média da OCDE",
+        "percentage": "85.98779185"
+    },
+    {
+        "region": "América Latina",
+        "country": "Média América Latina",
+        "percentage": "43.34657363"
+    }
+]

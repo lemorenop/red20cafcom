@@ -1,0 +1,511 @@
+region,country,year,age,percentage
+América Latina,Agregado regional,2024,65,9.764257431
+América Latina,Agregado regional,2024,80,1.842909694
+América Latina,Agregado regional,2050,65,18.94295311
+América Latina,Agregado regional,2050,80,5.041827679
+América Latina,Agregado regional,2100,65,32.01252365
+América Latina,Agregado regional,2100,80,13.79332352
+América Latina,Argentina,2024,65,12.41600439
+América Latina,Argentina,2024,80,2.912752517
+América Latina,Argentina,2050,65,19.9461922
+América Latina,Argentina,2050,80,5.343097821
+América Latina,Argentina,2100,65,34.35578346
+América Latina,Argentina,2100,80,16.74259305
+América Latina,Belice,2024,65,5.023833364
+América Latina,Belice,2024,80,0.729250629
+América Latina,Belice,2050,65,12.87679523
+América Latina,Belice,2050,80,2.505966462
+América Latina,Belice,2100,65,32.37377107
+América Latina,Belice,2100,80,12.56222427
+América Latina,Bolivia,2024,65,5.641474575
+América Latina,Bolivia,2024,80,0.966043305
+América Latina,Bolivia,2050,65,9.829247743
+América Latina,Bolivia,2050,80,1.70114357
+América Latina,Bolivia,2100,65,21.21369839
+América Latina,Bolivia,2100,80,6.066206843
+América Latina,Brasil,2024,65,11.04918569
+América Latina,Brasil,2024,80,1.963495836
+América Latina,Brasil,2050,65,22.50401378
+América Latina,Brasil,2050,80,6.052988023
+América Latina,Brasil,2100,65,33.55928361
+América Latina,Brasil,2100,80,14.67191726
+América Latina,Chile,2024,65,14.13508654
+América Latina,Chile,2024,80,3.265405819
+América Latina,Chile,2050,65,26.67108774
+América Latina,Chile,2050,80,9.200174361
+América Latina,Chile,2100,65,42.07417369
+América Latina,Chile,2100,80,22.97657579
+América Latina,Colombia,2024,65,9.778435528
+América Latina,Colombia,2024,80,1.571603678
+América Latina,Colombia,2050,65,20.58232576
+América Latina,Colombia,2050,80,5.815299228
+América Latina,Colombia,2100,65,35.4031235
+América Latina,Colombia,2100,80,15.82638472
+América Latina,Costa Rica,2024,65,12.22515628
+América Latina,Costa Rica,2024,80,2.595103905
+América Latina,Costa Rica,2050,65,25.2791822
+América Latina,Costa Rica,2050,80,8.419600129
+América Latina,Costa Rica,2100,65,40.51097631
+América Latina,Costa Rica,2100,80,21.86023295
+América Latina,Ecuador,2024,65,8.343998343
+América Latina,Ecuador,2024,80,1.580054685
+América Latina,Ecuador,2050,65,17.24352092
+América Latina,Ecuador,2050,80,4.337567091
+América Latina,Ecuador,2100,65,32.95321763
+América Latina,Ecuador,2100,80,14.65076953
+América Latina,El Salvador,2024,65,8.148616552
+América Latina,El Salvador,2024,80,1.572443359
+América Latina,El Salvador,2050,65,14.68013972
+América Latina,El Salvador,2050,80,3.523769975
+América Latina,El Salvador,2100,65,32.85246789
+América Latina,El Salvador,2100,80,13.45859915
+América Latina,Guatemala,2024,65,4.849334806
+América Latina,Guatemala,2024,80,0.724358391
+América Latina,Guatemala,2050,65,9.624561667
+América Latina,Guatemala,2050,80,1.699375547
+América Latina,Guatemala,2100,65,26.04243457
+América Latina,Guatemala,2100,80,9.025081992
+América Latina,Guyana,2024,65,6.734914333
+América Latina,Guyana,2024,80,1.012469083
+América Latina,Guyana,2050,65,11.1812897
+América Latina,Guyana,2050,80,2.706178091
+América Latina,Guyana,2100,65,24.12981987
+América Latina,Guyana,2100,80,8.092112839
+América Latina,Guayana Francesa,2024,65,7.035315782
+América Latina,Guayana Francesa,2024,80,1.183708105
+América Latina,Guayana Francesa,2050,65,12.26944998
+América Latina,Guayana Francesa,2050,80,2.952644043
+América Latina,Guayana Francesa,2100,65,21.1577341
+América Latina,Guayana Francesa,2100,80,7.493366301
+América Latina,Honduras,2024,65,4.4177223
+América Latina,Honduras,2024,80,0.527249835
+América Latina,Honduras,2050,65,10.18244177
+América Latina,Honduras,2050,80,1.643871702
+América Latina,Honduras,2100,65,25.22599399
+América Latina,Honduras,2100,80,8.572651446
+América Latina,México,2024,65,8.248569816
+América Latina,México,2024,80,1.568324864
+América Latina,México,2050,65,16.95580781
+América Latina,México,2050,80,4.369723052
+América Latina,México,2100,65,31.8559587
+América Latina,México,2100,80,13.5358125
+América Latina,Nicaragua,2024,65,5.533585325
+América Latina,Nicaragua,2024,80,0.889390614
+América Latina,Nicaragua,2050,65,12.83286214
+América Latina,Nicaragua,2050,80,2.555413544
+América Latina,Nicaragua,2100,65,28.93755138
+América Latina,Nicaragua,2100,80,11.09231114
+América Latina,Panamá,2024,65,9.353112429
+América Latina,Panamá,2024,80,2.013507858
+América Latina,Panamá,2050,65,18.51535141
+América Latina,Panamá,2050,80,5.626807362
+América Latina,Panamá,2100,65,31.24264777
+América Latina,Panamá,2100,80,14.27375078
+América Latina,Paraguay,2024,65,6.537646055
+América Latina,Paraguay,2024,80,1.105748396
+América Latina,Paraguay,2050,65,12.39307374
+América Latina,Paraguay,2050,80,2.697835304
+América Latina,Paraguay,2100,65,25.59795976
+América Latina,Paraguay,2100,80,9.026999772
+América Latina,Perú,2024,65,9.228122234
+América Latina,Perú,2024,80,2.027536929
+América Latina,Perú,2050,65,17.71188974
+América Latina,Perú,2050,80,4.898939282
+América Latina,Perú,2100,65,31.94972575
+América Latina,Perú,2100,80,14.04286176
+América Latina,Surinam,2024,65,7.899282128
+América Latina,Surinam,2024,80,1.408506185
+América Latina,Surinam,2050,65,14.95563388
+América Latina,Surinam,2050,80,3.796749935
+América Latina,Surinam,2100,65,27.16045678
+América Latina,Surinam,2100,80,10.02425998
+América Latina,Uruguay,2024,65,16.04519188
+América Latina,Uruguay,2024,80,4.749691486
+América Latina,Uruguay,2050,65,23.53404164
+América Latina,Uruguay,2050,80,7.728615403
+América Latina,Uruguay,2100,65,37.47187555
+América Latina,Uruguay,2100,80,18.8221857
+América Latina,Venezuela,2024,65,9.679211676
+América Latina,Venezuela,2024,80,1.577171125
+América Latina,Venezuela,2050,65,16.37445837
+América Latina,Venezuela,2050,80,4.082387313
+América Latina,Venezuela,2100,65,28.08573246
+América Latina,Venezuela,2100,80,10.91489866
+Caribe,Agregado regional,2024,65,11.11107063
+Caribe,Agregado regional,2024,80,2.358825207
+Caribe,Agregado regional,2050,65,18.27720642
+Caribe,Agregado regional,2050,80,5.558561325
+Caribe,Agregado regional,2100,65,26.87431908
+Caribe,Agregado regional,2100,80,10.12671661
+Caribe,Anguila,2024,65,12.50513792
+Caribe,Anguila,2024,80,2.346211858
+Caribe,Anguila,2050,65,28.35349143
+Caribe,Anguila,2050,80,8.881940693
+Caribe,Anguila,2100,65,39.69814181
+Caribe,Anguila,2100,80,19.88398433
+Caribe,Antigua y Barbuda,2024,65,11.78443357
+Caribe,Antigua y Barbuda,2024,80,2.071513981
+Caribe,Antigua y Barbuda,2050,65,24.41323549
+Caribe,Antigua y Barbuda,2050,80,7.943295687
+Caribe,Antigua y Barbuda,2100,65,35.53438783
+Caribe,Antigua y Barbuda,2100,80,15.83081782
+Caribe,Aruba,2024,65,17.05624312
+Caribe,Aruba,2024,80,2.333296277
+Caribe,Aruba,2050,65,25.15949607
+Caribe,Aruba,2050,80,7.754845172
+Caribe,Aruba,2100,65,31.85222447
+Caribe,Aruba,2100,80,13.70445192
+Caribe,Bahamas,2024,65,11.77585348
+Caribe,Bahamas,2024,80,2.838644944
+Caribe,Bahamas,2050,65,21.16837502
+Caribe,Bahamas,2050,80,6.548736989
+Caribe,Bahamas,2100,65,29.11392152
+Caribe,Bahamas,2100,80,12.36702949
+Caribe,Barbados,2024,65,16.55025333
+Caribe,Barbados,2024,80,2.95043271
+Caribe,Barbados,2050,65,24.42641854
+Caribe,Barbados,2050,80,7.409279048
+Caribe,Barbados,2100,65,32.80002773
+Caribe,Barbados,2100,80,13.53429556
+Caribe,Bonaire,2024,65,14.3977195
+Caribe,Bonaire,2024,80,2.422168106
+Caribe,Bonaire,2050,65,23.91629666
+Caribe,Bonaire,2050,80,7.246271521
+Caribe,Bonaire,2100,65,33.62706304
+Caribe,Bonaire,2100,80,14.23187405
+Caribe,Cuba,2024,65,16.56907946
+Caribe,Cuba,2024,80,4.097753763
+Caribe,Cuba,2050,65,30.17454147
+Caribe,Cuba,2050,80,11.69425026
+Caribe,Cuba,2100,65,38.56885731
+Caribe,Cuba,2100,80,19.05158311
+Caribe,Curazao,2024,65,16.78168327
+Caribe,Curazao,2024,80,3.038300015
+Caribe,Curazao,2050,65,23.85185957
+Caribe,Curazao,2050,80,7.976748794
+Caribe,Curazao,2100,65,35.53057611
+Caribe,Curazao,2100,80,16.43532068
+Caribe,Dominica,2024,65,12.95597106
+Caribe,Dominica,2024,80,2.582886443
+Caribe,Dominica,2050,65,18.57276261
+Caribe,Dominica,2050,80,4.494240135
+Caribe,Dominica,2100,65,29.01954949
+Caribe,Dominica,2100,80,10.71879417
+Caribe,Granada,2024,65,12.23945692
+Caribe,Granada,2024,80,2.980197407
+Caribe,Granada,2050,65,20.21626234
+Caribe,Granada,2050,80,5.99065721
+Caribe,Granada,2100,65,36.14709079
+Caribe,Granada,2100,80,16.52929336
+Caribe,Guadalupe,2024,65,23.91164154
+Caribe,Guadalupe,2024,80,6.106806919
+Caribe,Guadalupe,2050,65,33.07555616
+Caribe,Guadalupe,2050,80,15.95268846
+Caribe,Guadalupe,2100,65,33.30647349
+Caribe,Guadalupe,2100,80,16.73545986
+Caribe,Haití,2024,65,4.705218598
+Caribe,Haití,2024,80,0.560940197
+Caribe,Haití,2050,65,8.382558823
+Caribe,Haití,2050,80,1.058938634
+Caribe,Haití,2100,65,18.36045831
+Caribe,Haití,2100,80,4.127652943
+Caribe,Islas Caimán,2024,65,8.997810632
+Caribe,Islas Caimán,2024,80,1.537800487
+Caribe,Islas Caimán,2050,65,25.27150214
+Caribe,Islas Caimán,2050,80,7.509209961
+Caribe,Islas Caimán,2100,65,31.01769984
+Caribe,Islas Caimán,2100,80,13.84254843
+Caribe,Islas Turcas y Caicos,2024,65,11.25174537
+Caribe,Islas Turcas y Caicos,2024,80,2.32190825
+Caribe,Islas Turcas y Caicos,2050,65,26.71216428
+Caribe,Islas Turcas y Caicos,2050,80,6.856515259
+Caribe,Islas Turcas y Caicos,2100,65,34.80941951
+Caribe,Islas Turcas y Caicos,2100,80,15.21385014
+Caribe,Islas Vírgenes Británicas,2024,65,9.623520821
+Caribe,Islas Vírgenes Británicas,2024,80,1.332623977
+Caribe,Islas Vírgenes Británicas,2050,65,28.10114026
+Caribe,Islas Vírgenes Británicas,2050,80,6.32622689
+Caribe,Islas Vírgenes Británicas,2100,65,34.31695998
+Caribe,Islas Vírgenes Británicas,2100,80,15.86769372
+Caribe,Islas Vírgenes de los Estados Unidos,2024,65,22.69006521
+Caribe,Islas Vírgenes de los Estados Unidos,2024,80,4.844826087
+Caribe,Islas Vírgenes de los Estados Unidos,2050,65,26.05265081
+Caribe,Islas Vírgenes de los Estados Unidos,2050,80,9.559143335
+Caribe,Islas Vírgenes de los Estados Unidos,2100,65,29.70416844
+Caribe,Islas Vírgenes de los Estados Unidos,2100,80,11.92040145
+Caribe,Jamaica,2024,65,8.209602535
+Caribe,Jamaica,2024,80,1.213680021
+Caribe,Jamaica,2050,65,19.3790257
+Caribe,Jamaica,2050,80,3.816997632
+Caribe,Jamaica,2100,65,36.49653196
+Caribe,Jamaica,2100,80,13.90144527
+Caribe,Martinica,2024,65,25.30995607
+Caribe,Martinica,2024,80,6.699252129
+Caribe,Martinica,2050,65,35.38270891
+Caribe,Martinica,2050,80,17.89165884
+Caribe,Martinica,2100,65,33.25969875
+Caribe,Martinica,2100,80,16.69812351
+Caribe,Montserrat,2024,65,19.36659813
+Caribe,Montserrat,2024,80,3.668261319
+Caribe,Montserrat,2050,65,25.78548193
+Caribe,Montserrat,2050,80,8.071506023
+Caribe,Montserrat,2100,65,31.72835112
+Caribe,Montserrat,2100,80,14.3729791
+Caribe,Puerto Rico,2024,65,24.71867949
+Caribe,Puerto Rico,2024,80,6.909805536
+Caribe,Puerto Rico,2050,65,36.9579345
+Caribe,Puerto Rico,2050,80,16.12529755
+Caribe,Puerto Rico,2100,65,52.4017632
+Caribe,Puerto Rico,2100,80,32.49692321
+Caribe,Rep. Dominicana,2024,65,7.879474759
+Caribe,Rep. Dominicana,2024,80,1.347978413
+Caribe,Rep. Dominicana,2050,65,15.04447311
+Caribe,Rep. Dominicana,2050,80,3.809251636
+Caribe,Rep. Dominicana,2100,65,27.92275846
+Caribe,Rep. Dominicana,2100,80,10.4535237
+Caribe,San Bartolomé,2024,65,17.68075973
+Caribe,San Bartolomé,2024,80,4.263635352
+Caribe,San Bartolomé,2050,65,26.12401247
+Caribe,San Bartolomé,2050,80,10.86871549
+Caribe,San Bartolomé,2100,65,44.20391917
+Caribe,San Bartolomé,2100,80,26.6533196
+Caribe,San Cristóbal y Nieves,2024,65,11.22579724
+Caribe,San Cristóbal y Nieves,2024,80,1.683282293
+Caribe,San Cristóbal y Nieves,2050,65,20.58012486
+Caribe,San Cristóbal y Nieves,2050,80,4.761689901
+Caribe,San Cristóbal y Nieves,2100,65,30.86081147
+Caribe,San Cristóbal y Nieves,2100,80,11.50170267
+Caribe,San Martín (parte francesa),2024,65,18.40675175
+Caribe,San Martín (parte francesa),2024,80,4.357227683
+Caribe,San Martín (parte francesa),2050,65,32.63368309
+Caribe,San Martín (parte francesa),2050,80,13.52221221
+Caribe,San Martín (parte francesa),2100,65,27.53199339
+Caribe,San Martín (parte francesa),2100,80,14.04219121
+Caribe,San Martín (parte holandesa),2024,65,13.94232959
+Caribe,San Martín (parte holandesa),2024,80,1.635524817
+Caribe,San Martín (parte holandesa),2050,65,24.08804893
+Caribe,San Martín (parte holandesa),2050,80,7.282866538
+Caribe,San Martín (parte holandesa),2100,65,33.45514536
+Caribe,San Martín (parte holandesa),2100,80,14.10038024
+Caribe,San Vicente y las Granadinas,2024,65,11.89124957
+Caribe,San Vicente y las Granadinas,2024,80,2.248151787
+Caribe,San Vicente y las Granadinas,2050,65,19.14393455
+Caribe,San Vicente y las Granadinas,2050,80,4.635605216
+Caribe,San Vicente y las Granadinas,2100,65,28.17356586
+Caribe,San Vicente y las Granadinas,2100,80,11.00937426
+Caribe,Santa Lucía,2024,65,9.616733342
+Caribe,Santa Lucía,2024,80,1.557771116
+Caribe,Santa Lucía,2050,65,20.39940804
+Caribe,Santa Lucía,2050,80,4.643452913
+Caribe,Santa Lucía,2100,65,33.22104216
+Caribe,Santa Lucía,2100,80,12.49919087
+Caribe,Trinidad y Tobago,2024,65,12.37834841
+Caribe,Trinidad y Tobago,2024,80,1.503466722
+Caribe,Trinidad y Tobago,2050,65,23.84915799
+Caribe,Trinidad y Tobago,2050,80,5.430060998
+Caribe,Trinidad y Tobago,2100,65,32.75570869
+Caribe,Trinidad y Tobago,2100,80,13.11536133
+OCDE ingresos altos no ALyC,Agregado regional,2024,65,21.03865433
+OCDE ingresos altos no ALyC,Agregado regional,2024,80,5.825665951
+OCDE ingresos altos no ALyC,Agregado regional,2050,65,28.15210724
+OCDE ingresos altos no ALyC,Agregado regional,2050,80,10.92789745
+OCDE ingresos altos no ALyC,Agregado regional,2100,65,31.18875694
+OCDE ingresos altos no ALyC,Agregado regional,2100,80,15.07621574
+OCDE ingresos altos no ALyC,Alemania,2024,65,23.1955871
+OCDE ingresos altos no ALyC,Alemania,2024,80,7.538595796
+OCDE ingresos altos no ALyC,Alemania,2050,65,30.28375208
+OCDE ingresos altos no ALyC,Alemania,2050,80,13.0186677
+OCDE ingresos altos no ALyC,Alemania,2100,65,31.19089007
+OCDE ingresos altos no ALyC,Alemania,2100,80,14.63039517
+OCDE ingresos altos no ALyC,Australia,2024,65,17.73001552
+OCDE ingresos altos no ALyC,Australia,2024,80,4.511266947
+OCDE ingresos altos no ALyC,Australia,2050,65,23.85058105
+OCDE ingresos altos no ALyC,Australia,2050,80,8.838943392
+OCDE ingresos altos no ALyC,Australia,2100,65,28.35896313
+OCDE ingresos altos no ALyC,Australia,2100,80,12.94862479
+OCDE ingresos altos no ALyC,Austria,2024,65,20.60640305
+OCDE ingresos altos no ALyC,Austria,2024,80,6.259195507
+OCDE ingresos altos no ALyC,Austria,2050,65,30.80870211
+OCDE ingresos altos no ALyC,Austria,2050,80,12.5602752
+OCDE ingresos altos no ALyC,Austria,2100,65,33.44486952
+OCDE ingresos altos no ALyC,Austria,2100,80,16.16645604
+OCDE ingresos altos no ALyC,Bélgica,2024,65,20.55808157
+OCDE ingresos altos no ALyC,Bélgica,2024,80,5.673553422
+OCDE ingresos altos no ALyC,Bélgica,2050,65,27.77704597
+OCDE ingresos altos no ALyC,Bélgica,2050,80,10.96228436
+OCDE ingresos altos no ALyC,Bélgica,2100,65,32.45974481
+OCDE ingresos altos no ALyC,Bélgica,2100,80,16.1806047
+OCDE ingresos altos no ALyC,Canadá,2024,65,19.79958862
+OCDE ingresos altos no ALyC,Canadá,2024,80,4.846443608
+OCDE ingresos altos no ALyC,Canadá,2050,65,25.66986084
+OCDE ingresos altos no ALyC,Canadá,2050,80,10.14089137
+OCDE ingresos altos no ALyC,Canadá,2100,65,30.35068512
+OCDE ingresos altos no ALyC,Canadá,2100,80,14.06992078
+OCDE ingresos altos no ALyC,Corea del Sur,2024,65,19.27351207
+OCDE ingresos altos no ALyC,Corea del Sur,2024,80,4.724074155
+OCDE ingresos altos no ALyC,Corea del Sur,2050,65,39.68487382
+OCDE ingresos altos no ALyC,Corea del Sur,2050,80,16.1055848
+OCDE ingresos altos no ALyC,Corea del Sur,2100,65,45.20795941
+OCDE ingresos altos no ALyC,Corea del Sur,2100,80,27.34037638
+OCDE ingresos altos no ALyC,Dinamarca,2024,65,20.86607069
+OCDE ingresos altos no ALyC,Dinamarca,2024,80,5.536074936
+OCDE ingresos altos no ALyC,Dinamarca,2050,65,25.61434209
+OCDE ingresos altos no ALyC,Dinamarca,2050,80,10.01819223
+OCDE ingresos altos no ALyC,Dinamarca,2100,65,31.31958544
+OCDE ingresos altos no ALyC,Dinamarca,2100,80,14.39449042
+OCDE ingresos altos no ALyC,Eslovaquia,2024,65,18.53739768
+OCDE ingresos altos no ALyC,Eslovaquia,2024,80,3.663869575
+OCDE ingresos altos no ALyC,Eslovaquia,2050,65,30.06532192
+OCDE ingresos altos no ALyC,Eslovaquia,2050,80,8.792566508
+OCDE ingresos altos no ALyC,Eslovaquia,2100,65,34.67603028
+OCDE ingresos altos no ALyC,Eslovaquia,2100,80,16.30982608
+OCDE ingresos altos no ALyC,Eslovenia,2024,65,21.7723459
+OCDE ingresos altos no ALyC,Eslovenia,2024,80,5.613473803
+OCDE ingresos altos no ALyC,Eslovenia,2050,65,31.7651391
+OCDE ingresos altos no ALyC,Eslovenia,2050,80,11.46936268
+OCDE ingresos altos no ALyC,Eslovenia,2100,65,32.57391751
+OCDE ingresos altos no ALyC,Eslovenia,2100,80,16.07524604
+OCDE ingresos altos no ALyC,España,2024,65,21.14544362
+OCDE ingresos altos no ALyC,España,2024,80,6.333499402
+OCDE ingresos altos no ALyC,España,2050,65,36.05969846
+OCDE ingresos altos no ALyC,España,2050,80,13.85992765
+OCDE ingresos altos no ALyC,España,2100,65,36.27381921
+OCDE ingresos altos no ALyC,España,2100,80,19.5362255
+OCDE ingresos altos no ALyC,EE. UU.,2024,65,17.92872995
+OCDE ingresos altos no ALyC,EE. UU.,2024,80,4.070069268
+OCDE ingresos altos no ALyC,EE. UU.,2050,65,23.11074138
+OCDE ingresos altos no ALyC,EE. UU.,2050,80,8.605372906
+OCDE ingresos altos no ALyC,EE. UU.,2100,65,28.41329575
+OCDE ingresos altos no ALyC,EE. UU.,2100,80,12.78877407
+OCDE ingresos altos no ALyC,Estonia,2024,65,21.29733115
+OCDE ingresos altos no ALyC,Estonia,2024,80,6.084432453
+OCDE ingresos altos no ALyC,Estonia,2050,65,29.81847525
+OCDE ingresos altos no ALyC,Estonia,2050,80,10.24009064
+OCDE ingresos altos no ALyC,Estonia,2100,65,35.25989354
+OCDE ingresos altos no ALyC,Estonia,2100,80,18.17703843
+OCDE ingresos altos no ALyC,Finlandia,2024,65,23.89724106
+OCDE ingresos altos no ALyC,Finlandia,2024,80,6.10502176
+OCDE ingresos altos no ALyC,Finlandia,2050,65,28.2410413
+OCDE ingresos altos no ALyC,Finlandia,2050,80,11.05365679
+OCDE ingresos altos no ALyC,Finlandia,2100,65,33.98342133
+OCDE ingresos altos no ALyC,Finlandia,2100,80,17.05162227
+OCDE ingresos altos no ALyC,Francia,2024,65,22.14656323
+OCDE ingresos altos no ALyC,Francia,2024,80,6.257944554
+OCDE ingresos altos no ALyC,Francia,2050,65,27.56072283
+OCDE ingresos altos no ALyC,Francia,2050,80,11.60676479
+OCDE ingresos altos no ALyC,Francia,2100,65,30.94820678
+OCDE ingresos altos no ALyC,Francia,2100,80,15.68369418
+OCDE ingresos altos no ALyC,Grecia,2024,65,23.93976301
+OCDE ingresos altos no ALyC,Grecia,2024,80,7.484278083
+OCDE ingresos altos no ALyC,Grecia,2050,65,34.62694287
+OCDE ingresos altos no ALyC,Grecia,2050,80,13.07550371
+OCDE ingresos altos no ALyC,Grecia,2100,65,35.85012555
+OCDE ingresos altos no ALyC,Grecia,2100,80,19.00516748
+OCDE ingresos altos no ALyC,Hungría,2024,65,20.99319696
+OCDE ingresos altos no ALyC,Hungría,2024,80,4.89198938
+OCDE ingresos altos no ALyC,Hungría,2050,65,27.39737928
+OCDE ingresos altos no ALyC,Hungría,2050,80,8.084177226
+OCDE ingresos altos no ALyC,Hungría,2100,65,29.8658371
+OCDE ingresos altos no ALyC,Hungría,2100,80,12.98494041
+OCDE ingresos altos no ALyC,Irlanda,2024,65,15.89208096
+OCDE ingresos altos no ALyC,Irlanda,2024,80,3.831995279
+OCDE ingresos altos no ALyC,Irlanda,2050,65,26.13735199
+OCDE ingresos altos no ALyC,Irlanda,2050,80,8.438926935
+OCDE ingresos altos no ALyC,Irlanda,2100,65,33.28966498
+OCDE ingresos altos no ALyC,Irlanda,2100,80,16.91087186
+OCDE ingresos altos no ALyC,Islandia,2024,65,15.6447947
+OCDE ingresos altos no ALyC,Islandia,2024,80,3.617474437
+OCDE ingresos altos no ALyC,Islandia,2050,65,23.94380569
+OCDE ingresos altos no ALyC,Islandia,2050,80,8.002208173
+OCDE ingresos altos no ALyC,Islandia,2100,65,35.61208248
+OCDE ingresos altos no ALyC,Islandia,2100,80,16.62644595
+OCDE ingresos altos no ALyC,Israel,2024,65,12.55269498
+OCDE ingresos altos no ALyC,Israel,2024,80,2.935590595
+OCDE ingresos altos no ALyC,Israel,2050,65,15.72361887
+OCDE ingresos altos no ALyC,Israel,2050,80,4.948875308
+OCDE ingresos altos no ALyC,Israel,2100,65,23.94148558
+OCDE ingresos altos no ALyC,Israel,2100,80,10.30802354
+OCDE ingresos altos no ALyC,Italia,2024,65,24.62477684
+OCDE ingresos altos no ALyC,Italia,2024,80,7.811827213
+OCDE ingresos altos no ALyC,Italia,2050,65,36.82802022
+OCDE ingresos altos no ALyC,Italia,2050,80,15.43229967
+OCDE ingresos altos no ALyC,Italia,2100,65,37.46142983
+OCDE ingresos altos no ALyC,Italia,2100,80,19.84988898
+OCDE ingresos altos no ALyC,Japón,2024,65,29.78077531
+OCDE ingresos altos no ALyC,Japón,2024,80,10.56573018
+OCDE ingresos altos no ALyC,Japón,2050,65,37.48130202
+OCDE ingresos altos no ALyC,Japón,2050,80,15.60557485
+OCDE ingresos altos no ALyC,Japón,2100,65,37.43064702
+OCDE ingresos altos no ALyC,Japón,2100,80,21.03073448
+OCDE ingresos altos no ALyC,Letonia,2024,65,21.735847
+OCDE ingresos altos no ALyC,Letonia,2024,80,6.184533983
+OCDE ingresos altos no ALyC,Letonia,2050,65,28.94570827
+OCDE ingresos altos no ALyC,Letonia,2050,80,9.801296145
+OCDE ingresos altos no ALyC,Letonia,2100,65,36.1013025
+OCDE ingresos altos no ALyC,Letonia,2100,80,18.15466285
+OCDE ingresos altos no ALyC,Lituania,2024,65,20.16648501
+OCDE ingresos altos no ALyC,Lituania,2024,80,5.704502761
+OCDE ingresos altos no ALyC,Lituania,2050,65,28.61937582
+OCDE ingresos altos no ALyC,Lituania,2050,80,10.26277989
+OCDE ingresos altos no ALyC,Lituania,2100,65,39.24400806
+OCDE ingresos altos no ALyC,Lituania,2100,80,19.39036399
+OCDE ingresos altos no ALyC,Luxemburgo,2024,65,15.4763639
+OCDE ingresos altos no ALyC,Luxemburgo,2024,80,4.029130563
+OCDE ingresos altos no ALyC,Luxemburgo,2050,65,25.9786278
+OCDE ingresos altos no ALyC,Luxemburgo,2050,80,8.948101103
+OCDE ingresos altos no ALyC,Luxemburgo,2100,65,32.77717531
+OCDE ingresos altos no ALyC,Luxemburgo,2100,80,15.07820934
+OCDE ingresos altos no ALyC,Noruega,2024,65,18.78523827
+OCDE ingresos altos no ALyC,Noruega,2024,80,4.702778906
+OCDE ingresos altos no ALyC,Noruega,2050,65,26.81122422
+OCDE ingresos altos no ALyC,Noruega,2050,80,10.02767235
+OCDE ingresos altos no ALyC,Noruega,2100,65,33.11293721
+OCDE ingresos altos no ALyC,Noruega,2100,80,16.16526991
+OCDE ingresos altos no ALyC,Nueva Zelanda,2024,65,17.19575524
+OCDE ingresos altos no ALyC,Nueva Zelanda,2024,80,4.11118716
+OCDE ingresos altos no ALyC,Nueva Zelanda,2050,65,24.01757389
+OCDE ingresos altos no ALyC,Nueva Zelanda,2050,80,8.935312927
+OCDE ingresos altos no ALyC,Nueva Zelanda,2100,65,31.0675323
+OCDE ingresos altos no ALyC,Nueva Zelanda,2100,80,14.2509073
+OCDE ingresos altos no ALyC,Países Bajos,2024,65,20.49607784
+OCDE ingresos altos no ALyC,Países Bajos,2024,80,5.038995668
+OCDE ingresos altos no ALyC,Países Bajos,2050,65,26.25722885
+OCDE ingresos altos no ALyC,Países Bajos,2050,80,10.54576933
+OCDE ingresos altos no ALyC,Países Bajos,2100,65,32.30423629
+OCDE ingresos altos no ALyC,Países Bajos,2100,80,14.76252973
+OCDE ingresos altos no ALyC,Polonia,2024,65,20.1434046
+OCDE ingresos altos no ALyC,Polonia,2024,80,4.265363514
+OCDE ingresos altos no ALyC,Polonia,2050,65,31.80019259
+OCDE ingresos altos no ALyC,Polonia,2050,80,9.709545225
+OCDE ingresos altos no ALyC,Polonia,2100,65,39.07156885
+OCDE ingresos altos no ALyC,Polonia,2100,80,20.19530982
+OCDE ingresos altos no ALyC,Portugal,2024,65,24.53064919
+OCDE ingresos altos no ALyC,Portugal,2024,80,7.103168219
+OCDE ingresos altos no ALyC,Portugal,2050,65,33.04084241
+OCDE ingresos altos no ALyC,Portugal,2050,80,12.89425194
+OCDE ingresos altos no ALyC,Portugal,2100,65,31.12428486
+OCDE ingresos altos no ALyC,Portugal,2100,80,14.88603354
+OCDE ingresos altos no ALyC,Reino Unido,2024,65,19.49976832
+OCDE ingresos altos no ALyC,Reino Unido,2024,80,5.292036757
+OCDE ingresos altos no ALyC,Reino Unido,2050,65,24.67724383
+OCDE ingresos altos no ALyC,Reino Unido,2050,80,9.101316333
+OCDE ingresos altos no ALyC,Reino Unido,2100,65,31.3297689
+OCDE ingresos altos no ALyC,Reino Unido,2100,80,14.8822695
+OCDE ingresos altos no ALyC,República Checa,2024,65,20.84538341
+OCDE ingresos altos no ALyC,República Checa,2024,80,4.730292037
+OCDE ingresos altos no ALyC,República Checa,2050,65,29.58130836
+OCDE ingresos altos no ALyC,República Checa,2050,80,8.827608824
+OCDE ingresos altos no ALyC,República Checa,2100,65,31.0243547
+OCDE ingresos altos no ALyC,República Checa,2100,80,14.80545998
+OCDE ingresos altos no ALyC,Suecia,2024,65,20.74676752
+OCDE ingresos altos no ALyC,Suecia,2024,80,5.958712101
+OCDE ingresos altos no ALyC,Suecia,2050,65,25.69214404
+OCDE ingresos altos no ALyC,Suecia,2050,80,9.71487537
+OCDE ingresos altos no ALyC,Suecia,2100,65,32.19580948
+OCDE ingresos altos no ALyC,Suecia,2100,80,16.01916254
+OCDE ingresos altos no ALyC,Suiza,2024,65,20.01905143
+OCDE ingresos altos no ALyC,Suiza,2024,80,5.865889043
+OCDE ingresos altos no ALyC,Suiza,2050,65,30.2226752
+OCDE ingresos altos no ALyC,Suiza,2050,80,12.00318038
+OCDE ingresos altos no ALyC,Suiza,2100,65,32.09053278
+OCDE ingresos altos no ALyC,Suiza,2100,80,15.43201059

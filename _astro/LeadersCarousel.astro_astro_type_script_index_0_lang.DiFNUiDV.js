@@ -1,0 +1,1 @@
+import{E as n,a as c}from"./CarouselArrowButtons.B36oioI6.js";const l={dragFree:!0,align:"center"},e=document.querySelector("#leaders-carousel");if(e){const r=e.querySelector(".embla__viewport"),o=e.querySelector('.embla__button[data-direction="prev"]'),a=e.querySelector('.embla__button[data-direction="next"]'),t=n(r,l);t.on("destroy",c(t,o,a))}

@@ -1,0 +1,85 @@
+country,group,extreme,moderate
+América Latina,Hombre,7,24
+América Latina,Mujer,8,25
+América Latina,Urbano,5,21
+América Latina,Rural,17,39
+América Latina,Afrodescendiente,7,24
+América Latina,Indígena,17,43
+América Latina,No indígena ni afrodescendiente,6,21
+Bolivia,Hombre,10,28
+Bolivia,Mujer,10,30
+Bolivia,Urbano,4,23
+Bolivia,Rural,24,43
+Bolivia,Afrodescendiente,,
+Bolivia,Indígena,16,35
+Bolivia,No indígena ni afrodescendiente,8,27
+Brasil,Hombre,5,19
+Brasil,Mujer,6,20
+Brasil,Urbano,4,18
+Brasil,Rural,11,30
+Brasil,Afrodescendiente,7,25
+Brasil,Indígena,10,33
+Brasil,No indígena ni afrodescendiente,3,12
+Chile,Hombre,2,8
+Chile,Mujer,2,9
+Chile,Urbano,2,8
+Chile,Rural,3,7
+Chile,Afrodescendiente,,
+Chile,Indígena,3,10
+Chile,No indígena ni afrodescendiente,2,8
+Colombia,Hombre,16,34
+Colombia,Mujer,17,35
+Colombia,Urbano,12,30
+Colombia,Rural,32,49
+Colombia,Afrodescendiente,26,47
+Colombia,Indígena,47,65
+Colombia,No indígena ni afrodescendiente,15,32
+Ecuador,Hombre,6,24
+Ecuador,Mujer,7,26
+Ecuador,Urbano,4,21
+Ecuador,Rural,12,33
+Ecuador,Afrodescendiente,13,37
+Ecuador,Indígena,26,50
+Ecuador,No indígena ni afrodescendiente,5,22
+Guatemala,Hombre,15,50
+Guatemala,Mujer,15,51
+Guatemala,Urbano,7,35
+Guatemala,Rural,23,66
+Guatemala,Afrodescendiente,,
+Guatemala,Indígena,25,70
+Guatemala,No indígena ni afrodescendiente,9,38
+México,Hombre,6,27
+México,Mujer,6,29
+México,Urbano,4,25
+México,Rural,12,38
+México,Afrodescendiente,,
+México,Indígena,11,39
+México,No indígena ni afrodescendiente,4,24
+Nicaragua,Hombre,19,47
+Nicaragua,Mujer,18,46
+Nicaragua,Urbano,8,37
+Nicaragua,Rural,32,60
+Nicaragua,Afrodescendiente,7,20
+Nicaragua,Indígena,35,60
+Nicaragua,No indígena ni afrodescendiente,17,46
+Panamá,Hombre,6,14
+Panamá,Mujer,7,15
+Panamá,Urbano,2,7
+Panamá,Rural,18,32
+Panamá,Afrodescendiente,2,8
+Panamá,Indígena,29,47
+Panamá,No indígena ni afrodescendiente,3,9
+Perú,Hombre,3,14
+Perú,Mujer,3,15
+Perú,Urbano,2,13
+Perú,Rural,6,23
+Perú,Afrodescendiente,3,19
+Perú,Indígena,4,20
+Perú,No indígena ni afrodescendiente,2,12
+Uruguay,Hombre,0,4
+Uruguay,Mujer,0,5
+Uruguay,Urbano,0,5
+Uruguay,Rural,1,3
+Uruguay,Afrodescendiente,0,8
+Uruguay,Indígena,0,4
+Uruguay,No indígena ni afrodescendiente,0,4

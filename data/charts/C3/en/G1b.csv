@@ -1,0 +1,85 @@
+country,group,extreme,moderate
+Latin America,Man,7,24
+Latin America,Woman,8,25
+Latin America,Urban,5,21
+Latin America,Rural,17,39
+Latin America,Afrodescendant,7,24
+Latin America,Indigenous,17,43
+Latin America,Non-indigenous or Afro-descendant,6,21
+Bolivia,Man,10,28
+Bolivia,Woman,10,30
+Bolivia,Urban,4,23
+Bolivia,Rural,24,43
+Bolivia,Afrodescendant,,
+Bolivia,Indigenous,16,35
+Bolivia,Non-indigenous or Afro-descendant,8,27
+Brazil,Man,5,19
+Brazil,Woman,6,20
+Brazil,Urban,4,18
+Brazil,Rural,11,30
+Brazil,Afrodescendant,7,25
+Brazil,Indigenous,10,33
+Brazil,Non-indigenous or Afro-descendant,3,12
+Chile,Man,2,8
+Chile,Woman,2,9
+Chile,Urban,2,8
+Chile,Rural,3,7
+Chile,Afrodescendant,,
+Chile,Indigenous,3,10
+Chile,Non-indigenous or Afro-descendant,2,8
+Colombia,Man,16,34
+Colombia,Woman,17,35
+Colombia,Urban,12,30
+Colombia,Rural,32,49
+Colombia,Afrodescendant,26,47
+Colombia,Indigenous,47,65
+Colombia,Non-indigenous or Afro-descendant,15,32
+Ecuador,Man,6,24
+Ecuador,Woman,7,26
+Ecuador,Urban,4,21
+Ecuador,Rural,12,33
+Ecuador,Afrodescendant,13,37
+Ecuador,Indigenous,26,50
+Ecuador,Non-indigenous or Afro-descendant,5,22
+Guatemala,Man,15,50
+Guatemala,Woman,15,51
+Guatemala,Urban,7,35
+Guatemala,Rural,23,66
+Guatemala,Afrodescendant,,
+Guatemala,Indigenous,25,70
+Guatemala,Non-indigenous or Afro-descendant,9,38
+Mexico,Man,6,27
+Mexico,Woman,6,29
+Mexico,Urban,4,25
+Mexico,Rural,12,38
+Mexico,Afrodescendant,,
+Mexico,Indigenous,11,39
+Mexico,Non-indigenous or Afro-descendant,4,24
+Nicaragua,Man,19,47
+Nicaragua,Woman,18,46
+Nicaragua,Urban,8,37
+Nicaragua,Rural,32,60
+Nicaragua,Afrodescendant,7,20
+Nicaragua,Indigenous,35,60
+Nicaragua,Non-indigenous or Afro-descendant,17,46
+Panama,Man,6,14
+Panama,Woman,7,15
+Panama,Urban,2,7
+Panama,Rural,18,32
+Panama,Afrodescendant,2,8
+Panama,Indigenous,29,47
+Panama,Non-indigenous or Afro-descendant,3,9
+Peru,Man,3,14
+Peru,Woman,3,15
+Peru,Urban,2,13
+Peru,Rural,6,23
+Peru,Afrodescendant,3,19
+Peru,Indigenous,4,20
+Peru,Non-indigenous or Afro-descendant,2,12
+Uruguay,Man,0,4
+Uruguay,Woman,0,5
+Uruguay,Urban,0,5
+Uruguay,Rural,1,3
+Uruguay,Afrodescendant,0,8
+Uruguay,Indigenous,0,4
+Uruguay,Non-indigenous or Afro-descendant,0,4

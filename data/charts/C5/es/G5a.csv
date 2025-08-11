@@ -1,0 +1,165 @@
+country,index,region
+Albania,1.43,Otros países
+Argelia,0.92,Otros países
+Angola,0.92,Otros países
+Antigua y Barbuda,0.77,Caribe
+Argentina,1.54,América Latina
+Armenia,1.44,Otros países
+Australia,1.84,OCDE
+Austria,1.79,OCDE
+Azerbaiyán,1.3,Otros países
+Bahamas,0.72,Caribe
+Baréin,1.28,Otros países
+Bangladés,1.06,Otros países
+Barbados,0.74,Caribe
+Bielorrusia,0.69,Otros países
+Bélgica,1.8,OCDE
+Belice,0.54,Caribe
+Benín,0.99,Otros países
+Bután,0.66,Otros países
+Bolivia,0.92,América Latina
+Bosnia y Herzegovina,1.24,Otros países
+Botsuana,1.18,Otros países
+Brasil,1.58,América Latina
+Brunéi Darussalam,1.38,Otros países
+Bulgaria,1.69,Otros países
+Burkina Faso,0.64,Otros países
+Burundi,0.53,Otros países
+Camboya,1.24,Otros países
+Camerún,1.02,Otros países
+Canadá,1.8,OCDE
+República Centroafricana,0.63,Otros países
+Chad,0.43,Otros países
+Chile,1.62,América Latina
+China,1.61,Otros países
+Taipéi Chino,1.61,Otros países
+Colombia,1.64,América Latina
+Comoras,0.44,Otros países
+Congo,0.85,Otros países
+Costa Rica,1.63,América Latina
+Croacia,1.79,Otros países
+Cuba,1.09,Caribe
+Chipre,1.79,Otros países
+Chequia,1.71,OCDE
+Costa de Marfil,0.81,Otros países
+República Democrática del Congo (RDC),0.6,Otros países
+Dinamarca,1.82,OCDE
+Yibuti,0.38,Otros países
+Dominica,0.95,Caribe
+Rep. Dominicana,1.36,Caribe
+Ecuador,1.22,América Latina
+Egipto,1.2,Otros países
+El Salvador,1.41,América Latina
+Estonia,1.82,OCDE
+Esuatini,0.85,Otros países
+Etiopía,0.78,Otros países
+Fiyi,1.09,Otros países
+Finlandia,1.83,OCDE
+Francia,1.81,OCDE
+Gabón,0.58,Otros países
+Gambia,0.77,Otros países
+Georgia,1.61,Otros países
+Alemania,1.78,OCDE
+Ghana,0.94,Otros países
+Grecia,1.67,OCDE
+Guatemala,1.31,América Latina
+Honduras,1.08,América Latina
+"Hong Kong, China",1.88,Otros países
+Hungría,1.62,OCDE
+Islandia,1.66,OCDE
+India,1.55,Otros países
+Indonesia,1.42,Otros países
+Irlanda,1.79,OCDE
+Israel,1.6,OCDE
+Italia,1.72,OCDE
+Jamaica,0.89,Caribe
+Japón,1.86,OCDE
+Jordania,1.01,Otros países
+Kazajistán,1.28,Otros países
+Kenia,1.34,Otros países
+Kiribati,0.46,Otros países
+Corea,1.88,OCDE
+Kuwait,1.01,Otros países
+Kirguistán,1.05,Otros países
+Laos,0.91,Otros países
+Letonia,1.73,OCDE
+Líbano,0.92,Otros países
+Lesoto,0.84,Otros países
+Liberia,0.69,Otros países
+Lituania,1.77,OCDE
+Luxemburgo,1.82,OCDE
+Madagascar,1.0,Otros países
+Malaui,0.9,Otros países
+Malasia,1.56,Otros países
+Maldivas,0.92,Otros países
+Malí,0.92,Otros países
+Malta,1.69,Otros países
+Mauricio,1.66,Otros países
+México,1.66,América Latina
+Micronesia,0.46,Otros países
+Moldavia,1.11,Otros países
+Mongolia,1.19,Otros países
+Montenegro,1.35,Otros países
+Marruecos,1.59,Otros países
+Mozambique,0.9,Otros países
+Myanmar,1.09,Otros países
+Namibia,0.96,Otros países
+Nepal,0.7,Otros países
+Países Bajos,1.87,OCDE
+Nueva Zelanda,1.81,OCDE
+Nicaragua,1.32,América Latina
+Níger,0.72,Otros países
+Nigeria,0.93,Otros países
+Macedonia del Norte,1.39,Otros países
+Noruega,1.86,OCDE
+Omán,1.71,Otros países
+Pakistán,1.35,Otros países
+Palaos,0.55,Otros países
+Panamá,1.56,América Latina
+Papúa Nueva Guinea,1.08,Otros países
+Paraguay,1.21,América Latina
+Perú,1.57,América Latina
+Filipinas,1.37,Otros países
+Polonia,1.8,OCDE
+Portugal,1.83,OCDE
+Catar,1.43,Otros países
+Rumania,1.62,Otros países
+Rusia,1.69,Otros países
+Ruanda,1.01,Otros países
+Samoa,0.87,Otros países
+Arabia Saudita,1.37,Otros países
+Senegal,1.21,Otros países
+Serbia,1.35,Otros países
+Sierra Leona,0.53,Otros países
+Singapur,1.85,Otros países
+República Eslovaca,1.69,OCDE
+Eslovenia,1.77,OCDE
+Islas Salomón,0.63,Otros países
+Sudáfrica,1.63,Otros países
+España,1.81,OCDE
+Sri Lanka,1.07,Otros países
+Sudán,0.54,Otros países
+Surinam,0.46,Caribe
+Suecia,1.85,OCDE
+Suiza,1.8,OCDE
+Tayikistán,1.04,Otros países
+Tanzania,0.96,Otros países
+Tailandia,1.51,Otros países
+Togo,0.82,Otros países
+Tonga,0.81,Otros países
+Trinidad y Tobago,1.14,Caribe
+Túnez,1.26,Otros países
+Turquía,1.63,OCDE
+Uganda,0.95,Otros países
+Ucrania,1.08,Otros países
+Emiratos Árabes Unidos,1.48,Otros países
+Reino Unido,1.82,OCDE
+EE. UU.,1.85,OCDE
+Uruguay,1.54,América Latina
+Uzbekistán,0.85,Otros países
+Vanuatu,1.23,Otros países
+Venezuela,0.71,América Latina
+Vietnam,1.47,Otros países
+Yemen,0.31,Otros países
+Zambia,0.85,Otros países
+Zimbabue,0.91,Otros países

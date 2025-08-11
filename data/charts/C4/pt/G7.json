@@ -1,0 +1,74 @@
+[
+    {
+        "country": "México",
+        "indirect": "32.16537153",
+        "fugitive": "29.49741867",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Argentina",
+        "indirect": "24.94422029",
+        "fugitive": "25.529447",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Cuba",
+        "indirect": "40.77641998",
+        "fugitive": "8.007628023",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Venezuela",
+        "indirect": "9.911384676",
+        "fugitive": "29.50874579",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Colômbia",
+        "indirect": "24.33408887",
+        "fugitive": "14.00068927",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Guiana",
+        "indirect": "0",
+        "fugitive": "27.49939878",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Equador",
+        "indirect": "10.39866376",
+        "fugitive": "10.80388912",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Bolívia",
+        "indirect": "8.730032901",
+        "fugitive": "9.010482168",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Brasil",
+        "indirect": "6.988290443",
+        "fugitive": "8.681958741",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "T&T",
+        "indirect": "3.0519344",
+        "fugitive": "8.591736671",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Peru",
+        "indirect": "5.45565138",
+        "fugitive": "6.115956189",
+        "averageLAC": "29.48071667"
+    },
+    {
+        "country": "Uruguai",
+        "indirect": "7.266965964",
+        "fugitive": "0",
+        "averageLAC": "29.48071667"
+    }
+]

@@ -1,0 +1,1130 @@
+[
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1935",
+        "nonUniversity": "1.82",
+        "university": "20.1"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1940",
+        "nonUniversity": "2.96",
+        "university": "22.65"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1945",
+        "nonUniversity": "4.10",
+        "university": "25.11"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1950",
+        "nonUniversity": "5.24",
+        "university": "27.57"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1955",
+        "nonUniversity": "6.38",
+        "university": "30.03"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1960",
+        "nonUniversity": "7.52",
+        "university": "32.49"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1965",
+        "nonUniversity": "8.66",
+        "university": "34.96"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1970",
+        "nonUniversity": "9.80",
+        "university": "37.42"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1975",
+        "nonUniversity": "10.95",
+        "university": "39.88"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1980",
+        "nonUniversity": "12.09",
+        "university": "42.34"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1985",
+        "nonUniversity": "13.23",
+        "university": "44.80"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1990",
+        "nonUniversity": "14.37",
+        "university": "47.27"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "1995",
+        "nonUniversity": "15.51",
+        "university": "49.73"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "2000",
+        "nonUniversity": "16.65",
+        "university": "52.19"
+    },
+    {
+        "country": "América Latina e Caribe",
+        "cohort": "2005",
+        "nonUniversity": "17.79",
+        "university": "54.65"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1945",
+        "nonUniversity": "9.593495935",
+        "university": "37.20930233"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1946",
+        "nonUniversity": "10.64102564",
+        "university": "47.05882353"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1955",
+        "nonUniversity": "12.08436141",
+        "university": "40.69529652"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1956",
+        "nonUniversity": "13.20112179",
+        "university": "44.16775885"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1966",
+        "nonUniversity": "14.94986592",
+        "university": "47.41905209"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1967",
+        "nonUniversity": "12.60342405",
+        "university": "46.39484979"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1976",
+        "nonUniversity": "11.9706499",
+        "university": "42.82945736"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1977",
+        "nonUniversity": "8.806336036",
+        "university": "36.37931034"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1985",
+        "nonUniversity": "13.10391978",
+        "university": "48.99396378"
+    },
+    {
+        "country": "Argentina",
+        "cohort": "1986",
+        "nonUniversity": "11.31184562",
+        "university": "44.53125"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1951",
+        "nonUniversity": "3.511705686",
+        "university": "25"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1952",
+        "nonUniversity": "1.591895803",
+        "university": "4"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1967",
+        "nonUniversity": "6.643835616",
+        "university": "32.65306122"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1968",
+        "nonUniversity": "4.947433519",
+        "university": "20"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1976",
+        "nonUniversity": "15.87618572",
+        "university": "44.72049689"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1977",
+        "nonUniversity": "11.36851137",
+        "university": "38.52242744"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1987",
+        "nonUniversity": "28.37271347",
+        "university": "61.52028079"
+    },
+    {
+        "country": "Bolívia",
+        "cohort": "1988",
+        "nonUniversity": "25.09320417",
+        "university": "53.58572937"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1955",
+        "nonUniversity": "8.405398852",
+        "university": "49.5407226"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1956",
+        "nonUniversity": "6.879452437",
+        "university": "38.84087443"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1966",
+        "nonUniversity": "8.555640186",
+        "university": "43.54788366"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1967",
+        "nonUniversity": "6.925830788",
+        "university": "33.26433065"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1975",
+        "nonUniversity": "8.053243744",
+        "university": "43.91781832"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1976",
+        "nonUniversity": "6.241345975",
+        "university": "33.78945981"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1985",
+        "nonUniversity": "13.23176497",
+        "university": "59.15665115"
+    },
+    {
+        "country": "Brasil",
+        "cohort": "1986",
+        "nonUniversity": "10.83570657",
+        "university": "50.19899444"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1957",
+        "nonUniversity": "6.107954545",
+        "university": "26.66666667"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1958",
+        "nonUniversity": "3.855140187",
+        "university": "20"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1967",
+        "nonUniversity": "4.856512141",
+        "university": "20"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1968",
+        "nonUniversity": "5.612244898",
+        "university": "33.92857143"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1977",
+        "nonUniversity": "11.99677939",
+        "university": "36.11111111"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1978",
+        "nonUniversity": "7.836570663",
+        "university": "32.0754717"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1992",
+        "nonUniversity": "18.37044534",
+        "university": "41.78571429"
+    },
+    {
+        "country": "Chile",
+        "cohort": "1993",
+        "nonUniversity": "14.98386353",
+        "university": "34.375"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1948",
+        "nonUniversity": "6.119439666",
+        "university": "29.72972973"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1949",
+        "nonUniversity": "6.342687657",
+        "university": "39.375"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1960",
+        "nonUniversity": "11.5603206",
+        "university": "47.94138172"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1961",
+        "nonUniversity": "9.322370396",
+        "university": "43.9378103"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1968",
+        "nonUniversity": "1.554674457",
+        "university": "9.960159363"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1969",
+        "nonUniversity": "1.527524258",
+        "university": "4.782608696"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1980",
+        "nonUniversity": "20.19375995",
+        "university": "66.65509778"
+    },
+    {
+        "country": "Colômbia",
+        "cohort": "1981",
+        "nonUniversity": "16.96637284",
+        "university": "60.16182822"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1948",
+        "nonUniversity": "6.756756757",
+        "university": "42.85714286"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1949",
+        "nonUniversity": "6.172839506",
+        "university": "37.5"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1959",
+        "nonUniversity": "9.278350515",
+        "university": "55"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1960",
+        "nonUniversity": "12.33480176",
+        "university": "47.82608696"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1975",
+        "nonUniversity": "18.26484018",
+        "university": "54.76190476"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1976",
+        "nonUniversity": "14.22413793",
+        "university": "71.73913043"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1986",
+        "nonUniversity": "11.15241636",
+        "university": "54.38596491"
+    },
+    {
+        "country": "Costa Rica",
+        "cohort": "1987",
+        "nonUniversity": "6.41509434",
+        "university": "30.43478261"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "cohort": "1956",
+        "nonUniversity": "6.579693704",
+        "university": "43.90934844"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "cohort": "1957",
+        "nonUniversity": "5.424696645",
+        "university": "41.17647059"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "cohort": "1985",
+        "nonUniversity": "15.43392505",
+        "university": "51.74418605"
+    },
+    {
+        "country": "Rep. Dominicana",
+        "cohort": "1986",
+        "nonUniversity": "14.46111869",
+        "university": "46.55172414"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1949",
+        "nonUniversity": "2.70292456",
+        "university": "19.2561257"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1950",
+        "nonUniversity": "1.662625332",
+        "university": "31.91842851"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1957",
+        "nonUniversity": "6.664037855",
+        "university": "27.72277228"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1958",
+        "nonUniversity": "4.548685146",
+        "university": "21.56862745"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1965",
+        "nonUniversity": "8.765957447",
+        "university": "42.73858921"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1966",
+        "nonUniversity": "7.405390689",
+        "university": "31.79723502"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1976",
+        "nonUniversity": "8.997857653",
+        "university": "42.98850575"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1977",
+        "nonUniversity": "7.631923245",
+        "university": "34.66424682"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1985",
+        "nonUniversity": "13.50557839",
+        "university": "43.88297872"
+    },
+    {
+        "country": "Equador",
+        "cohort": "1986",
+        "nonUniversity": "14.07269338",
+        "university": "43.67541766"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1940",
+        "nonUniversity": "2.884615385",
+        "university": "50"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1948",
+        "nonUniversity": "6.228373702",
+        "university": "40"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1949",
+        "nonUniversity": "3.883495146",
+        "university": "37.5"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1956",
+        "nonUniversity": "11.52542373",
+        "university": "56.52173913"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1957",
+        "nonUniversity": "8.802816901",
+        "university": "38.23529412"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1969",
+        "nonUniversity": "14.03225806",
+        "university": "47.5"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1970",
+        "nonUniversity": "11.2654321",
+        "university": "41.17647059"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1977",
+        "nonUniversity": "14.50777202",
+        "university": "66.90647482"
+    },
+    {
+        "country": "Guatemala",
+        "cohort": "1978",
+        "nonUniversity": "14.44043321",
+        "university": "50.71428571"
+    },
+    {
+        "country": "Honduras",
+        "cohort": "1949",
+        "nonUniversity": "2.030456853",
+        "university": "0"
+    },
+    {
+        "country": "Honduras",
+        "cohort": "1950",
+        "nonUniversity": "2.135231317",
+        "university": "33.33333333"
+    },
+    {
+        "country": "Honduras",
+        "cohort": "1963",
+        "nonUniversity": "7.231404959",
+        "university": "27.77777778"
+    },
+    {
+        "country": "Honduras",
+        "cohort": "1964",
+        "nonUniversity": "4.263565891",
+        "university": "35"
+    },
+    {
+        "country": "Honduras",
+        "cohort": "1976",
+        "nonUniversity": "6.52173913",
+        "university": "41.55844156"
+    },
+    {
+        "country": "Honduras",
+        "cohort": "1977",
+        "nonUniversity": "4.473304473",
+        "university": "37.93103448"
+    },
+    {
+        "country": "Haiti",
+        "cohort": "1946",
+        "nonUniversity": "0.565770863",
+        "university": "0"
+    },
+    {
+        "country": "Haiti",
+        "cohort": "1947",
+        "nonUniversity": "0.700525394",
+        "university": "0"
+    },
+    {
+        "country": "Haiti",
+        "cohort": "1957",
+        "nonUniversity": "2.697095436",
+        "university": "0"
+    },
+    {
+        "country": "Haiti",
+        "cohort": "1958",
+        "nonUniversity": "1.171875",
+        "university": "50"
+    },
+    {
+        "country": "Haiti",
+        "cohort": "1978",
+        "nonUniversity": "1.709649377",
+        "university": "8.43373494"
+    },
+    {
+        "country": "Haiti",
+        "cohort": "1979",
+        "nonUniversity": "1.429479034",
+        "university": "6.25"
+    },
+    {
+        "country": "Jamaica",
+        "cohort": "1957",
+        "nonUniversity": "2.527075812",
+        "university": "12.5"
+    },
+    {
+        "country": "Jamaica",
+        "cohort": "1958",
+        "nonUniversity": "2.088772846",
+        "university": "33.33333333"
+    },
+    {
+        "country": "Jamaica",
+        "cohort": "1966",
+        "nonUniversity": "1.877934272",
+        "university": "15"
+    },
+    {
+        "country": "Jamaica",
+        "cohort": "1967",
+        "nonUniversity": "2.231237323",
+        "university": "31.25"
+    },
+    {
+        "country": "Jamaica",
+        "cohort": "1976",
+        "nonUniversity": "4.384130003",
+        "university": "40.1465484"
+    },
+    {
+        "country": "Jamaica",
+        "cohort": "1977",
+        "nonUniversity": "2.911783367",
+        "university": "34.83622688"
+    },
+    {
+        "country": "México",
+        "cohort": "1945",
+        "nonUniversity": "11.36363636",
+        "university": "33.33333333"
+    },
+    {
+        "country": "México",
+        "cohort": "1946",
+        "nonUniversity": "7.857142857",
+        "university": "41.66666667"
+    },
+    {
+        "country": "México",
+        "cohort": "1965",
+        "nonUniversity": "16.81415929",
+        "university": "59.49177877"
+    },
+    {
+        "country": "México",
+        "cohort": "1966",
+        "nonUniversity": "13.76500482",
+        "university": "52.5030525"
+    },
+    {
+        "country": "México",
+        "cohort": "1970",
+        "nonUniversity": "7.496149127",
+        "university": "82.38074774"
+    },
+    {
+        "country": "México",
+        "cohort": "1971",
+        "nonUniversity": "12.90626472",
+        "university": "29.26803525"
+    },
+    {
+        "country": "México",
+        "cohort": "1975",
+        "nonUniversity": "16.93209654",
+        "university": "55.66299233"
+    },
+    {
+        "country": "México",
+        "cohort": "1976",
+        "nonUniversity": "13.79200678",
+        "university": "51.8545784"
+    },
+    {
+        "country": "México",
+        "cohort": "1980",
+        "nonUniversity": "19.71538216",
+        "university": "62.08914903"
+    },
+    {
+        "country": "México",
+        "cohort": "1981",
+        "nonUniversity": "17.05602",
+        "university": "56.12200436"
+    },
+    {
+        "country": "México",
+        "cohort": "1985",
+        "nonUniversity": "17.38599881",
+        "university": "54.70259278"
+    },
+    {
+        "country": "México",
+        "cohort": "1986",
+        "nonUniversity": "17.22890897",
+        "university": "55.37935694"
+    },
+    {
+        "country": "México",
+        "cohort": "1990",
+        "nonUniversity": "19.57603959",
+        "university": "61.30206726"
+    },
+    {
+        "country": "México",
+        "cohort": "1991",
+        "nonUniversity": "18.41191204",
+        "university": "54.23144518"
+    },
+    {
+        "country": "Nicarágua",
+        "cohort": "1946",
+        "nonUniversity": "3.68852459",
+        "university": "16.66666667"
+    },
+    {
+        "country": "Nicarágua",
+        "cohort": "1947",
+        "nonUniversity": "2.166064982",
+        "university": "0"
+    },
+    {
+        "country": "Nicarágua",
+        "cohort": "1970",
+        "nonUniversity": "7.934508816",
+        "university": "25.86206897"
+    },
+    {
+        "country": "Nicarágua",
+        "cohort": "1971",
+        "nonUniversity": "6.310160428",
+        "university": "39.43661972"
+    },
+    {
+        "country": "Nicarágua",
+        "cohort": "1980",
+        "nonUniversity": "13.11311311",
+        "university": "55.24861878"
+    },
+    {
+        "country": "Nicarágua",
+        "cohort": "1981",
+        "nonUniversity": "14.88616462",
+        "university": "47.00854701"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1935",
+        "nonUniversity": "4.597701149",
+        "university": "0"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1936",
+        "nonUniversity": "9.183673469",
+        "university": "0"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1945",
+        "nonUniversity": "5.241935484",
+        "university": "54.54545455"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1946",
+        "nonUniversity": "4.560260586",
+        "university": "26.66666667"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1955",
+        "nonUniversity": "12.86307054",
+        "university": "30.43478261"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1956",
+        "nonUniversity": "10.71428571",
+        "university": "34.69387755"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1965",
+        "nonUniversity": "13.81294964",
+        "university": "39.74358974"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1966",
+        "nonUniversity": "10.37613489",
+        "university": "44.08602151"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1975",
+        "nonUniversity": "15.50190597",
+        "university": "53.16455696"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1976",
+        "nonUniversity": "13.24422843",
+        "university": "49.73262032"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1985",
+        "nonUniversity": "19.08177905",
+        "university": "52.67489712"
+    },
+    {
+        "country": "Panamá",
+        "cohort": "1986",
+        "nonUniversity": "16.19537275",
+        "university": "48.17813765"
+    },
+    {
+        "country": "Peru",
+        "cohort": "1968",
+        "nonUniversity": "8.599329544",
+        "university": "26.00422833"
+    },
+    {
+        "country": "Peru",
+        "cohort": "1969",
+        "nonUniversity": "6.683564568",
+        "university": "22.87282708"
+    },
+    {
+        "country": "Peru",
+        "cohort": "1982",
+        "nonUniversity": "12.89772727",
+        "university": "36.76333022"
+    },
+    {
+        "country": "Peru",
+        "cohort": "1983",
+        "nonUniversity": "9.323623524",
+        "university": "31.88137164"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1955",
+        "nonUniversity": "14.42687747",
+        "university": "53.57142857"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1956",
+        "nonUniversity": "14.67741935",
+        "university": "50"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1965",
+        "nonUniversity": "17.63497104",
+        "university": "55.25846702"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1966",
+        "nonUniversity": "14.0874036",
+        "university": "41.53846154"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1975",
+        "nonUniversity": "21.17326258",
+        "university": "45.96456693"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1976",
+        "nonUniversity": "17.51435603",
+        "university": "42.94413556"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1980",
+        "nonUniversity": "25.20643723",
+        "university": "47.93019481"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1981",
+        "nonUniversity": "16.69948583",
+        "university": "50.46395432"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1985",
+        "nonUniversity": "13.49290545",
+        "university": "36.10943472"
+    },
+    {
+        "country": "Porto Rico",
+        "cohort": "1986",
+        "nonUniversity": "21.60837876",
+        "university": "31.54141525"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1937",
+        "nonUniversity": "2.43902439",
+        "university": "33.33333333"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1938",
+        "nonUniversity": "3.424657534",
+        "university": "0"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1947",
+        "nonUniversity": "7.045454545",
+        "university": "33.33333333"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1948",
+        "nonUniversity": "4.956896552",
+        "university": "40.90909091"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1957",
+        "nonUniversity": "7.571428571",
+        "university": "30.3030303"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1958",
+        "nonUniversity": "6.324582339",
+        "university": "39.28571429"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1967",
+        "nonUniversity": "6.225680934",
+        "university": "46.57534247"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1968",
+        "nonUniversity": "6.643757159",
+        "university": "44.61538462"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1977",
+        "nonUniversity": "10.5258656",
+        "university": "50.24280145"
+    },
+    {
+        "country": "Paraguai",
+        "cohort": "1978",
+        "nonUniversity": "9.564330711",
+        "university": "45.40400326"
+    },
+    {
+        "country": "El Salvador",
+        "cohort": "1967",
+        "nonUniversity": "9.60960961",
+        "university": "51.42857143"
+    },
+    {
+        "country": "El Salvador",
+        "cohort": "1968",
+        "nonUniversity": "8.469945355",
+        "university": "22"
+    },
+    {
+        "country": "El Salvador",
+        "cohort": "1982",
+        "nonUniversity": "14.62450593",
+        "university": "47.22222222"
+    },
+    {
+        "country": "El Salvador",
+        "cohort": "1983",
+        "nonUniversity": "14.0625",
+        "university": "40"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1955",
+        "nonUniversity": "1.632653061",
+        "university": "55.55555556"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1956",
+        "nonUniversity": "0.847457627",
+        "university": "22.22222222"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1965",
+        "nonUniversity": "1.85348632",
+        "university": "0"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1966",
+        "nonUniversity": "1.073492981",
+        "university": "11.11111111"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1975",
+        "nonUniversity": "3.983656793",
+        "university": "33.33333333"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1976",
+        "nonUniversity": "1.395348837",
+        "university": "22.22222222"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1986",
+        "nonUniversity": "6.916426513",
+        "university": "30.26315789"
+    },
+    {
+        "country": "T&T",
+        "cohort": "1987",
+        "nonUniversity": "7.207837649",
+        "university": "22.07792208"
+    },
+    {
+        "country": "Uruguai",
+        "cohort": "1960",
+        "nonUniversity": "1.587301587",
+        "university": "5.555555556"
+    },
+    {
+        "country": "Uruguai",
+        "cohort": "1961",
+        "nonUniversity": "1.990049751",
+        "university": "5"
+    },
+    {
+        "country": "Uruguai",
+        "cohort": "1971",
+        "nonUniversity": "6.496519722",
+        "university": "29.62962963"
+    },
+    {
+        "country": "Uruguai",
+        "cohort": "1972",
+        "nonUniversity": "3.118040089",
+        "university": "37.5"
+    },
+    {
+        "country": "Uruguai",
+        "cohort": "1986",
+        "nonUniversity": "2.964959569",
+        "university": "11.84210526"
+    },
+    {
+        "country": "Uruguai",
+        "cohort": "1987",
+        "nonUniversity": "2.739726027",
+        "university": "11.11111111"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1946",
+        "nonUniversity": "2.056776414",
+        "university": "19.37984496"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1947",
+        "nonUniversity": "1.70178282",
+        "university": "17.35294118"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1956",
+        "nonUniversity": "7.092772384",
+        "university": "31.74603175"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1957",
+        "nonUniversity": "4.820126969",
+        "university": "27.30923695"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1965",
+        "nonUniversity": "7.467652495",
+        "university": "28.59327217"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1966",
+        "nonUniversity": "6.194849631",
+        "university": "19.97327989"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1976",
+        "nonUniversity": "6.721014493",
+        "university": "23.11827957"
+    },
+    {
+        "country": "Venezuela",
+        "cohort": "1977",
+        "nonUniversity": "5.377373544",
+        "university": "20.70588235"
+    }
+]
